@@ -267,6 +267,12 @@
 
 [Swift Object Recognition](https://www.notion.so/Swift-Object-Recognition-0a49b97cafef4931877c0ba1ac681db3)
 
+[Swift NLP using twitter, project](https://www.notion.so/Swift-NLP-using-twitter-project-6062c88e56b94f9483e46cc98a40ee24)
+
+[Swift NLP Twitter, Swift project](https://www.notion.so/NLP-Twitter-swift-project-3181ca18f91044549bcbd580642110c3)
+
+[NLP, playground 이용해서 mlmodel 만들기](https://www.notion.so/NLP-playground-NLP-mlmodel-fe7c31be4f044ed2a66ea9e76a54ecfa)
+
 # Animation
 
 [Fade in, Fade out animation swift ](https://www.notion.so/Fade-in-Fade-out-animation-swift-a65864c6fecb4fed84f2f4ad127226bf)
@@ -408,6 +414,8 @@
 
 [Kakaotlak Login - iOS](https://www.notion.so/Kakaotlak-Login-iOS-94f94f744cf9413492794cac6b49ff2d)
 
+[Twitter API 사용](https://www.notion.so/Twitter-API-45848a0767874bde8599f6c5c92283af)
+
 # Function
 
 [Swift Logout](https://www.notion.so/Swift-Logout-e678a2fa3845471e9d0481c3da94b03c)
@@ -416,6 +424,14 @@
 # Extra Info
 
 [ios - OS Market Share](https://www.notion.so/ios-OS-Market-Share-6e2b2a584e174975be10d6ed656f29d6)
+
+# Implementation 
+
+[ios framework 외부에서 가져다 쓰는 방법](https://www.notion.so/ios-framework-58d62c6b155a467aa456c1091a065639)
+
+# Security
+
+[ios Seceret key 보관법](https://www.notion.so/Swift-Secret-Key-8aacf349866849298649da29d15bf71d)
 
 # Lecture
 
