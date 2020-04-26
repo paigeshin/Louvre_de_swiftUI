@@ -26,6 +26,8 @@
 
 # Layout
 
+[Tabbar 이미지로 아이콘 지정하기](https://www.notion.so/tabbar-icon-image-d8b054d7fc6241d3ae72234748b27373)
+
 [Swift itemview example](https://www.notion.so/Swift-itemview-example-2b896c0a9fc84c03beb67d161fb61062)
 
 [UITableViewCell, View Controller](https://www.notion.so/UITableViewCell-View-Controller-4e253a06a9f74b85a0565806ecb38f54)
@@ -106,6 +108,8 @@
 
 # System
 
+[info.plist file 읽어오기](https://www.notion.so/info-plist-4e3c493c908f4b81a761c4857294499a)
+
 [iOS Location Manager](https://www.notion.so/iOS-Location-Manager-6279c3ae3117449fa8cc045592547400)
 
 [iOS 언어 추가](https://www.notion.so/iOS-200adcf60e584c598aaee1cc3eb3369b)
@@ -168,6 +172,8 @@
 
 [iOS timer](https://www.notion.so/iOS-timer-a57537eaf26d4cb1a59df29cc70a367e)
 
+
+
 # TextField
 
 [swift textfield 선택은 되지만 유저가 값 못넣게 막기](https://www.notion.so/swift-textfield-0c6542acd23b4791b61b993406a27eea)
@@ -221,6 +227,8 @@
 [Realm Data 정의 with list, swift](https://www.notion.so/Realm-data-with-list-swift-efa79c02947a4089831f7c18fec41345)
 
 [Swift RealmMapping](https://www.notion.so/Swift-Realm-Mapping-c7367b2983454d28879e3e104fd33379)
+
+[Realm Data Update](https://www.notion.so/Realm-Update-Object-996004ba14ce4724aa9bd8ea470731cd)
 
 # Data
 
