@@ -220,6 +220,8 @@
 
 [Realm Data 정의 with list, swift](https://www.notion.so/Realm-data-with-list-swift-efa79c02947a4089831f7c18fec41345)
 
+[Swift RealmMapping](https://www.notion.so/Swift-Realm-Mapping-c7367b2983454d28879e3e104fd33379)
+
 # Data
 
 [Swift local json Reading](https://www.notion.so/swift-local-json-reading-0ca73d9457f44e5eb05d5ac76930bf18)
@@ -432,6 +434,10 @@
 # Security
 
 [ios Seceret key 보관법](https://www.notion.so/Swift-Secret-Key-8aacf349866849298649da29d15bf71d)
+
+# AR 
+
+[Swift ARDicee Project](https://www.notion.so/Swift-ARDicee-Proejct-cfdcd3e7d2af457cae492cc34d4b1899)
 
 # Lecture
 
