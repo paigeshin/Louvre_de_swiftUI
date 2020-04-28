@@ -3,6 +3,8 @@
 
 # Network
 
+[Alamofire + Swifty Json](https://www.notion.so/Alamofire-Swifty-Json-c7e84128e990474aa2a739c508f9cc88)
+
 [MyNetworkModule](https://www.notion.so/MyNetwork-Module-swift-5daf88e1089943d9af41f52d66327137)
 
 [Swift network service, promisekit, objectmapper, alamofire](https://www.notion.so/Swift-network-service-promisekit-objectmapper-alamofire-06c1c65c760a42349868b9068b20b5f3)
@@ -17,6 +19,8 @@
 
 [Swift URL Session Code Example](https://www.notion.so/Swift-URL-Session-Code-Sample-854142d3b3d741f2b897a27aa6510f8d)
 
+[af.setImage](https://www.notion.so/af-setImage-e98fec4a57474a5398e6821e9ccd1b70)
+
 # Time
 
 [Time Module](https://www.notion.so/Time-Module-8029e1a1adb94ec4a290ab2e88bb0ac8)
@@ -25,6 +29,10 @@
 
 
 # Layout
+
+[Collectionview paging 안하고 자유자재로 control 하는 방법](https://www.notion.so/Collectionview-paging-control-c165d4144fd54ba88e25a4511aaefd6d)
+
+[Swift Empty Color Image 만들기](https://www.notion.so/Swift-Empty-Color-Image-ac6ce2c1891141f9b02d54fc54db76c8)
 
 [Tabbar 이미지로 아이콘 지정하기](https://www.notion.so/tabbar-icon-image-d8b054d7fc6241d3ae72234748b27373)
 
@@ -108,6 +116,8 @@
 
 # System
 
+[Timer, invalidate, swift ](https://www.notion.so/Timer-invalidate-swift-05d52621256b45d1b580f349d168e693)
+
 [info.plist file 읽어오기](https://www.notion.so/info-plist-4e3c493c908f4b81a761c4857294499a)
 
 [iOS Location Manager](https://www.notion.so/iOS-Location-Manager-6279c3ae3117449fa8cc045592547400)
@@ -184,6 +194,12 @@
 
 # Audio & Video
 
+[Swift Video View Component](https://www.notion.so/Swift-Video-View-Component-33122dbba6064e1e9055139e9373cc33)
+
+[Swift background streaming music player 구현 ](https://www.notion.so/Swift-background-streaming-music-player-bdccf8fac54b4aba8b8020055cac95dc)
+
+[AVPlayer, understand how to get the duration of the song](https://www.notion.so/AVPlayer-understand-how-to-get-the-duration-of-the-song-0739238f0a994709ae79f3c1cf0f8f2a)
+
 [Swift, background audio player](https://www.notion.so/Swift-background-audio-player-77bb33e7e16d4f67a082d0a9b7d327aa)
 
 [swift File URL 가져오고 안에 content 가져오기](https://www.notion.so/swift-File-URL-content-52a778bf7c974c2a80aa68ab4ccc31fa)
@@ -199,6 +215,8 @@
 [Swift request notification center ](https://www.notion.so/Swift-request-notification-center-453528df9d0e474482dded577be07f4a)
 
 [iOS play sound ](https://www.notion.so/iOS-play-sound-caf4dfc812d64d849a52fe8cc18ea676)
+
+[AVplayer 특정 value로부터 시작하는 법](https://www.notion.so/AVplayer-value-b962c470b0de4d8f99be5925476cbfa6)
 
 # Data Persistence
 
@@ -248,6 +266,8 @@
 [iOS cloud messaging](https://www.notion.so/iOS-cloud-messaging-06597168ec1443b4ace3e85bd06460c9)
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Swift Video View Component](https://www.notion.so/Swift-Video-View-Component-33122dbba6064e1e9055139e9373cc33)
 
 [Swift Custom Loader](https://www.notion.so/Swift-Custom-Loader-a7dd90fa779d4a60bf9b6b9359fe9f8b)
 
@@ -316,6 +336,10 @@
 [iOS Object Mapper 사용법](https://www.notion.so/iOS-Object-Mapper-ca01ca4e7acf400c9849f7e5eaa1fb37)
 
 [iOS open source](https://www.notion.so/iOS-open-source-4211c39f11e044e38ab5dd5f6432269d)
+
+[Alamofire + Swifty Json](https://www.notion.so/Alamofire-Swifty-Json-c7e84128e990474aa2a739c508f9cc88)
+
+[af.setImage](https://www.notion.so/af-setImage-e98fec4a57474a5398e6821e9ccd1b70)
 
 # Share
 
@@ -409,6 +433,8 @@
 (upperValue) user defined inspected property](https://www.notion.so/swift-Failed-to-set-upperValue-user-defined-inspected-property-64aec08a2d2844e4abf37ab856ec806a)
 
 [Swift layout unhelpful limitations debugging](https://www.notion.so/Swift-layout-unhelpful-limitations-debugging-2f578325dc9346b1a6ccaf699a8ce47c)
+
+[Attempting to set a slider's minimumValue to be larger than the maximum value error 해결](https://www.notion.so/Attempting-to-set-a-slider-s-minimumValue-to-be-larger-than-the-maximum-value-error-51b927c8a90f41f5a883e98afbee92fa)
 
 # Exterioer API
 
