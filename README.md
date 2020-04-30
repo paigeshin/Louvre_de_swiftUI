@@ -27,6 +27,8 @@
 
 [Swift Timestamp](https://www.notion.so/swift-timestamp-65f99a2b40ed4c99bf31082777ea058e)
 
+[Swift converted time, from seconds to text](https://www.notion.so/Swift-converted-time-from-seconds-to-text-13e76fd3186b4345aee9adaa0350abdc)
+
 
 # Layout
 
@@ -192,7 +194,13 @@
 
 [TextField Delegate](https://www.notion.so/TextField-Delegate-1abb38e40ebe407f8ac8be22e6d1ab4c)
 
+# 삽질 - 적어도 3시간 이상 해매인 것들만 적는다
+
+[swift image 삽질 교훈 ](https://www.notion.so/swift-image-35464382542149289ee5ffbde01cc4e1)
+
 # Audio & Video
+
+[AVPlayer nil값으로 초기화 하는 이유 ](https://www.notion.so/AVPlayer-nil-527fa32091c54f23b6b1743db10b881e)
 
 [Swift Video View Component](https://www.notion.so/Swift-Video-View-Component-33122dbba6064e1e9055139e9373cc33)
 
@@ -288,6 +296,8 @@
 [swift custom view using UIView](https://www.notion.so/swift-custom-view-using-UIView-65900b1f95eb48e6ae03b43681ea55cc)
 
 # Machine Learning
+
+[Swift flower recognition](https://www.notion.so/swift-flower-recognition-3753b2f5eabc491e8fdf051de0ea968c)
 
 [Swift make your own mlmodel with data set](https://www.notion.so/Swift-make-your-own-mlmodel-with-data-set-450143c61b9f43278f3e168aa3695425)
 
@@ -426,6 +436,10 @@
 [Send data to the database ios firebase](https://www.notion.so/Send-data-to-the-database-ios-firebase-00d4496395234944826baaaa0f9a39ae)
 
 # Debugging
+
+[Collectionview, debugging, the item width must be less than the width of the uICollectionView...](https://www.notion.so/Collectionview-debugging-the-item-width-must-be-less-than-the-width-of-the-uICollectionView-4f1842fc0bc145e887bf3500f29ce9de)
+
+[ios app이 죽었을 때 함수가 호출되는 버그 ](https://www.notion.so/ios-app-aada8591f7ac4ab1a8790d7ffc483cf4)
 
 [https://www.notion.so/Debugging-Swift-no-factory-registered-a8101db75a574924bca36ae137916f12](https://www.notion.so/Debugging-Swift-no-factory-registered-a8101db75a574924bca36ae137916f12)
 
