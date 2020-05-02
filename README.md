@@ -32,6 +32,18 @@
 
 # Layout
 
+[Swift segment control, ContainerView 이용하여 만드는 방법 ](https://www.notion.so/Swift-segment-control-ContainerView-6cc9f1b319fc4b9babb85453e8ad01bf)
+
+[tabbar 숨겼을 때 빈공간이 남았을 때 해결방법](https://www.notion.so/tabbar-f1ddaad1aaf54a12976de1ba58365daf)
+
+[Dynamic cell에서 정확한 contentsize 구하는 방법](https://www.notion.so/Dynamic-cell-contentsize-4cca3afc5cee4868b47f659cb01878a0)
+
+[Dynamic self-sizing tableview 만드는 방법](https://www.notion.so/Dynamic-self-sizing-tableview-88966c0dae064b8c84b72b95644b1630)
+
+[tableview 일정한 크기로 사용하는 방법 ](https://www.notion.so/tableview-4b6919700be04906b880c730c4e9b171)
+
+[Segment Control embed view에다가 navigation controller 붙였을 때 밑에 이상한 여백 남을 때 해결 방법 ](https://www.notion.so/Segment-Control-embed-view-navigation-controller-b6f7120743ef4c73a8b917a426238196)
+
 [Collectionview paging 안하고 자유자재로 control 하는 방법](https://www.notion.so/Collectionview-paging-control-c165d4144fd54ba88e25a4511aaefd6d)
 
 [Swift Empty Color Image 만들기](https://www.notion.so/Swift-Empty-Color-Image-ac6ce2c1891141f9b02d54fc54db76c8)
@@ -407,6 +419,8 @@
 
 [iOS 카메라 & 앨범 열기 및 사진 설정 ](https://www.notion.so/iOS-62ff1ea7052f494588876f4cc81acc50)
 
+[swift image 삽질 교훈 ](https://www.notion.so/swift-image-35464382542149289ee5ffbde01cc4e1)
+
 # Firebase
 
 [swift - Firestore, Like functionality](https://www.notion.so/swift-Firestore-Like-functionality-7e419ba58cd749e58e29023018e55a51)
@@ -436,6 +450,18 @@
 [Send data to the database ios firebase](https://www.notion.so/Send-data-to-the-database-ios-firebase-00d4496395234944826baaaa0f9a39ae)
 
 # Debugging
+
+[Swift segment control, ContainerView 이용하여 만드는 방법 ](https://www.notion.so/Swift-segment-control-ContainerView-6cc9f1b319fc4b9babb85453e8ad01bf)
+
+[tabbar 숨겼을 때 빈공간이 남았을 때 해결방법](https://www.notion.so/tabbar-f1ddaad1aaf54a12976de1ba58365daf)
+
+[Dynamic cell에서 정확한 contentsize 구하는 방법](https://www.notion.so/Dynamic-cell-contentsize-4cca3afc5cee4868b47f659cb01878a0)
+
+[Dynamic self-sizing tableview 만드는 방법](https://www.notion.so/Dynamic-self-sizing-tableview-88966c0dae064b8c84b72b95644b1630)
+
+[tableview 일정한 크기로 사용하는 방법 ](https://www.notion.so/tableview-4b6919700be04906b880c730c4e9b171)
+
+[Segment Control embed view에다가 navigation controller 붙였을 때 밑에 이상한 여백 남을 때 해결 방법 ](https://www.notion.so/Segment-Control-embed-view-navigation-controller-b6f7120743ef4c73a8b917a426238196)
 
 [Collectionview, debugging, the item width must be less than the width of the uICollectionView...](https://www.notion.so/Collectionview-debugging-the-item-width-must-be-less-than-the-width-of-the-uICollectionView-4f1842fc0bc145e887bf3500f29ce9de)
 
