@@ -527,6 +527,10 @@
 
 [Swift ARDicee Project](https://www.notion.so/Swift-ARDicee-Proejct-cfdcd3e7d2af457cae492cc34d4b1899)
 
+# Business
+
+[How to submit your app](https://www.notion.so/How-to-Publish-your-ios-App-into-App-store-1573af79f41a485b9e288ef1a60b36fe)
+
 # Lecture
 
 [Swift Bootcamp](https://www.notion.so/Swift5-Bootcamp-ea57119f243546bb934ec1d477264f50)
@@ -537,3 +541,4 @@
 
 [Swift Autolayout Programatically](https://www.notion.so/Swift-Autolayout-Programatically-5d55f2d2b52341c8ba98b98d49505fdc)
 
+[Swift ARKit, Mostly SceneKit](https://www.notion.so/Swift-ARkit-70f68a2344bf4ae68b27708fbb797fff)
