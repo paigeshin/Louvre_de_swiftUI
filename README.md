@@ -146,6 +146,8 @@
 
 # System
 
+[Navigation Controller 화면 control하기](https://www.notion.so/Navigation-Controller-view-ee03c0bd2c5a418ba3dd0275b060058f)
+
 [Timer, invalidate, swift ](https://www.notion.so/Timer-invalidate-swift-05d52621256b45d1b580f349d168e693)
 
 [info.plist file 읽어오기](https://www.notion.so/info-plist-4e3c493c908f4b81a761c4857294499a)
@@ -343,6 +345,8 @@
 
 # Animation
 
+[How to use Lottie](https://www.notion.so/Swift-Lottie-Basic-Usage-43fa6a1b083e42e588c9c77a9692a22b)
+
 [Fade in, Fade out animation swift ](https://www.notion.so/Fade-in-Fade-out-animation-swift-a65864c6fecb4fed84f2f4ad127226bf)
 
 [Swift animation callback](https://www.notion.so/Swift-animation-callback-cd9386fa0dc54ba59bbea5bf989e3867)
@@ -362,6 +366,8 @@
 [Swift String handling](https://www.notion.so/Swift-String-handling-19f0bfe533d9437bb1ea1dbcba00868c)
 
 # Swift Library
+
+[How to use Lottie](https://www.notion.so/Swift-Lottie-Basic-Usage-43fa6a1b083e42e588c9c77a9692a22b)
 
 [Swift, Alamofire multipart form data ](https://www.notion.so/Swift-Alamofire-multipart-form-data-8cabb934a07848c5bc0304a3a19599a6)
 
