@@ -234,6 +234,8 @@
 
 # Audio & Video
 
+[Swift Toast](https://www.notion.so/Swift-Toast-47cadb12d880422e9573dde64e8453a7)
+
 [AVPlayer nil값으로 초기화 하는 이유 ](https://www.notion.so/AVPlayer-nil-527fa32091c54f23b6b1743db10b881e)
 
 [Swift Video View Component](https://www.notion.so/Swift-Video-View-Component-33122dbba6064e1e9055139e9373cc33)
