@@ -36,6 +36,18 @@
 
 # Layout
 
+[swift textfield add padding ](https://www.notion.so/swift-textfield-add-padding-af219b995eb147f19b593f1d1f35a31b)
+
+[swift, onSliderValueChanged](https://www.notion.so/swift-onSliderValueChanged-88756cda8f4444e684d44d85e6a7ba1d)
+
+[Swift, 특정 gesture recognizer에서 view 취소하기 - gestureDelegate 이용함](https://www.notion.so/Swift-gesture-recognizer-view-ba7376a15a0c426ca0741070a89c51fe)
+
+[Swift, Basic Shadow](https://www.notion.so/Swift-Basic-Shadow-bc17bd5661be4bf8b62e2eb7d923919f)
+
+[Swift, highlightText + lineSpacing](https://www.notion.so/Swift-highlightText-lineSpacing-e12de86a02fb4774ba9b6ac7b5af7b26)
+
+[Swift linespacing](https://www.notion.so/Swift-linespacing-4f688479cd7d4e7ebdfb0200464ca522)
+
 [swift textfield add padding](https://www.notion.so/swift-textfield-add-padding-af219b995eb147f19b593f1d1f35a31b)
 
 [Constraint Multiplier로 바꾸기](https://www.notion.so/swift-Constraint-Multiplier-a91407e74b8241488d24335e2b3cadf0)
