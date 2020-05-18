@@ -413,6 +413,8 @@
 
 [af.setImage](https://www.notion.so/af-setImage-e98fec4a57474a5398e6821e9ccd1b70)
 
+[Pod Multiple Target](https://www.notion.so/Pod-Multiple-Target-7a53caa127ae48b19db0903ecb9b3867)
+
 # Share
 
 [ios app extension: Data Sharing](https://www.notion.so/ios-app-extension-Data-Sharing-25a5ad03dece451c8c319a5b9da5f904)
@@ -574,6 +576,13 @@
 # Business
 
 [How to submit your app](https://www.notion.so/How-to-Publish-your-ios-App-into-App-store-1573af79f41a485b9e288ef1a60b36fe)
+
+[Google ad - ios ](https://www.notion.so/Google-ad-ios-17ea831224dd4008948e0de4e52d1605)
+
+# Extension
+
+[Swift Advanced Today Extension](https://www.notion.so/Swift-Advanced-Today-Extension-6b31b4a5f5754121a1d570a580648db5)
+
 
 # Service 
 
