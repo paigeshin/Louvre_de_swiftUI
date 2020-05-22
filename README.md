@@ -164,6 +164,8 @@
 
 # System
 
+[Dark Mode Disable](https://www.notion.so/Dark-Mode-Disable-swift-9dff432bdacd4dcbb0f0745783ed7b19)
+
 [Navigation Controller 화면 control하기](https://www.notion.so/Navigation-Controller-view-ee03c0bd2c5a418ba3dd0275b060058f)
 
 [Timer, invalidate, swift ](https://www.notion.so/Timer-invalidate-swift-05d52621256b45d1b580f349d168e693)
@@ -247,6 +249,8 @@
 [swift image 삽질 교훈 ](https://www.notion.so/swift-image-35464382542149289ee5ffbde01cc4e1)
 
 # Audio & Video
+
+[Local 비디오 실행하기](https://www.notion.so/ios-Local-Video-783c1de7578546a38ae067f4c314885d)
 
 [Swift Toast](https://www.notion.so/Swift-Toast-47cadb12d880422e9573dde64e8453a7)
 
@@ -415,6 +419,7 @@
 
 [Pod Multiple Target](https://www.notion.so/Pod-Multiple-Target-7a53caa127ae48b19db0903ecb9b3867)
 
+
 # Share
 
 [ios app extension: Data Sharing](https://www.notion.so/ios-app-extension-Data-Sharing-25a5ad03dece451c8c319a5b9da5f904)
@@ -536,6 +541,8 @@
 
 [Attempting to set a slider's minimumValue to be larger than the maximum value error 해결](https://www.notion.so/Attempting-to-set-a-slider-s-minimumValue-to-be-larger-than-the-maximum-value-error-51b927c8a90f41f5a883e98afbee92fa)
 
+[Pod Embedded Swift Standard Libraries](https://www.notion.so/Pod-Embedded-Swift-Standard-Libraries-Bug-0800a23ad2394dd59c8b0cb288cec0d8)
+
 # Exterioer API
 
 [naver login](https://www.notion.so/ios-naver-login-a0338c3f316f4c4485c8458392d488a9)
@@ -600,4 +607,8 @@
 
 [Swift ARKit, Mostly SceneKit](https://www.notion.so/Swift-ARkit-70f68a2344bf4ae68b27708fbb797fff)
 
+
+# xCode
+
+[xCode Uses Seperate Tabs](https://www.notion.so/xCode-Uses-Seperate-Tab-15c6fa878a9c42cc8e4ee8e00676bdc8)
 
