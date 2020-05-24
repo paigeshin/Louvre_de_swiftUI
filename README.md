@@ -33,8 +33,14 @@
 
 [Swift converted time, from seconds to text](https://www.notion.so/Swift-converted-time-from-seconds-to-text-13e76fd3186b4345aee9adaa0350abdc)
 
+[ISO 시간 받아서 converting하기](https://www.notion.so/Swift-iso-time-converting-80a497f688a8429caa898c830fe38189)
+
 
 # Layout
+
+[Swuft tableView 마지막 cell일 때 line 제거](https://www.notion.so/tableview-cell-cell-line-618f234752934242a2e1063d3e1c8aa8)
+
+[Blur Effect](https://www.notion.so/Swift-add-blur-effect-e11227e8f6d448b08bb8a802c95e76b6)
 
 [swift textfield add padding ](https://www.notion.so/swift-textfield-add-padding-af219b995eb147f19b593f1d1f35a31b)
 
