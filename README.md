@@ -27,6 +27,8 @@
 
 # Time
 
+[Swift iso time 받아서 converting 하기 ](https://www.notion.so/Swift-iso-time-converting-80a497f688a8429caa898c830fe38189)
+
 [Time Module](https://www.notion.so/Time-Module-8029e1a1adb94ec4a290ab2e88bb0ac8)
 
 [Swift Timestamp](https://www.notion.so/swift-timestamp-65f99a2b40ed4c99bf31082777ea058e)
@@ -37,6 +39,18 @@
 
 
 # Layout
+
+[Swift, add blur effect](https://www.notion.so/Swift-add-blur-effect-e11227e8f6d448b08bb8a802c95e76b6)
+
+[tableview cell 마지막 cell일 때 line 없애주기 ](https://www.notion.so/tableview-cell-cell-line-618f234752934242a2e1063d3e1c8aa8)
+
+[Splash](https://www.notion.so/Swift-splash-dfbb7ed73a444b05b0bb8ee232dbb45e)
+
+[tableView reusability때문에 고생중이라면..](https://www.notion.so/tableView-reusability-70c7e4d4a19b4543ac5b37ce6227c958)
+
+[Swift tableview, collectionview, redraw without reloading](https://www.notion.so/Swift-tableview-collectionview-redraw-without-reloading-0a1254954ade4019824d5889af0f3eda)
+
+[swift UIViewcOntroller isBeingDismissed](https://www.notion.so/swift-UIViewcOntroller-isBeingDismissed-4df6279fabd44d0897de762fbcc8958a)
 
 [Swuft tableView 마지막 cell일 때 line 제거](https://www.notion.so/tableview-cell-cell-line-618f234752934242a2e1063d3e1c8aa8)
 
@@ -250,11 +264,17 @@
 
 [TextField Delegate](https://www.notion.so/TextField-Delegate-1abb38e40ebe407f8ac8be22e6d1ab4c)
 
+[Swift Limit textfield character length](https://www.notion.so/Swift-Limit-textfield-character-length-e9171912f5c44fbba520fd9ee274771b)
+
 # 삽질 - 적어도 3시간 이상 해매인 것들만 적는다
 
 [swift image 삽질 교훈 ](https://www.notion.so/swift-image-35464382542149289ee5ffbde01cc4e1)
 
 # Audio & Video
+
+[Swift music player clean logic](https://www.notion.so/Swift-music-player-clean-logic-99e26a0a173545c1a988c949618fd7fa)
+
+[Swift AVPlayer 최적화](https://www.notion.so/Swift-AVPlayer-456f01cd588c4ac9bc3219e5b9a769e1)
 
 [Local 비디오 실행하기](https://www.notion.so/ios-Local-Video-783c1de7578546a38ae067f4c314885d)
 
@@ -484,6 +504,8 @@
 
 # Image
 
+[Swift image fix orientation](https://www.notion.so/Swift-image-fix-orientation-5afe766884a7428b8c5a8b3fe08694cc)
+
 [image Picker Controller Simplified](https://www.notion.so/image-Picker-Controller-Simplified-01f74ce608a645e8b7b7eafd6cc6dcf4)
 
 [UIView background image 넣기 ](https://www.notion.so/UIView-background-image-c35096af49c74c719469cb3f8a5fa905)
@@ -491,6 +513,10 @@
 [iOS 카메라 & 앨범 열기 및 사진 설정 ](https://www.notion.so/iOS-62ff1ea7052f494588876f4cc81acc50)
 
 [swift image 삽질 교훈 ](https://www.notion.so/swift-image-35464382542149289ee5ffbde01cc4e1)
+
+# Git 활용법
+
+[git version control with branch](https://www.notion.so/git-with-branch-d0da477266904138b779d9344f948ec1)
 
 # Firebase
 
