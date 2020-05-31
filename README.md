@@ -308,6 +308,8 @@
 
 # Data Persistence
 
+[Realm index bug 수정하는 방법](https://www.notion.so/Realm-Debugging-index-0-is-not-17cc32c75a724de0ab3a919168db7310)
+
 [UserDefaults](https://www.notion.so/Swift-userDefault-7a5290fa500e4ae995e5e4b7d9996ec2)
 
 [NSEncoder local data persistence](https://www.notion.so/NSEncoder-local-data-persistence-Swift-6eb33505664a4dcd91bfeae87c4098c8)
@@ -412,6 +414,8 @@
 [Swift Animation with Loop](https://www.notion.so/Swift-Animation-with-Loop-8947c06eb9bb4493a6c8638a08d1a2df)
 
 # String
+
+[Swift 중간 중간 character appending](https://www.notion.so/Realm-Debugging-index-0-is-not-17cc32c75a724de0ab3a919168db7310)
 
 [Swift String handling](https://www.notion.so/Swift-String-handling-19f0bfe533d9437bb1ea1dbcba00868c)
 
