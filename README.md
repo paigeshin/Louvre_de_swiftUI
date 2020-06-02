@@ -40,6 +40,11 @@
 
 # Layout
 
+
+[pickerview 값 선택 지정하게 하기 ](https://www.notion.so/pickerview-4a3bf852873b45cca7c1c9a6fa53bf4b)
+
+[Swift, shadow](https://www.notion.so/Swift-shadow-0979d9f1d972478b9b963122a9462e69)
+
 [Swift, add blur effect](https://www.notion.so/Swift-add-blur-effect-e11227e8f6d448b08bb8a802c95e76b6)
 
 [tableview cell 마지막 cell일 때 line 없애주기 ](https://www.notion.so/tableview-cell-cell-line-618f234752934242a2e1063d3e1c8aa8)
@@ -73,6 +78,8 @@
 [Constraint Multiplier로 바꾸기](https://www.notion.so/swift-Constraint-Multiplier-a91407e74b8241488d24335e2b3cadf0)
 
 [Swift segment control, ContainerView 이용하여 만드는 방법 ](https://www.notion.so/Swift-segment-control-ContainerView-6cc9f1b319fc4b9babb85453e8ad01bf)
+
+[Swift Segment Control, Change font size](https://www.notion.so/Swift-Segment-Control-Change-font-size-174b31e7d04f4d0c9c5cb988eb0c8c75)
 
 [tableview, collectionview superclass](https://www.notion.so/tableview-collectionview-superclass-8036a01f65f547908fa027a6b6496121)
 
@@ -183,6 +190,8 @@
 [AR Swift Dicee](https://www.notion.so/AR-Swift-Dicee-65b59a9b0c2b4092bddbb70ebafa148e)
 
 # System
+
+[Swift Device Type Constants](https://www.notion.so/Swift-Device-Type-b057d88852554db2813a329e8c163ad4)
 
 [Dark Mode Disable](https://www.notion.so/Dark-Mode-Disable-swift-9dff432bdacd4dcbb0f0745783ed7b19)
 
@@ -477,6 +486,8 @@
 [Custom URL Scheme](https://www.notion.so/Custom-URL-Scheme-d0960c0a90524b1392950042a56d580b)
 
 # Swift Grammar
+
+[Swift Array Sorting](https://www.notion.so/Swift-array-sorting-0befc28c88de49e9a823dffe39c296b1)
 
 [Swift Equatable](https://www.notion.so/Swift-Equatable-1d4593157f2c4ef2b530f1f5e77878c5)
 
