@@ -40,6 +40,7 @@
 
 # Layout
 
+[Disable user interaction except for some view](https://www.notion.so/Swift-disable-user-interaction-except-for-some-views-17b91762665b449581ddd5e4c25aa67d)
 
 [pickerview 값 선택 지정하게 하기 ](https://www.notion.so/pickerview-4a3bf852873b45cca7c1c9a6fa53bf4b)
 
@@ -281,6 +282,8 @@
 
 # Audio & Video
 
+[Get Audio Input value](https://www.notion.so/Swift-get-audio-record-input-value-5ec2dfb22218435fa4e7f86e17153b66)
+
 [Swift music player clean logic](https://www.notion.so/Swift-music-player-clean-logic-99e26a0a173545c1a988c949618fd7fa)
 
 [Swift AVPlayer 최적화](https://www.notion.so/Swift-AVPlayer-456f01cd588c4ac9bc3219e5b9a769e1)
@@ -366,6 +369,8 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[Swift Spinner](https://www.notion.so/Swift-Spinner-43da4b1406414d159d2e787ad97594a3)
+
 [Swift Video View Component](https://www.notion.so/Swift-Video-View-Component-33122dbba6064e1e9055139e9373cc33)
 
 [Swift Custom Loader](https://www.notion.so/Swift-Custom-Loader-a7dd90fa779d4a60bf9b6b9359fe9f8b)
@@ -405,6 +410,10 @@
 [NLP, playground 이용해서 mlmodel 만들기](https://www.notion.so/NLP-playground-NLP-mlmodel-fe7c31be4f044ed2a66ea9e76a54ecfa)
 
 # Animation
+
+[Swift Spinner](https://www.notion.so/Swift-Spinner-43da4b1406414d159d2e787ad97594a3)
+
+[Swift Bouncing Animation](https://www.notion.so/Swift-Bouncing-Animation-5860c8abd589496082fb0e58cb5bfa8a)
 
 [How to use Lottie](https://www.notion.so/Swift-Lottie-Basic-Usage-43fa6a1b083e42e588c9c77a9692a22b)
 
