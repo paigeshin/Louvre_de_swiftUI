@@ -192,6 +192,22 @@
 
 # System
 
+[Swift, struct에서는 @objc 함수 정의 불가능](https://www.notion.so/Swift-struct-objc-81dc4ce8f3bc481f8200d67704ec335d)
+
+[ios, app background 들어갔을 때 추적, ViewController 단위](https://www.notion.so/ios-app-background-6ac59184bf694981bf07d75b4c763ff6)
+
+[ios webbrowser 열기 ](https://www.notion.so/ios-webbrowser-a83f305233ab458eaec6ef6db83faf3f)
+
+[ios 11, app delegate, foreground, background event 추적](https://www.notion.so/ios-11-app-delegate-foreground-background-event-87fa2aa847e3458ca55c824a5bbeafd2)
+
+[ios 13, swift foreground, background event 추적 ](https://www.notion.so/ios-13-swift-foreground-background-event-1edaee35be92450b9b9b33cc0715e7b9)
+
+[ios background event methods sequence](https://www.notion.so/ios-background-event-methods-sequence-5759709221874f58bf9e27b30b986c7c)
+
+[ios Notification Center, observer 넣을 때 팁.](https://www.notion.so/ios-Notification-Center-observer-4c4f51cc9e0943deae8b71820265af53)
+
+[ios, airpod enable](https://www.notion.so/ios-airpod-enable-ae08a30b3c32458895a483057c2ea9dd)
+
 [Swift Device Type Constants](https://www.notion.so/Swift-Device-Type-b057d88852554db2813a329e8c163ad4)
 
 [Dark Mode Disable](https://www.notion.so/Dark-Mode-Disable-swift-9dff432bdacd4dcbb0f0745783ed7b19)
@@ -268,6 +284,8 @@
 
 # TextField
 
+[ios textField 띄어쓰기 제한하기 ](https://www.notion.so/ios-textField-65660d02befa4256ad830e8ab0f8d021)
+
 [swift textfield 선택은 되지만 유저가 값 못넣게 막기](https://www.notion.so/swift-textfield-0c6542acd23b4791b61b993406a27eea)
 
 [Swift textfield handling with delegate method](https://www.notion.so/Swift-textfield-handling-with-delegate-method-c454987bb7ed4463b2734300762b8155)
@@ -281,6 +299,8 @@
 [swift image 삽질 교훈 ](https://www.notion.so/swift-image-35464382542149289ee5ffbde01cc4e1)
 
 # Audio & Video
+
+[ios 무음 모드에서 플레이 가능하게하기](https://www.notion.so/ios-73f82c052feb4a7789479614984531d4)
 
 [Get Audio Input value](https://www.notion.so/Swift-get-audio-record-input-value-5ec2dfb22218435fa4e7f86e17153b66)
 
