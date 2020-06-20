@@ -3,6 +3,8 @@
 
 # Network
 
+[Swift bulk json data 보내기 ](https://www.notion.so/Swift-bulk-json-data-7ceaa8af9c7249b5a4d93c631c864e22)
+
 [Alamofire Multipart form audio](https://www.notion.so/swift-audio-upload-alamofire-9e08230ede814f7fac82c52be37c0a27)
 
 [Alamofire Multipart form image](https://www.notion.so/Swift-Alamofire-multipart-form-data-8cabb934a07848c5bc0304a3a19599a6)
@@ -39,6 +41,10 @@
 
 
 # Layout
+
+[tableview cell separator 두껍게 만들기](https://www.notion.so/tableview-cell-separator-661a093aec5e4b8fb4511e44a4055b74)
+
+[Swift subview ordering, sendSubviewToBack ](https://www.notion.so/Swift-subview-ordering-sendSubviewToBack-53717d3ed7c54336a4b068cc41371f47)
 
 [Disable user interaction except for some view](https://www.notion.so/Swift-disable-user-interaction-except-for-some-views-17b91762665b449581ddd5e4c25aa67d)
 
@@ -389,6 +395,12 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[Swift 기기별 사이즈 잡아주는 모듈 ](https://www.notion.so/Swift-fc08879b3f354023956cb0caf54bf724)
+
+[Swift custom navigation drawer ](https://www.notion.so/Swift-custom-navigation-drawer-521c43c126bc4dda8bb1dc39d4d5a3da)
+
+[Swift 설정화면 만들기 ](https://www.notion.so/Swift-7510d4c906bc4f7d9c121d8531f8b63d)
+
 [Swift Spinner](https://www.notion.so/Swift-Spinner-43da4b1406414d159d2e787ad97594a3)
 
 [Swift Video View Component](https://www.notion.so/Swift-Video-View-Component-33122dbba6064e1e9055139e9373cc33)
@@ -589,6 +601,10 @@
 [Swift firebase load data (fStore)](https://www.notion.so/Swift-firebase-load-data-fStore-6935759a3cd744b48793c2bd58253d46)
 
 [Send data to the database ios firebase](https://www.notion.so/Send-data-to-the-database-ios-firebase-00d4496395234944826baaaa0f9a39ae)
+
+# Util
+
+[Swift 기기별 사이즈 잡아주는 모듈 ](https://www.notion.so/Swift-fc08879b3f354023956cb0caf54bf724)
 
 # Debugging
 
