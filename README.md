@@ -1,5 +1,13 @@
 # Louvre_de_swift
 
+# Checklist
+
+- ios version
+- ipad support
+- dark mode
+- airpod
+- background
+
 
 # Network
 
