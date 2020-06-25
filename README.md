@@ -7,6 +7,8 @@
 - dark mode
 - airpod
 - background
+- app 배포하기전에 project clean 하기
+- button debouncing
 
 
 # Network
@@ -50,11 +52,21 @@
 
 # Layout
 
+[Swift CustomView 만들기](https://www.notion.so/Swift-CustomView-5c28e966df7843c19d642be7221675dc)
+
+[Swift button random rendering](https://www.notion.so/Swift-button-random-rendering-4b165d26ff7045228d2b03db3b705b5b)
+
+[ios app status bar height](https://www.notion.so/ios-app-status-bar-height-f94c686ccad44d45a2eef23379268195)
+
+[ios add bottom shadow](https://www.notion.so/ios-add-bottom-shadow-286222711be6478e8ec5bc271a669eab)
+
 [tableview cell separator 두껍게 만들기](https://www.notion.so/tableview-cell-separator-661a093aec5e4b8fb4511e44a4055b74)
 
 [Swift subview ordering, sendSubviewToBack ](https://www.notion.so/Swift-subview-ordering-sendSubviewToBack-53717d3ed7c54336a4b068cc41371f47)
 
 [Disable user interaction except for some view](https://www.notion.so/Swift-disable-user-interaction-except-for-some-views-17b91762665b449581ddd5e4c25aa67d)
+
+[Swift pickerview 값 강제로 선택하게하기](https://www.notion.so/Swift-pickerview-3e98ac432a0147b5bdcba993d618a706)
 
 [pickerview 값 선택 지정하게 하기 ](https://www.notion.so/pickerview-4a3bf852873b45cca7c1c9a6fa53bf4b)
 
@@ -310,6 +322,8 @@
 
 # 삽질 - 적어도 3시간 이상 해매인 것들만 적는다
 
+[Swift bulk json data 보내기 ](https://www.notion.so/Swift-bulk-json-data-7ceaa8af9c7249b5a4d93c631c864e22)
+
 [swift image 삽질 교훈 ](https://www.notion.so/swift-image-35464382542149289ee5ffbde01cc4e1)
 
 # Audio & Video
@@ -402,6 +416,8 @@
 [iOS cloud messaging](https://www.notion.so/iOS-cloud-messaging-06597168ec1443b4ace3e85bd06460c9)
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Swift CustomView 만들기](https://www.notion.so/Swift-CustomView-5c28e966df7843c19d642be7221675dc)
 
 [Swift 기기별 사이즈 잡아주는 모듈 ](https://www.notion.so/Swift-fc08879b3f354023956cb0caf54bf724)
 
@@ -536,6 +552,12 @@
 
 # Swift Grammar
 
+[ios initializer 특징](https://www.notion.so/ios-initializer-e12a93d50e2b4dcc98120c0a2ebe0a12)
+
+[swift CGFloat, floor](https://www.notion.so/swift-CGFloat-floor-135c79c0a63b485c9cb76800501a5684)
+
+[Swift, Round, Floor, Ceil](https://www.notion.so/Swift-Round-Floor-Ceil-5e68959e0faf482aaefc5118ba782d19)
+
 [Swift Array Sorting](https://www.notion.so/Swift-array-sorting-0befc28c88de49e9a823dffe39c296b1)
 
 [Swift Equatable](https://www.notion.so/Swift-Equatable-1d4593157f2c4ef2b530f1f5e77878c5)
@@ -614,7 +636,14 @@
 
 [Swift 기기별 사이즈 잡아주는 모듈 ](https://www.notion.so/Swift-fc08879b3f354023956cb0caf54bf724)
 
+
+# Algorithm
+
+[Swift button random rendering](https://www.notion.so/Swift-button-random-rendering-4b165d26ff7045228d2b03db3b705b5b)
+
 # Debugging
+
+[Swift PhaseScriptExecution failed error](https://www.notion.so/Swift-PhaseScriptExecution-failed-error-27acb0a49aac4723a70725ee4645d2b2)
 
 [Swift segment control, ContainerView 이용하여 만드는 방법 ](https://www.notion.so/Swift-segment-control-ContainerView-6cc9f1b319fc4b9babb85453e8ad01bf)
 
@@ -712,3 +741,9 @@
 
 [xCode Uses Seperate Tabs](https://www.notion.so/xCode-Uses-Seperate-Tab-15c6fa878a9c42cc8e4ee8e00676bdc8)
 
+[Swift Advanced Debugging](https://www.notion.so/Swift-Advanced-Debugging-a14055e630ae4094bb51ed65e45d6b5d)
+
+
+# General
+
+[Debouncing](https://www.notion.so/Debouncing-f2ed000e3b1f497cb8122739e7c940be)
