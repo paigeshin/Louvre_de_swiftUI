@@ -711,6 +711,12 @@
 
 # Business
 
+[How to build an app from beginning to an end ](https://www.notion.so/How-to-build-an-app-from-beginning-to-an-end-fa74255abd374d84a78e4523e2697ffd)
+
+[App Marketing](https://www.notion.so/App-Marketing-ec3a5e721b3345b9a476e9b3eeb329d7)
+
+[Freelancing Tips](https://www.notion.so/Freelancing-Tips-e654941451bb49b5bff9e1daba5041ef)
+
 [How to submit your app](https://www.notion.so/How-to-Publish-your-ios-App-into-App-store-1573af79f41a485b9e288ef1a60b36fe)
 
 [Google ad - ios ](https://www.notion.so/Google-ad-ios-17ea831224dd4008948e0de4e52d1605)
