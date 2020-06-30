@@ -218,6 +218,7 @@
 
 # System
 
+
 [Swift, struct에서는 @objc 함수 정의 불가능](https://www.notion.so/Swift-struct-objc-81dc4ce8f3bc481f8200d67704ec335d)
 
 [ios, app background 들어갔을 때 추적, ViewController 단위](https://www.notion.so/ios-app-background-6ac59184bf694981bf07d75b4c763ff6)
@@ -368,6 +369,8 @@
 
 # Data Persistence
 
+[Swift realm about primary key](https://www.notion.so/Swift-realm-about-primary-key-f46072b3e3624049b9b3c4668625ca8c)
+
 [Realm index bug 수정하는 방법](https://www.notion.so/Realm-Debugging-index-0-is-not-17cc32c75a724de0ab3a919168db7310)
 
 [UserDefaults](https://www.notion.so/Swift-userDefault-7a5290fa500e4ae995e5e4b7d9996ec2)
@@ -398,13 +401,19 @@
 
 [Realm Data Update](https://www.notion.so/Realm-Update-Object-996004ba14ce4724aa9bd8ea470731cd)
 
+
+
 # Data
 
 [Swift local json Reading](https://www.notion.so/swift-local-json-reading-0ca73d9457f44e5eb05d5ac76930bf18)
 
+
+
 # API Change
 
 [KeyWindow replacement, swift ](https://www.notion.so/KeyWindow-replacement-swift-d72501b3565a4e8fab78db436c07acc2)
+
+
 
 
 # Push Message
@@ -415,7 +424,11 @@
 
 [iOS cloud messaging](https://www.notion.so/iOS-cloud-messaging-06597168ec1443b4ace3e85bd06460c9)
 
+
+
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Swift button debouncing](https://www.notion.so/Swift-button-debouncing-1a49843a49994dbfa5535c49820185cd)
 
 [Swift CustomView 만들기](https://www.notion.so/Swift-CustomView-5c28e966df7843c19d642be7221675dc)
 
@@ -551,6 +564,12 @@
 [Custom URL Scheme](https://www.notion.so/Custom-URL-Scheme-d0960c0a90524b1392950042a56d580b)
 
 # Swift Grammar
+
+[About Run Loop](https://www.notion.so/About-Run-Loop-d0b4133fb7d9489fbcbd3bada4a47d06)
+
+[Swift RunLoop, scrolling & Timer debugging](https://www.notion.so/Swift-RunLoop-scrolling-Timer-debugging-b53f3ebe3cf9453bb3ea8eeff74f519e)
+
+[Swift equal, operation tips, for optional value](https://www.notion.so/Swift-equal-operation-tips-for-optional-value-15c9b754e74641c182f7c8b226ccda33)
 
 [ios initializer 특징](https://www.notion.so/ios-initializer-e12a93d50e2b4dcc98120c0a2ebe0a12)
 
@@ -711,6 +730,8 @@
 
 # Business
 
+[apple ios, apple guideline summary ](https://www.notion.so/apple-ios-apple-guideline-summary-46004e2312294d11b0e10b6b7f971dbb)
+
 [How to build an app from beginning to an end ](https://www.notion.so/How-to-build-an-app-from-beginning-to-an-end-fa74255abd374d84a78e4523e2697ffd)
 
 [App Marketing](https://www.notion.so/App-Marketing-ec3a5e721b3345b9a476e9b3eeb329d7)
@@ -750,6 +771,22 @@
 [Swift Advanced Debugging](https://www.notion.so/Swift-Advanced-Debugging-a14055e630ae4094bb51ed65e45d6b5d)
 
 
+# Multi Thread
+
+[Swift Queue Types](https://www.notion.so/Swift-Queue-Types-fc1d6fb868ed4586884e7f284c0ca9ce)
+
+[Swift NSOperation](https://www.notion.so/Swift-NSOperation-1b6426af73b04263be8c93cb608f330d)
+
+[Swift Concurrency, DispatchQueues](https://www.notion.so/Swift-Concurrency-DispatchQueues-4dcdc7353cb04821961df627d873cbc7)
+
+
+# Core Graphics
+
+[Swift Coregraphics Tutorial](https://www.notion.so/Swift-Coregraphics-Tutorial-05a49a17dd194bef9bc0fd517988a1be)
+
+
 # General
+
+[Swift button debouncing](https://www.notion.so/Swift-button-debouncing-1a49843a49994dbfa5535c49820185cd)
 
 [Debouncing](https://www.notion.so/Debouncing-f2ed000e3b1f497cb8122739e7c940be)
