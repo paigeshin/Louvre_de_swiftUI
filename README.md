@@ -773,12 +773,22 @@
 
 # Multi Thread
 
+[Swift, DispatchGroup - Async Await Style](https://www.notion.so/Swift-DispatchGroup-Async-Await-Style-339627818b5241c782c0a76ccd877946)
+
+[DispatchGroup vs Semaphore](https://www.notion.so/DispatchGroup-vs-Semaphore-3716662f3ec243ee9d9e37ddf18c2a69)
+
+[Swift, DispatchQueue, OperationQueue](https://www.notion.so/Swift-Multi-Threading-DispatchQueue-OperationQueue-dc689ad206284a2cbbe39417da1c390a)
+
 [Swift Queue Types](https://www.notion.so/Swift-Queue-Types-fc1d6fb868ed4586884e7f284c0ca9ce)
 
 [Swift NSOperation](https://www.notion.so/Swift-NSOperation-1b6426af73b04263be8c93cb608f330d)
 
 [Swift Concurrency, DispatchQueues](https://www.notion.so/Swift-Concurrency-DispatchQueues-4dcdc7353cb04821961df627d873cbc7)
 
+
+# Memory Management
+
+[swift unowned self](https://www.notion.so/swift-unowned-self-f735a9e7e4a74ec3946a0c8ee4977871)
 
 # Core Graphics
 
