@@ -565,6 +565,8 @@
 
 # Swift Grammar
 
+[Swift convenience init](https://www.notion.so/Swift-convenience-init-b170e3766afa4ac89133e1c59ffef285)
+
 [About Run Loop](https://www.notion.so/About-Run-Loop-d0b4133fb7d9489fbcbd3bada4a47d06)
 
 [Swift RunLoop, scrolling & Timer debugging](https://www.notion.so/Swift-RunLoop-scrolling-Timer-debugging-b53f3ebe3cf9453bb3ea8eeff74f519e)
@@ -772,6 +774,8 @@
 
 
 # Multi Thread
+
+[Custom Operations](https://www.notion.so/Swift-Custom-Operations-db8a13a3b6074f36b8cf5327e27a779f)
 
 [Swift, DispatchGroup - Async Await Style](https://www.notion.so/Swift-DispatchGroup-Async-Await-Style-339627818b5241c782c0a76ccd877946)
 
