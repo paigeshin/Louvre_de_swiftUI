@@ -218,6 +218,7 @@
 
 # System
 
+[Swift File](https://github.com/paigeshin/swift_file_handling)
 
 [Swift, struct에서는 @objc 함수 정의 불가능](https://www.notion.so/Swift-struct-objc-81dc4ce8f3bc481f8200d67704ec335d)
 
@@ -369,6 +370,8 @@
 
 # Data Persistence
 
+[Download image into Local](https://github.com/paigeshin/swift_download_image)
+
 [Swift realm about primary key](https://www.notion.so/Swift-realm-about-primary-key-f46072b3e3624049b9b3c4668625ca8c)
 
 [Realm index bug 수정하는 방법](https://www.notion.so/Realm-Debugging-index-0-is-not-17cc32c75a724de0ab3a919168db7310)
@@ -427,6 +430,10 @@
 
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Swift File](https://github.com/paigeshin/swift_file_handling)
+
+[Download image into Local](https://github.com/paigeshin/swift_download_image)
 
 [Swift button debouncing](https://www.notion.so/Swift-button-debouncing-1a49843a49994dbfa5535c49820185cd)
 
