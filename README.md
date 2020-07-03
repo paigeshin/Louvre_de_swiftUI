@@ -671,6 +671,8 @@
 
 # Debugging
 
+[iPad UIActivityViewController Debugging](https://www.notion.so/Swift-UIActivityViewController-ipad-bug-fix-0bf2e426b41c4c3d9f2ed35bf5408e54)
+
 [Swift PhaseScriptExecution failed error](https://www.notion.so/Swift-PhaseScriptExecution-failed-error-27acb0a49aac4723a70725ee4645d2b2)
 
 [Swift segment control, ContainerView 이용하여 만드는 방법 ](https://www.notion.so/Swift-segment-control-ContainerView-6cc9f1b319fc4b9babb85453e8ad01bf)
