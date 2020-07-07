@@ -9,6 +9,7 @@
 - background
 - app 배포하기전에 project clean 하기
 - button debouncing
+- image caching
 
 
 # Network
@@ -217,6 +218,8 @@
 [AR Swift Dicee](https://www.notion.so/AR-Swift-Dicee-65b59a9b0c2b4092bddbb70ebafa148e)
 
 # System
+
+[Swift working with URLs](https://www.notion.so/Swift-working-with-URLs-92fdd1c11c334091873a5d3cc626c309)
 
 [Swift File](https://github.com/paigeshin/swift_file_handling)
 
@@ -431,6 +434,8 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[Custom ImageView Swift image correct loading, caching](https://www.notion.so/Swift-image-caching-image-correct-loading-43c0a10e1d9d4410837b27fc07b50f87)
+
 [Top Custom Tab Controller](https://www.notion.so/Swift-Component-Menu-Bar-5d0a184adc104098b34987216769f2c1)
 
 [Swift File](https://github.com/paigeshin/swift_file_handling)
@@ -488,6 +493,8 @@
 [NLP, playground 이용해서 mlmodel 만들기](https://www.notion.so/NLP-playground-NLP-mlmodel-fe7c31be4f044ed2a66ea9e76a54ecfa)
 
 # Animation
+
+[Swift SpringDamping Animation](https://www.notion.so/Swift-usingSpringWithDamping-f56a212ca68640de86a75dd28c393793)
 
 [Swift Spinner](https://www.notion.so/Swift-Spinner-43da4b1406414d159d2e787ad97594a3)
 
