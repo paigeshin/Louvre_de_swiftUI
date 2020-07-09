@@ -10,6 +10,7 @@
 - app 배포하기전에 project clean 하기
 - button debouncing
 - image caching
+- image orientation
 
 
 # Network
@@ -437,6 +438,8 @@
 
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Custom UIView For Horizontal Scrolling](https://www.notion.so/Swift-Horizontal-Scrolling-custom-UIView-4cda417123fb4345bdc0e7f230191b60)
 
 [Swift Setting Launcher](https://www.notion.so/Swift-Setting-Launcher-component-d3f184312e4548718a108587fdf36b1b)
 
