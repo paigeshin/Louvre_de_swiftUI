@@ -14,6 +14,10 @@
 
 # Network
 
+[Swift 데이터 순수 string으로 받아오기](https://www.notion.so/Swift-string-0836170560494f329f892b7413e21c7d)
+
+[Swifty JSON 안쓰고 ios default로 json 데이터 불러오기](https://www.notion.so/Swifty-JSON-ios-default-json-a22291f4dc884e789f3d9878693c3ac5)
+
 [Swift bulk json data 보내기 ](https://www.notion.so/Swift-bulk-json-data-7ceaa8af9c7249b5a4d93c631c864e22)
 
 [Alamofire Multipart form audio](https://www.notion.so/swift-audio-upload-alamofire-9e08230ede814f7fac82c52be37c0a27)
@@ -434,6 +438,8 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[Swift Setting Launcher](https://www.notion.so/Swift-Setting-Launcher-component-d3f184312e4548718a108587fdf36b1b)
+
 [Custom ImageView Swift image correct loading, caching](https://www.notion.so/Swift-image-caching-image-correct-loading-43c0a10e1d9d4410837b27fc07b50f87)
 
 [Top Custom Tab Controller](https://www.notion.so/Swift-Component-Menu-Bar-5d0a184adc104098b34987216769f2c1)
@@ -580,6 +586,8 @@
 [Custom URL Scheme](https://www.notion.so/Custom-URL-Scheme-d0960c0a90524b1392950042a56d580b)
 
 # Swift Grammar
+
+[Swift enumeration](https://www.notion.so/Swift-enumeration-fcd8972e48204b5a95193b44dc964872)
 
 [Swift convenience init](https://www.notion.so/Swift-convenience-init-b170e3766afa4ac89133e1c59ffef285)
 
