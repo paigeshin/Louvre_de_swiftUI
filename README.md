@@ -439,6 +439,11 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[UIActivityIndicator](https://www.notion.so/Swift-UIActivityIndicator-8459f3368d764dc6858884435fda547e)
+
+[code로 navigationController 이용하는 방법
+](https://www.notion.so/Swift-code-segue-navigation-controller-8506ace3a27b45bfbf3245bd9373094a)
+
 [Custom UIView For Horizontal Scrolling](https://www.notion.so/Swift-Horizontal-Scrolling-custom-UIView-4cda417123fb4345bdc0e7f230191b60)
 
 [Swift Setting Launcher](https://www.notion.so/Swift-Setting-Launcher-component-d3f184312e4548718a108587fdf36b1b)
@@ -684,6 +689,12 @@
 
 [Swift 기기별 사이즈 잡아주는 모듈 ](https://www.notion.so/Swift-fc08879b3f354023956cb0caf54bf724)
 
+
+# Logic
+
+[Swift Button Toggle clean Logic](https://www.notion.so/Swift-Button-toggle-clean-logic-a32b3040449d447f89c6d464d74ca45f)
+
+[Swift button random rendering](https://www.notion.so/Swift-button-random-rendering-4b165d26ff7045228d2b03db3b705b5b)
 
 # Algorithm
 
