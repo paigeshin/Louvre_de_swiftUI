@@ -446,6 +446,12 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[Swift Setting Launcher Component](https://www.notion.so/Swift-Setting-Launcher-Component-54b09e2e64614ecd9f8ec61b8ecbe165)
+
+[Swift Video Launcher](https://www.notion.so/Swift-Video-Launcher-c54d79c2ffb241c9af1b50645e3445b9)
+
+[Swift image Cache](https://www.notion.so/Swift-image-Cache-1b63554e7f0445cbb9106a64eeb3aca6)
+
 [UIActivityIndicator](https://www.notion.so/Swift-UIActivityIndicator-8459f3368d764dc6858884435fda547e)
 
 [code로 navigationController 이용하는 방법
@@ -859,3 +865,10 @@
 [Swift GraphQL with official document](https://www.notion.so/Swift-GraphQL-implementation-using-Back4App-f2d13c9e97574126838b207f72f9142b)
 
 [Swift GraphQL with official document](https://www.notion.so/Swift-GraphQL-with-official-document-bab1bd38102647e089aa149aeafadadf)
+
+# Swift Push Message Third Party Service
+
+- Parse
+- One Signal
+
+
