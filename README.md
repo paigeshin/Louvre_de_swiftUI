@@ -58,6 +58,8 @@
 
 # Layout
 
+[Swift Gradient Layer](https://www.notion.so/Swift-Gradient-Layer-8e289497a2574906a8d20e1fe4e8dd48)
+
 [Swift CustomView 만들기](https://www.notion.so/Swift-CustomView-5c28e966df7843c19d642be7221675dc)
 
 [Swift button random rendering](https://www.notion.so/Swift-button-random-rendering-4b165d26ff7045228d2b03db3b705b5b)
@@ -338,6 +340,11 @@
 
 # Audio & Video
 
+###중요
+[Swift, AVPlayer가 진행되는 것을 업데이트하는 방법, timer 없이](https://www.notion.so/Swift-AVPlayer-6f338217bf5a447c9fe75ad4039a2566)
+
+[Swift, Handle AVPlayer value with slider value change](https://www.notion.so/Swift-Handle-AVPlayer-value-with-slider-value-change-53640df53f1b4b6981fdf6479af13f79)
+
 [ios 무음 모드에서 플레이 가능하게하기](https://www.notion.so/ios-73f82c052feb4a7789479614984531d4)
 
 [Get Audio Input value](https://www.notion.so/Swift-get-audio-record-input-value-5ec2dfb22218435fa4e7f86e17153b66)
@@ -594,6 +601,8 @@
 [Custom URL Scheme](https://www.notion.so/Custom-URL-Scheme-d0960c0a90524b1392950042a56d580b)
 
 # Swift Grammar
+
+[Swift, Handle AVPlayer value with slider value change](https://www.notion.so/Swift-Handle-AVPlayer-value-with-slider-value-change-53640df53f1b4b6981fdf6479af13f79)
 
 [Swift enumeration](https://www.notion.so/Swift-enumeration-fcd8972e48204b5a95193b44dc964872)
 
