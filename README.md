@@ -2,6 +2,8 @@
 
 # Checklist
 
+[Checklist](https://www.notion.so/Swift-Handle-AttributedString-e52a790ca85e4207919588e4cf760fb7)
+
 - ios version
 - ipad support
 - dark mode
@@ -57,6 +59,8 @@
 
 
 # Layout
+
+[Swift, Handle AttributedString](https://www.notion.so/Swift-Handle-AttributedString-e52a790ca85e4207919588e4cf760fb7)
 
 [Swift Gradient Layer](https://www.notion.so/Swift-Gradient-Layer-8e289497a2574906a8d20e1fe4e8dd48)
 
@@ -317,7 +321,6 @@
 [Swift Mapkit](https://www.notion.so/Swift-Mapkit-7b54df96cbe7479f89a7a344ec4a03ae)
 
 [iOS timer](https://www.notion.so/iOS-timer-a57537eaf26d4cb1a59df29cc70a367e)
-
 
 
 # TextField
@@ -820,6 +823,7 @@
 
 [Swift ARKit, Mostly SceneKit](https://www.notion.so/Swift-ARkit-70f68a2344bf4ae68b27708fbb797fff)
 
+[Swift UI Programming, build youtube without storyboard](https://www.notion.so/Swift-UI-Programming-build-youtube-without-storyboard-a20e0497c84f483c9deb7e1636382117)
 
 # xCode
 
