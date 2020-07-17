@@ -13,6 +13,7 @@
 - button debouncing
 - image caching
 - image orientation
+- keyboard dismiss
 
 
 # Network
@@ -325,6 +326,8 @@
 
 # TextField
 
+[Swift textfield link 걸기](https://www.notion.so/Swift-textfield-link-4b3731f2e0ad4bd1932411f4bdbaaf64)
+
 [ios textField 띄어쓰기 제한하기 ](https://www.notion.so/ios-textField-65660d02befa4256ad830e8ab0f8d021)
 
 [swift textfield 선택은 되지만 유저가 값 못넣게 막기](https://www.notion.so/swift-textfield-0c6542acd23b4791b61b993406a27eea)
@@ -448,6 +451,8 @@
 
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Swift textfield link 걸기](https://www.notion.so/Swift-textfield-link-4b3731f2e0ad4bd1932411f4bdbaaf64)
 
 [Swift Setting Launcher Component](https://www.notion.so/Swift-Setting-Launcher-Component-54b09e2e64614ecd9f8ec61b8ecbe165)
 
@@ -707,8 +712,15 @@
 
 [Swift 기기별 사이즈 잡아주는 모듈 ](https://www.notion.so/Swift-fc08879b3f354023956cb0caf54bf724)
 
+# Validation
+
+[Swift validate email](https://www.notion.so/Swift-validate-email-6184ae96d3194a2997983fa3476a538d)
+
+[Swift remove white space](https://www.notion.so/Swift-remove-white-space-c65d0cddc53e4455865d7349c0caed9c)
 
 # Logic
+
+[Swift Toggle Button using `isSelected`](https://www.notion.so/Swift-Toggle-Button-523055ccf8ee416f8a1b11e04cce8b3e)
 
 [Swift Button Toggle clean Logic](https://www.notion.so/Swift-Button-toggle-clean-logic-a32b3040449d447f89c6d464d74ca45f)
 
