@@ -465,6 +465,8 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[Swift Caching three ways](https://www.notion.so/Swift-Caching-three-ways-bc96dab096f943088eed77a878340235)
+
 [Swift textfield link 걸기](https://www.notion.so/Swift-textfield-link-4b3731f2e0ad4bd1932411f4bdbaaf64)
 
 [Swift Setting Launcher Component](https://www.notion.so/Swift-Setting-Launcher-Component-54b09e2e64614ecd9f8ec61b8ecbe165)
@@ -629,6 +631,8 @@
 
 # Swift Grammar
 
+[Swift field에서 함수 호출](https://www.notion.so/Swift-field-9ef88092f82a4d7d9f680c8857cfafc3)
+
 [Swift, Handle AVPlayer value with slider value change](https://www.notion.so/Swift-Handle-AVPlayer-value-with-slider-value-change-53640df53f1b4b6981fdf6479af13f79)
 
 [Swift enumeration](https://www.notion.so/Swift-enumeration-fcd8972e48204b5a95193b44dc964872)
@@ -776,6 +780,16 @@
 
 [Pod Embedded Swift Standard Libraries](https://www.notion.so/Pod-Embedded-Swift-Standard-Libraries-Bug-0800a23ad2394dd59c8b0cb288cec0d8)
 
+# CollectionView
+
+[Swift decide collectionview cell height dynamically and programmatically](https://www.notion.so/Swift-decide-collectionview-cell-height-dynamically-and-programmatically-80edd48b6350464dbfd27828790f434e)
+
+[Swift handle collection view orientation](https://www.notion.so/Swift-handle-collection-view-orientation-b85de1aa802343f09e783dadba16c374)
+
+# NSAttributedString
+
+[Swift NSAttachment](https://www.notion.so/Swift-NSAttachment-0232747a72184f28b1840a2457c6c200)
+
 # Exterioer API
 
 [naver login](https://www.notion.so/ios-naver-login-a0338c3f316f4c4485c8458392d488a9)
@@ -853,6 +867,8 @@
 [Swift UI Programming, build youtube without storyboard](https://www.notion.so/Swift-UI-Programming-build-youtube-without-storyboard-a20e0497c84f483c9deb7e1636382117)
 
 # xCode
+
+[Swift xcode shortcut](https://www.notion.so/Swift-xcode-shortcut-6273d76afb0b4b089e5417b7e267c07d)
 
 [xCode Uses Seperate Tabs](https://www.notion.so/xCode-Uses-Seperate-Tab-15c6fa878a9c42cc8e4ee8e00676bdc8)
 
