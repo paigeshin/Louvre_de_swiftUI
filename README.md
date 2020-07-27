@@ -344,7 +344,20 @@
 
 [swift image 삽질 교훈 ](https://www.notion.so/swift-image-35464382542149289ee5ffbde01cc4e1)
 
+
+# Extension
+
+[Swift Button Debouncing](https://www.notion.so/Swift-Button-Debouncing-6529fbcd88754b0295d7b65c89fc6190)
+
+[Swift extension for NSLayoutConstraint](https://www.notion.so/Swift-extension-for-NSLayoutConstraint-4691ec2de2b94c32aff5836f5744aa94)
+
 # Audio & Video
+
+[Swift - AVQueuePlayer](https://www.notion.so/Swift-AVQueuePlayer-1061978834a6412996ed692599aefb80)
+
+[Swift Notification playDidEnd for AVQueuePlayer](https://www.notion.so/Swift-Notification-playDidEnd-for-AVQueuePlayer-5715923d12164bcd8a1082cd67b58c4e)
+
+[Swift - get duration from AVPlayerItem](https://www.notion.so/Swift-get-duration-from-AVPlayerItem-fc74729059eb40478769aa0fcd736aa3)
 
 ###중요
 [Swift, AVPlayer가 진행되는 것을 업데이트하는 방법, timer 없이](https://www.notion.so/Swift-AVPlayer-6f338217bf5a447c9fe75ad4039a2566)
@@ -801,6 +814,8 @@
 [Swift ARDicee Project](https://www.notion.so/Swift-ARDicee-Proejct-cfdcd3e7d2af457cae492cc34d4b1899)
 
 # Business
+
+[Swift, when google ad is not showing](https://www.notion.so/Swift-Google-ad-not-showing-0ba5d211ee2f40f6a33574327fd8ce13)
 
 [apple ios, apple guideline summary ](https://www.notion.so/apple-ios-apple-guideline-summary-46004e2312294d11b0e10b6b7f971dbb)
 
