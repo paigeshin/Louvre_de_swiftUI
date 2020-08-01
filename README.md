@@ -18,6 +18,12 @@
 
 # Network
 
+[Swift dynamic parameters with dictionary](https://www.notion.so/Swift-dynamic-parameters-with-dictionary-66ccc7030b0c41f5bfe2c77994ca0e8c)
+
+[Swift file upload](https://www.notion.so/Swift-file-upload-80d32a07b44f47958049c7143f14c81b)
+
+[APIService using alamofire and objectMapper](https://www.notion.so/APIService-using-alamofire-and-objectMapper-33ebc73561ea4e90be7616beb27040ff)
+
 [Swift 데이터 순수 string으로 받아오기](https://www.notion.so/Swift-string-0836170560494f329f892b7413e21c7d)
 
 [Swifty JSON 안쓰고 ios default로 json 데이터 불러오기](https://www.notion.so/Swifty-JSON-ios-default-json-a22291f4dc884e789f3d9878693c3ac5)
@@ -326,6 +332,8 @@
 
 # TextField
 
+[Swift textfield handling, 띄어쓰기 제한 등등..](https://www.notion.so/Swift-textfield-handling-2ce6f0dd794144a1b80109ef7dc067b9)
+
 [Swift textfield link 걸기](https://www.notion.so/Swift-textfield-link-4b3731f2e0ad4bd1932411f4bdbaaf64)
 
 [ios textField 띄어쓰기 제한하기 ](https://www.notion.so/ios-textField-65660d02befa4256ad830e8ab0f8d021)
@@ -344,6 +352,25 @@
 
 [swift image 삽질 교훈 ](https://www.notion.so/swift-image-35464382542149289ee5ffbde01cc4e1)
 
+# Push Message
+
+[Swift, get device token for push message](https://www.notion.so/Swift-get-device-token-for-push-message-00c5011e48204e2cb975b5455211975e)
+
+# Get Information
+
+[Swift get OS version](https://www.notion.so/Swift-get-OS-version-f6ec6b3a7804457e9d968a9618c72814)
+
+[Swift get device Model name](https://www.notion.so/Swift-get-device-Model-name-835a300800b143569493773027e4ad26)
+
+[Swift get device UUID](https://www.notion.so/Swift-get-device-UUID-b3222305e37b42d791e0b5b8c737042f)
+
+[Swift, get device token for push message](https://www.notion.so/Swift-get-device-token-for-push-message-00c5011e48204e2cb975b5455211975e)
+
+# NavigationController
+
+[Swift Navigation Controller push, go anywhere you want](https://www.notion.so/Swift-Navigation-Controller-push-go-anywhere-you-want-c25b1b8a81a748eb91b2298e275b2ae0)
+
+[Swift Rootviewcontrolelr for NaivgationViewController](https://www.notion.so/Swift-Rootviewcontrolelr-for-NaivgationViewController-5fee65fc7c9a4290a2ef6c28f9fcb433)
 
 # Extension
 
@@ -352,6 +379,8 @@
 [Swift extension for NSLayoutConstraint](https://www.notion.so/Swift-extension-for-NSLayoutConstraint-4691ec2de2b94c32aff5836f5744aa94)
 
 # Audio & Video
+
+[swift audio session for multiple audio play](https://www.notion.so/swift-audio-session-for-multiple-audio-play-d2d5696c50cf46c1ba83a9d5a322573a)
 
 [Swift - AVQueuePlayer](https://www.notion.so/Swift-AVQueuePlayer-1061978834a6412996ed692599aefb80)
 
@@ -465,6 +494,19 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[Swift Time Component](https://github.com/paigeshin/japanese_kanji_ios/blob/development/japanese_kanji/Util/Time.swift)
+
+[Swift, get current date time interval ](https://www.notion.so/Swift-get-current-date-time-interval-9e5dc4f929bb416dbd18f4280ea5ceef)
+
+[swift convert time interval for formatted string](https://www.notion.so/swift-convert-time-interval-for-formatted-string-85a28ab3b32547b4b0e43c27bd621c9e)
+
+
+[swift array, append & remove](https://www.notion.so/swift-array-append-remove-9c0b4074ee314f539a409b9508ee5662
+
+[Swift Spinner](https://www.notion.so/Swift-Spinner-f28b990662094214b36e3e5511ea5b08)
+
+[Swift Chatting mudle for chatbot](https://www.notion.so/Swift-Chatting-module-swift-for-chatbot-874466bf23654146902e2086a8ecad84)
+
 [Swift Caching three ways](https://www.notion.so/Swift-Caching-three-ways-bc96dab096f943088eed77a878340235)
 
 [Swift textfield link 걸기](https://www.notion.so/Swift-textfield-link-4b3731f2e0ad4bd1932411f4bdbaaf64)
@@ -541,6 +583,15 @@
 [Swift NLP Twitter, Swift project](https://www.notion.so/NLP-Twitter-swift-project-3181ca18f91044549bcbd580642110c3)
 
 [NLP, playground 이용해서 mlmodel 만들기](https://www.notion.so/NLP-playground-NLP-mlmodel-fe7c31be4f044ed2a66ea9e76a54ecfa)
+
+# Time 
+
+[Swift Time Component](https://github.com/paigeshin/japanese_kanji_ios/blob/development/japanese_kanji/Util/Time.swift)
+
+[Swift, get current date time interval ](https://www.notion.so/Swift-get-current-date-time-interval-9e5dc4f929bb416dbd18f4280ea5ceef)
+
+[swift convert time interval for formatted string](https://www.notion.so/swift-convert-time-interval-for-formatted-string-85a28ab3b32547b4b0e43c27bd621c9e)
+
 
 # Animation
 
@@ -630,6 +681,10 @@
 [Custom URL Scheme](https://www.notion.so/Custom-URL-Scheme-d0960c0a90524b1392950042a56d580b)
 
 # Swift Grammar
+
+[swift array, append & remove](https://www.notion.so/swift-array-append-remove-9c0b4074ee314f539a409b9508ee5662)
+
+[Swift dynamic parameters with dictionary](https://www.notion.so/Swift-dynamic-parameters-with-dictionary-66ccc7030b0c41f5bfe2c77994ca0e8c)
 
 [Swift field에서 함수 호출](https://www.notion.so/Swift-field-9ef88092f82a4d7d9f680c8857cfafc3)
 
@@ -792,6 +847,8 @@
 
 # Exterioer API
 
+[kakao login user response, 2020,08-01](https://www.notion.so/kakao-user-response-2020-08-01-20f9bf8643ea4a96b1eb4b8b2317b71e)
+
 [naver login](https://www.notion.so/ios-naver-login-a0338c3f316f4c4485c8458392d488a9)
 
 [kakotalk login](https://www.notion.so/ios-kakaotalk-Oauth-80ff0e24c913497cbb2248e71d66358c)
@@ -874,6 +931,10 @@
 
 [Swift Advanced Debugging](https://www.notion.so/Swift-Advanced-Debugging-a14055e630ae4094bb51ed65e45d6b5d)
 
+
+# Chatting
+
+[Swift Chatting mudle for chatbot](https://www.notion.so/Swift-Chatting-module-swift-for-chatbot-874466bf23654146902e2086a8ecad84)
 
 # Multi Thread
 
