@@ -380,6 +380,11 @@
 
 # Audio & Video
 
+[Highest Quality Audio Recorder Setting, notion](https://www.notion.so/Swift-highest-quality-audio-recorder-setting-5d9998282d0c42a08e08715764a5dcf3)
+
+[Highest Quality Audio Recorder Setting, git](https://github.com/paigeshin/swift_component_highest_quality_recorder_setting)
+
+
 [swift audio session for multiple audio play](https://www.notion.so/swift-audio-session-for-multiple-audio-play-d2d5696c50cf46c1ba83a9d5a322573a)
 
 [Swift - AVQueuePlayer](https://www.notion.so/Swift-AVQueuePlayer-1061978834a6412996ed692599aefb80)
@@ -493,6 +498,10 @@
 
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Highest Quality Audio Recorder Setting, notion](https://www.notion.so/Swift-highest-quality-audio-recorder-setting-5d9998282d0c42a08e08715764a5dcf3)
+
+[Highest Quality Audio Recorder Setting, git](https://github.com/paigeshin/swift_component_highest_quality_recorder_setting)
 
 [MeditaionView, 자주 쓸 가능성은 낮음](https://github.com/paigeshin/meditaitonView_swift_component)
 
