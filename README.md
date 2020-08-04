@@ -494,6 +494,8 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[MeditaionView, 자주 쓸 가능성은 낮음](https://github.com/paigeshin/meditaitonView_swift_component)
+
 [Swift Time Component](https://github.com/paigeshin/japanese_kanji_ios/blob/development/japanese_kanji/Util/Time.swift)
 
 [Swift, get current date time interval ](https://www.notion.so/Swift-get-current-date-time-interval-9e5dc4f929bb416dbd18f4280ea5ceef)
