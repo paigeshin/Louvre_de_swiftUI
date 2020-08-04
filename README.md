@@ -499,6 +499,8 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[Swift overlay](https://github.com/paigeshin/swift_component_overlay)
+
 [Highest Quality Audio Recorder Setting, notion](https://www.notion.so/Swift-highest-quality-audio-recorder-setting-5d9998282d0c42a08e08715764a5dcf3)
 
 [Highest Quality Audio Recorder Setting, git](https://github.com/paigeshin/swift_component_highest_quality_recorder_setting)
