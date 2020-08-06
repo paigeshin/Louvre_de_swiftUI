@@ -505,6 +505,8 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[Swift Blur Effect](https://www.notion.so/Swift-Bubble-Effect-8a21eed4911a41748ae78188c9fb0c61)
+
 [NavigationBar 아래 line 없애주기](https://www.notion.so/Navigation-Bar-line-5f3649ba63cd4ce2ac3184746d3a0d8c)
 
 [underbar style segment control](https://www.notion.so/underbar-style-segment-control-633c7d8ad6424b4cb2f49160815f8d46)
