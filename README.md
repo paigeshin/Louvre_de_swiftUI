@@ -18,6 +18,8 @@
 
 # Network
 
+[생 json string 받아오기](https://www.notion.so/Swift-json-string-0f1e8d0c5fa34bfa99a4182fae5f3b49)
+
 [Swift dynamic parameters with dictionary](https://www.notion.so/Swift-dynamic-parameters-with-dictionary-66ccc7030b0c41f5bfe2c77994ca0e8c)
 
 [Swift file upload](https://www.notion.so/Swift-file-upload-80d32a07b44f47958049c7143f14c81b)
@@ -66,6 +68,10 @@
 
 
 # Layout
+
+[Swift Remove from superview](https://www.notion.so/Swift-Remove-from-superview-90a4b3eeff884815a2ea1f86950dac63)
+
+[NavigationBar 아래 line 없애주기](https://www.notion.so/Navigation-Bar-line-5f3649ba63cd4ce2ac3184746d3a0d8c)
 
 [Swift, Handle AttributedString](https://www.notion.so/Swift-Handle-AttributedString-e52a790ca85e4207919588e4cf760fb7)
 
@@ -499,6 +505,24 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[NavigationBar 아래 line 없애주기](https://www.notion.so/Navigation-Bar-line-5f3649ba63cd4ce2ac3184746d3a0d8c)
+
+[underbar style segment control](https://www.notion.so/underbar-style-segment-control-633c7d8ad6424b4cb2f49160815f8d46)
+
+[WKWebView for youtube video play](https://www.notion.so/Swift-WKWebView-play-youtube-video-3e544767525b4afb8e878798bd6e31c4)
+
+[Swift EdgeInsetLabel](https://www.notion.so/Swift-EdgeInsetLabel-7eeafc43a60b47e29bf482c344bc0035)
+
+[Device Information](https://github.com/paigeshin/swift_component_device_info)
+
+[Background audio player](https://github.com/paigeshin/swift_component_background_audioplayer)
+
+[Background ImageView](https://github.com/paigeshin/swift_component_backgroundimage)
+
+[Background Video Player](https://github.com/paigeshin/swift_component_background_video_view)
+
+[Toast](https://github.com/paigeshin/swift_component_toast)
+
 [Swift overlay](https://github.com/paigeshin/swift_component_overlay)
 
 [Highest Quality Audio Recorder Setting, notion](https://www.notion.so/Swift-highest-quality-audio-recorder-setting-5d9998282d0c42a08e08715764a5dcf3)
@@ -695,6 +719,10 @@
 
 # Swift Grammar
 
+[Swift get size of String, estimatedRect](https://www.notion.so/Swift-get-size-of-String-estimatedrect-0fe66d9fbeb040beacf855f80952bd9f)
+
+[Number Formatter](https://www.notion.so/Swift-numberFormmatter-37b844943b5b40e5a90408950b91ea44)
+
 [swift array, append & remove](https://www.notion.so/swift-array-append-remove-9c0b4074ee314f539a409b9508ee5662)
 
 [Swift dynamic parameters with dictionary](https://www.notion.so/Swift-dynamic-parameters-with-dictionary-66ccc7030b0c41f5bfe2c77994ca0e8c)
@@ -811,6 +839,17 @@
 
 [Swift button random rendering](https://www.notion.so/Swift-button-random-rendering-4b165d26ff7045228d2b03db3b705b5b)
 
+# Tricks
+
+[Swift Remove from superview](https://www.notion.so/Swift-Remove-from-superview-90a4b3eeff884815a2ea1f86950dac63)
+
+[NavigationBar 아래 line 없애주기](https://www.notion.so/Navigation-Bar-line-5f3649ba63cd4ce2ac3184746d3a0d8c)
+
+[ProgressView 크기 바꿔주기, height](https://www.notion.so/ProgressView-ee127af914524c29bbd42853751d2116)
+
+[ProgressView 이용하여 horizontal ScrollView 표시해주기](https://www.notion.so/ProgressView-horizontal-ScrollView-a7aeca9a4fc24b59b855f2d7c8665b94)
+
+
 # Algorithm
 
 [Swift button random rendering](https://www.notion.so/Swift-button-random-rendering-4b165d26ff7045228d2b03db3b705b5b)
@@ -850,6 +889,8 @@
 
 # CollectionView
 
+[Swift CollectionView 정확한 contentSize 구하기](https://www.notion.so/Swift-collectionview-contentSize-87f348aa120a470e868141ac936e0653)
+
 [Swift decide collectionview cell height dynamically and programmatically](https://www.notion.so/Swift-decide-collectionview-cell-height-dynamically-and-programmatically-80edd48b6350464dbfd27828790f434e)
 
 [Swift handle collection view orientation](https://www.notion.so/Swift-handle-collection-view-orientation-b85de1aa802343f09e783dadba16c374)
@@ -857,6 +898,14 @@
 # NSAttributedString
 
 [Swift NSAttachment](https://www.notion.so/Swift-NSAttachment-0232747a72184f28b1840a2457c6c200)
+
+# ScrollView 
+
+[UIScrollView, contentSize must be wider than its frame width](https://www.notion.so/UIScrollView-contentSize-must-be-wider-than-its-frame-width-986a43fcba19476c9844a9e072d3317b)
+
+[Swift Center ScrollView before being rendered](https://www.notion.so/Swift-Center-ScrollView-before-being-rendered-5e596d3bf24b4a33894810fd898db923)
+
+[Swift Center Scrollview after being rendered](https://www.notion.so/Swift-Center-Scrollview-after-being-rendered-1efe421caea445bfbefa2028f1287622)
 
 # Exterioer API
 
