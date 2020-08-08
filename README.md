@@ -386,6 +386,8 @@
 
 # Audio & Video
 
+[Swift Audio & Video Loading 속도 줄이기](https://www.notion.so/Swift-Audio-Video-Loading-1266570094504be5bef2c45a65ce4a56)
+
 [Highest Quality Audio Recorder Setting, notion](https://www.notion.so/Swift-highest-quality-audio-recorder-setting-5d9998282d0c42a08e08715764a5dcf3)
 
 [Highest Quality Audio Recorder Setting, git](https://github.com/paigeshin/swift_component_highest_quality_recorder_setting)
@@ -504,6 +506,16 @@
 
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[WKWebView](https://www.notion.so/Async-Await-Style-swift-network-function-using-DispatchGroup-a0b36484ebf2472fa75f254b35f39904)
+
+[Async Await Style swift network function](https://www.notion.so/Async-Await-Style-swift-network-function-using-DispatchGroup-a0b36484ebf2472fa75f254b35f39904)
+
+[json formatted object  to swift dictionary type](https://www.notion.so/Swift-make-json-format-object-to-dictionary-type-b821588ab9d044f3b8c9bdde617097da)
+
+[Swift Audio & Video Loading 속도 줄이기](https://www.notion.so/Swift-Audio-Video-Loading-1266570094504be5bef2c45a65ce4a56)
+
+[Swift Component Custom Cacher](https://github.com/paigeshin/swift_component_custom_cacher)
 
 [Swift Blur Effect](https://www.notion.so/Swift-Bubble-Effect-8a21eed4911a41748ae78188c9fb0c61)
 
