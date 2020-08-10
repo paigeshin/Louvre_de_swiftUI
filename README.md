@@ -2,7 +2,7 @@
 
 # Checklist
 
-[Checklist](https://www.notion.so/Swift-Handle-AttributedString-e52a790ca85e4207919588e4cf760fb7)
+[Checklist](https://www.notion.so/ios-Checklist-for-every-project-9412316201744ba5b57582c1fdc07053)
 
 - ios version
 - ipad support
