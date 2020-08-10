@@ -16,6 +16,12 @@
 - keyboard dismiss
 
 
+# File
+
+[How to find the user's documents directory](https://www.hackingwithswift.com/example-code/system/how-to-find-the-users-documents-directory)
+
+[Swift File Handling](https://www.notion.so/Swift-File-Handling-795e48b7d2294caf95bae11283442d43)
+
 # Network
 
 [생 json string 받아오기](https://www.notion.so/Swift-json-string-0f1e8d0c5fa34bfa99a4182fae5f3b49)
@@ -516,6 +522,14 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[Swift Image Downloader](https://github.com/paigeshin/swift_download_image)
+
+[Swift Horizontal Scrolling custom UIView](https://www.notion.so/Swift-Horizontal-Scrolling-custom-UIView-4cda417123fb4345bdc0e7f230191b60)
+
+[UIView에 background 이미지 넣기](https://www.notion.so/UIView-background-image-c35096af49c74c719469cb3f8a5fa905)
+
+[Swift Textfield link 걸기](https://www.notion.so/Swift-textfield-link-4b3731f2e0ad4bd1932411f4bdbaaf64)
+
 [Swift, get all device related information](https://www.notion.so/Swift-get-all-device-related-information-4a996073175b4f43811be2dc3df6e421)
 
 [in-app purchase ViewController](https://www.notion.so/Swift-Component-in-app-purchase-UIViewController-6638974f98ec4add81f35faf1aba563a)
@@ -810,6 +824,8 @@
 
 # Image
 
+[Swift Download image](https://github.com/paigeshin/swift_download_image)
+
 [Swift image fix orientation](https://www.notion.so/Swift-image-fix-orientation-5afe766884a7428b8c5a8b3fe08694cc)
 
 [image Picker Controller Simplified](https://www.notion.so/image-Picker-Controller-Simplified-01f74ce608a645e8b7b7eafd6cc6dcf4)
@@ -872,6 +888,14 @@
 
 # Tricks
 
+[Swift field에서 함수 호출, 원래는 못함.](https://www.notion.so/Swift-field-9ef88092f82a4d7d9f680c8857cfafc3)
+
+[How to find the user's documents directory](https://www.hackingwithswift.com/example-code/system/how-to-find-the-users-documents-directory)
+
+[Swift save object on UserDefaults](https://www.notion.so/Swift-save-object-on-UserDefaults-544054666ff44674ba326d36c5cfd5ab)
+
+[Swift Convenience init](https://www.notion.so/Swift-convenience-init-b170e3766afa4ac89133e1c59ffef285)
+
 [Swift Remove from superview](https://www.notion.so/Swift-Remove-from-superview-90a4b3eeff884815a2ea1f86950dac63)
 
 [NavigationBar 아래 line 없애주기](https://www.notion.so/Navigation-Bar-line-5f3649ba63cd4ce2ac3184746d3a0d8c)
@@ -921,6 +945,10 @@
 [Pod Embedded Swift Standard Libraries](https://www.notion.so/Pod-Embedded-Swift-Standard-Libraries-Bug-0800a23ad2394dd59c8b0cb288cec0d8)
 
 # CollectionView
+
+[Swift handle collectionView orientation](https://www.notion.so/Swift-handle-collection-view-orientation-b85de1aa802343f09e783dadba16c374)
+
+[Swift decide collectionView cell height dynamically and programmatically](https://www.notion.so/Swift-decide-collectionview-cell-height-dynamically-and-programmatically-80edd48b6350464dbfd27828790f434e)
 
 [Swift CollectionView 정확한 contentSize 구하기](https://www.notion.so/Swift-collectionview-contentSize-87f348aa120a470e868141ac936e0653)
 
@@ -1078,3 +1106,11 @@
 # Build App Entirly with Code
 
 [Lecture - build instagram clone, it also includes push message](https://www.notion.so/Swift-Instagram-Clone-without-Storyboard-3a7b693254db4f88a43ff704c166aa24)
+
+# Advanced Topic
+
+[unowned self](https://github.com/paigeshin/unowned_self)
+
+# Core Graphics
+
+[Swift Core Graphics Tutorial](https://www.notion.so/Swift-Coregraphics-Tutorial-05a49a17dd194bef9bc0fd517988a1be)
