@@ -243,6 +243,8 @@
 
 # System
 
+[Swift, get all device related information](https://www.notion.so/Swift-get-all-device-related-information-4a996073175b4f43811be2dc3df6e421)
+
 [Swift working with URLs](https://www.notion.so/Swift-working-with-URLs-92fdd1c11c334091873a5d3cc626c309)
 
 [Swift File](https://github.com/paigeshin/swift_file_handling)
@@ -384,7 +386,11 @@
 
 [Swift extension for NSLayoutConstraint](https://www.notion.so/Swift-extension-for-NSLayoutConstraint-4691ec2de2b94c32aff5836f5744aa94)
 
+[Swift extension, label + styling with linespacing](https://www.notion.so/Swift-extension-label-styling-with-linespacing-50899753ad2448129fb55979f82e6593)
+
 # Audio & Video
+
+[Swift Audio Session for background play](https://www.notion.so/Swift-Audio-Session-for-background-audio-play-f7746bc4709d4a179430a955a2f3a11c)
 
 [Swift Audio & Video Loading 속도 줄이기](https://www.notion.so/Swift-Audio-Video-Loading-1266570094504be5bef2c45a65ce4a56)
 
@@ -504,8 +510,19 @@
 [iOS cloud messaging](https://www.notion.so/iOS-cloud-messaging-06597168ec1443b4ace3e85bd06460c9)
 
 
+# Error Handling
+[Mongo Error code explained + Handle Error in swift](https://www.notion.so/Mongo-Error-code-explained-Handle-Error-in-swift-779e9bc286724c20a929693597d231b3)
+
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Swift, get all device related information](https://www.notion.so/Swift-get-all-device-related-information-4a996073175b4f43811be2dc3df6e421)
+
+[in-app purchase ViewController](https://www.notion.so/Swift-Component-in-app-purchase-UIViewController-6638974f98ec4add81f35faf1aba563a)
+
+[Specify Objects for Notification Center](https://www.notion.so/Swift-Interrupting-sound-debugging-specify-objects-for-notificationCenter-66d0db275efd4714bcfef4764bc3e9e2)
+
+[Swift Button & GestureRecognizer Debouncing](https://www.notion.so/Swift-Button-GestureRecognizer-Debouncing-22d1504fc51041ccb80d7632f22b8c2a)
 
 [WKWebView](https://www.notion.so/Async-Await-Style-swift-network-function-using-DispatchGroup-a0b36484ebf2472fa75f254b35f39904)
 
@@ -869,6 +886,8 @@
 [Swift button random rendering](https://www.notion.so/Swift-button-random-rendering-4b165d26ff7045228d2b03db3b705b5b)
 
 # Debugging
+
+[Swift Interrupting sound debugging, specify objects for notification center](https://www.notion.so/Swift-Interrupting-sound-debugging-specify-objects-for-notificationCenter-66d0db275efd4714bcfef4764bc3e9e2)
 
 [iPad UIActivityViewController Debugging](https://www.notion.so/Swift-UIActivityViewController-ipad-bug-fix-0bf2e426b41c4c3d9f2ed35bf5408e54)
 
