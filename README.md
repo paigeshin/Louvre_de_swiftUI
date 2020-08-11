@@ -1111,9 +1111,59 @@
 - One Signal
 
 
-# Build App Entirly with Code
+# Build App Entirly with Code, Instagram Clone
 
-[Lecture - build instagram clone, it also includes push message](https://www.notion.so/Swift-Instagram-Clone-without-Storyboard-3a7b693254db4f88a43ff704c166aa24)
+[Entire Lecture - build instagram clone, it also includes push message](https://www.notion.so/Swift-Instagram-Clone-without-Storyboard-3a7b693254db4f88a43ff704c166aa24)
+
+[Configure StackView Programmatically](https://www.notion.so/Configure-StackView-Programmatically-9375e58d09594a5bb29119d7c75599ea)
+
+[NSMutableAttributedString Example](https://www.notion.so/NSMutableAttributedString-Example-e8b9f8770ed3408ab98b5728516c880b)
+
+[Create View Programmatically without storyboard](https://www.notion.so/Create-View-Programmatically-without-storyboard-e86d674c85bf4b71a97e8412e3edcbd2)
+
+[Handle ImagePickerController](https://www.notion.so/Handle-ImagePickerController-6717cf004dc440889716d07aaa77837a)
+
+[Configure UITabbarController Programmatically](https://www.notion.so/Configure-UITabbarController-Programmatically-3b871dcfd04c40058487d8d6e6b992ba)
+
+[Go to Next Scene Programmatically, using present()](https://www.notion.so/Go-to-Next-Scene-Programmatically-using-present-ac2ebfd62551461ead6c8d02794d43a1)
+
+[Add Navigation Bar Button Programmatically](https://www.notion.so/Add-Navigation-Bar-Button-Programmatically-96e91695a9734ca9bbaad813c7bc791b)
+
+[Present, as navigation controller](https://www.notion.so/Present-as-navigation-controller-bc9bfa63f22c4a9ca1c1a77228b3d149)
+
+[Swift alertViewController with warning style](https://www.notion.so/Swift-alertViewController-with-warning-style-d26c380113fa49b588076baa07586a9f)
+
+[CollectionViewController, build profile setting screen](https://www.notion.so/CollectionViewController-build-profile-setting-screen-4cdb7828628640bbaaef873d20a12232)
+
+[Define Firebase Model and fetch data](https://www.notion.so/Define-Firebase-Model-and-fetch-data-b4f0de17d1874074bb6e682523e0c398)
+
+[ImageCache](https://www.notion.so/ImageCache-0bd22831a41b45bd96164ac6fd639449)
+
+[UIView extension, anchor](https://www.notion.so/UIView-extension-anchor-4f8198e020324098aa04fc42c83c4a76)
+
+[Set Up For Project without storyboard](https://www.notion.so/Set-Up-For-Project-without-storyboard-9cdfdc6f24174df58c572c7d3ffaf1f4)
+
+[JPEG or PNG Representation](https://www.notion.so/JPEG-or-PNG-Representation-7a9f4844f4ad40d2b0314de445e41a27)
+
+[Swift , delegate `self` ](https://www.notion.so/Swift-delegate-self-ef3e435256cb476092163d8e71c55be5)
+
+[Guard let with boolean value + textfield](https://www.notion.so/Guard-let-with-boolean-value-textfield-be8566d73d9a4cbb97e556ecf18f7667)
+
+[Access button image](https://www.notion.so/Access-button-image-da914d823d6f4cde8fcded3711a1c8cc)
+
+[Minor Tricks, TextField Handling](https://www.notion.so/Minor-Tricks-TextField-Handling-3e6ae18ffc4c4275b293aa67c9ef1c31)
+
+[Handle Screen Transition with NavigationController](https://www.notion.so/Handle-Screen-Transition-with-NavigationController-f73e080ebf524f5eb84f70edb2c6ef89)
+
+[Set Up Navigation Controller Programmatically](https://www.notion.so/Set-Up-Navigation-Controller-Programmatically-6caf140cf39346c8a5c9f24f8a42e65d)
+
+[Use Image Literal](https://www.notion.so/Use-Image-Literal-6a439e560f2d48c3af23c852536e23b9)
+
+[Hide tabbar Controller, UIViewController global variable](https://www.notion.so/Hide-tabbar-Controller-UIViewController-global-variable-cdbc68292395411684ff4ec33446d208)
+
+[Swift autologin feature logic](https://www.notion.so/Swift-autologin-feature-logic-12a30ce3d2274529bde5ceae62b24985)
+
+[Set Navigation Item Title](https://www.notion.so/Set-Navigation-Item-Title-79c24b0043354ad9b3484abf2248f63d)
 
 # Advanced Topic
 
@@ -1124,5 +1174,3 @@
 [Swift Core Graphics Tutorial](https://www.notion.so/Swift-Coregraphics-Tutorial-05a49a17dd194bef9bc0fd517988a1be)
 
 # Local Notification
-
-[Swift Local Notification](https://github.com/paigeshin/Swift_Local_Notification)
