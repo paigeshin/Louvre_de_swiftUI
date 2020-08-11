@@ -396,6 +396,8 @@
 
 # Audio & Video
 
+[How to control the pitch and the speed of audio playback using AVAudioEngine, and AVPlayer](https://www.notion.so/How-to-control-the-pitch-and-the-speed-of-audio-playback-using-AVAudioEngine-along-with-AVPlayer-5a29312f0e7c41d786df5e7d16a8fc28)
+
 [Swift Audio Session for background play](https://www.notion.so/Swift-Audio-Session-for-background-audio-play-f7746bc4709d4a179430a955a2f3a11c)
 
 [Swift Audio & Video Loading 속도 줄이기](https://www.notion.so/Swift-Audio-Video-Loading-1266570094504be5bef2c45a65ce4a56)
@@ -891,6 +893,8 @@
 [Swift button random rendering](https://www.notion.so/Swift-button-random-rendering-4b165d26ff7045228d2b03db3b705b5b)
 
 # Tricks
+
+[Swift Optional Protocol Method](https://www.notion.so/Swift-Optional-Protocol-Method-9c724a8cec1749b39c6d9d9aa36e98ee)
 
 [Swift field에서 함수 호출, 원래는 못함.](https://www.notion.so/Swift-field-9ef88092f82a4d7d9f680c8857cfafc3)
 
