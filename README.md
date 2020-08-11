@@ -522,6 +522,10 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[Swift Local Notification Customization](https://github.com/paigeshin/Swift_Component_Custom_Local_Notification)
+
+[Swift Local Notification](https://github.com/paigeshin/Swift_Local_Notification)
+
 [Swift Image Downloader](https://github.com/paigeshin/swift_download_image)
 
 [Swift Horizontal Scrolling custom UIView](https://www.notion.so/Swift-Horizontal-Scrolling-custom-UIView-4cda417123fb4345bdc0e7f230191b60)
@@ -1114,3 +1118,7 @@
 # Core Graphics
 
 [Swift Core Graphics Tutorial](https://www.notion.so/Swift-Coregraphics-Tutorial-05a49a17dd194bef9bc0fd517988a1be)
+
+# Local Notification
+
+[Swift Local Notification](https://github.com/paigeshin/Swift_Local_Notification)
