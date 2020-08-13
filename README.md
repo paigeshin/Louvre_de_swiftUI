@@ -14,6 +14,7 @@
 - image caching
 - image orientation
 - keyboard dismiss
+- force lowercase  
 
 
 # File
@@ -23,6 +24,12 @@
 [Swift File Handling](https://www.notion.so/Swift-File-Handling-795e48b7d2294caf95bae11283442d43)
 
 # Network
+
+[URLSession, uploading images](https://www.notion.so/URLSession-uploading-images-d08d199b224d45f485cc89b5b46078f3)
+
+[Swift Generics + URLSession + Decodable](https://www.notion.so/Swift-Generics-URLSession-Decodable-e55e53981cb44a15a63a0013e24249d7)
+
+[Swift JSON encode, decode](https://www.notion.so/Swift-JSON-encode-decode-b97383a553154c5a961674b29cbfbbb9)
 
 [생 json string 받아오기](https://www.notion.so/Swift-json-string-0f1e8d0c5fa34bfa99a4182fae5f3b49)
 
@@ -249,6 +256,8 @@
 
 # System
 
+[iOS version별 분기처리](https://www.notion.so/iOS-version-0dc40065cb5044399e4d757889796156)
+
 [Swift, get all device related information](https://www.notion.so/Swift-get-all-device-related-information-4a996073175b4f43811be2dc3df6e421)
 
 [Swift working with URLs](https://www.notion.so/Swift-working-with-URLs-92fdd1c11c334091873a5d3cc626c309)
@@ -344,7 +353,11 @@
 [iOS timer](https://www.notion.so/iOS-timer-a57537eaf26d4cb1a59df29cc70a367e)
 
 
-# TextField
+# TextField, mostly related with user input
+
+[Swift Textfield handling](https://www.notion.so/Swift-Textfield-handling-80c00c3f8f8247619128f378e5194d3b)
+
+[Swift force lowercase](https://www.notion.so/Swift-force-lowercase-0dccae3800974f21ad37d7b58f75e1d7)
 
 [Swift textfield handling, 띄어쓰기 제한 등등..](https://www.notion.so/Swift-textfield-handling-2ce6f0dd794144a1b80109ef7dc067b9)
 
@@ -367,6 +380,8 @@
 [swift image 삽질 교훈 ](https://www.notion.so/swift-image-35464382542149289ee5ffbde01cc4e1)
 
 # Push Message
+
+[Swift ask for remote message permission](https://www.notion.so/Swift-ask-for-remote-message-permission-e3c8270f175c45f6afcfd2e6167e8f2c)
 
 [Swift, get device token for push message](https://www.notion.so/Swift-get-device-token-for-push-message-00c5011e48204e2cb975b5455211975e)
 
@@ -523,6 +538,14 @@
 
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[URLSession, uploading images](https://www.notion.so/URLSession-uploading-images-d08d199b224d45f485cc89b5b46078f3)
+
+[Swift get keyboard height](https://www.notion.so/Swift-get-keyboard-height-0f736d8b639249379524ca33e6c5aa87)
+
+[Swift Keyboard Handling](https://www.notion.so/Swift-Keyboard-Handling-edfdbfdf2b194b699cda0b446f1a3e75)
+
+[GIF Loader](https://www.notion.so/Load-Gif-Swift-ffea6d4344ed4970b5380c035d21c621)
 
 [UIView extension, anchor](https://www.notion.so/UIView-extension-anchor-4f8198e020324098aa04fc42c83c4a76)
 
@@ -770,7 +793,13 @@
 
 [Custom URL Scheme](https://www.notion.so/Custom-URL-Scheme-d0960c0a90524b1392950042a56d580b)
 
+# MVC
+
+[Use Delegates for Cell](https://www.notion.so/Use-Delegates-for-Cell-9657c90b21cb4437b89838e0a095259a)
+
 # Swift Grammar
+
+[Optional 분기처리](https://www.notion.so/Optional-b2fb4148b47245b5a3f007078eb3adff)
 
 [Swift get size of String, estimatedRect](https://www.notion.so/Swift-get-size-of-String-estimatedrect-0fe66d9fbeb040beacf855f80952bd9f)
 
@@ -921,6 +950,8 @@
 
 # Debugging
 
+[anonymous function, add gesture recognizer problem](https://www.notion.so/anonymous-function-add-gesture-recognizer-problem-1b23912fe1ae417c99a19969eccdb63a)
+
 [Swift Interrupting sound debugging, specify objects for notification center](https://www.notion.so/Swift-Interrupting-sound-debugging-specify-objects-for-notificationCenter-66d0db275efd4714bcfef4764bc3e9e2)
 
 [iPad UIActivityViewController Debugging](https://www.notion.so/Swift-UIActivityViewController-ipad-bug-fix-0bf2e426b41c4c3d9f2ed35bf5408e54)
@@ -954,7 +985,28 @@
 
 [Pod Embedded Swift Standard Libraries](https://www.notion.so/Pod-Embedded-Swift-Standard-Libraries-Bug-0800a23ad2394dd59c8b0cb288cec0d8)
 
+# TableView
+
+[TableViewCell, CollectionViewCell Initializer ](https://www.notion.so/TableViewCell-CollectionViewCell-Initializer-fd4afb1639614b38983dac6629775803)
+
+[TableViewCell Defaults View Objects](https://www.notion.so/TableViewCell-Defaults-View-Objects-db924a8efa644842990e38e479fa81cd)
+
+[Configure search page using UITableViewController](https://www.notion.so/Configure-search-page-using-UITableViewController-29a84ed4b88c49bd8d75191319b24025)
+
+[Swift Self-Sizing TableViewCell](https://www.notion.so/Swift-Self-Sizing-TableViewCell-f6d4aa5f3c4f4d13a6bc6d8d8181ee1f)
+
+[Swift Custom TableViewController](https://www.notion.so/Swift-Custom-TableViewController-332f4d1a8f0249f59a3fc96d5c99b2a6)
+
+
 # CollectionView
+
+[TableViewCell, CollectionViewCell Initializer ](https://www.notion.so/TableViewCell-CollectionViewCell-Initializer-fd4afb1639614b38983dac6629775803)
+
+[Swift CollectionViewFlowLayout Delegate Methods](https://www.notion.so/Swift-CollectionViewFlowLayout-Delegate-Methods-d6bf57d24e9640fa9d9bd61bd72a6f4d)
+
+[Swift Self-Sizing CollectionView Cell](https://www.notion.so/Swift-Self-Sizing-CollectionView-Cell-1d1d3f5436a9465896fb21343239f60d)
+
+[Swift CollectionView Insight](https://www.notion.so/Swift-CollectionView-Insight-112d22673f1c405ca1a1f64f2f4db332)
 
 [Swift handle collectionView orientation](https://www.notion.so/Swift-handle-collection-view-orientation-b85de1aa802343f09e783dadba16c374)
 
@@ -1171,8 +1223,65 @@
 
 [unowned self](https://github.com/paigeshin/unowned_self)
 
+[unowned self vs weak self](https://www.notion.so/unowned-self-vs-weak-self-b019cdd557484fc08f022e429e8ae743)
+
+[URLSession, uploading images](https://www.notion.so/URLSession-uploading-images-d08d199b224d45f485cc89b5b46078f3)
+
+[Swift Closure Syntax](https://www.notion.so/Swift-Closure-Syntax-3bd3cedede554becbe23d4e5e1175f5b)
+
+[Swift Higher Order function](https://www.notion.so/Swift-Higher-Order-function-daad47b195f446099a5ace9b54541a01)
+
+[Swift CollectionViewFlowLayout Delegate Methods](https://www.notion.so/Swift-CollectionViewFlowLayout-Delegate-Methods-d6bf57d24e9640fa9d9bd61bd72a6f4d)
+
+[Swift Self-Sizing CollectionView Cell](https://www.notion.so/Swift-Self-Sizing-CollectionView-Cell-1d1d3f5436a9465896fb21343239f60d)
+
+[Swift Self-Sizing TableViewCell](https://www.notion.so/Swift-Self-Sizing-TableViewCell-f6d4aa5f3c4f4d13a6bc6d8d8181ee1f)
+
+[Swift Custom TableViewController](https://www.notion.so/Swift-Custom-TableViewController-332f4d1a8f0249f59a3fc96d5c99b2a6)
+
+[Swift Advanced Error Handling](https://www.notion.so/Swift-Error-Handling-8a412a63a7f74f62a3ae1e89b880342a)
+
+[Swift Generics + URLSession + Decodable](https://www.notion.so/Swift-Generics-URLSession-Decodable-e55e53981cb44a15a63a0013e24249d7)
+
+[Swift JSON encode, decode](https://www.notion.so/Swift-JSON-encode-decode-b97383a553154c5a961674b29cbfbbb9)
+
+[Configure search page using UITableViewController](https://www.notion.so/Configure-search-page-using-UITableViewController-29a84ed4b88c49bd8d75191319b24025)
+
+[TableViewCell Defaults View Objects](https://www.notion.so/TableViewCell-Defaults-View-Objects-db924a8efa644842990e38e479fa81cd)
+
+[Optional 분기처리](https://www.notion.so/Optional-b2fb4148b47245b5a3f007078eb3adff)
+
+[TableViewCell, CollectionViewCell Initializer ](https://www.notion.so/TableViewCell-CollectionViewCell-Initializer-fd4afb1639614b38983dac6629775803)
+
+[anonymous function, add gesture recognizer problem](https://www.notion.so/anonymous-function-add-gesture-recognizer-problem-1b23912fe1ae417c99a19969eccdb63a)
+
+[Follow & Following Logic](https://www.notion.so/Follow-Following-Logic-61cb8da341f24289a7fccc12f2d194c7)
+
+[Use Delegates for Cell](https://www.notion.so/Use-Delegates-for-Cell-9657c90b21cb4437b89838e0a095259a)
+
+[Following JSON Document](https://www.notion.so/Following-JSON-Document-237fbba158934efea9f8ca4e55a73136)
+
+[Track follow status](https://www.notion.so/Track-follow-status-d9beb19763994f1494d5215c6cb1e8b1)
+
+# Error Handling
+
+[Swift Advanced Error Handling](https://www.notion.so/Swift-Error-Handling-8a412a63a7f74f62a3ae1e89b880342a)
+
 # Core Graphics
 
 [Swift Core Graphics Tutorial](https://www.notion.so/Swift-Coregraphics-Tutorial-05a49a17dd194bef9bc0fd517988a1be)
 
 # Local Notification
+
+[iOS notification ](https://www.notion.so/iOS-notification-50bba0238fcb47388af7a9299c81a047)
+
+[Swift Local Notification](https://www.notion.so/Swift-Local-Notification-0fb018b0003b4158b2a2de912d75357e)
+
+
+# Functionality
+
+[Follow & Following Logic](https://www.notion.so/Follow-Following-Logic-61cb8da341f24289a7fccc12f2d194c7)
+
+[Following JSON Document](https://www.notion.so/Following-JSON-Document-237fbba158934efea9f8ca4e55a73136)
+
+[Track follow status](https://www.notion.so/Track-follow-status-d9beb19763994f1494d5215c6cb1e8b1)
