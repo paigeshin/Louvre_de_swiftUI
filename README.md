@@ -1110,6 +1110,8 @@
 
 # xCode
 
+[xCode Tutorial](https://www.notion.so/xCode-Tutorial-2970c50d7fb04f76855433716b0591e2)
+
 [Swift xcode shortcut](https://www.notion.so/Swift-xcode-shortcut-6273d76afb0b4b089e5417b7e267c07d)
 
 [xCode Uses Seperate Tabs](https://www.notion.so/xCode-Uses-Seperate-Tab-15c6fa878a9c42cc8e4ee8e00676bdc8)
