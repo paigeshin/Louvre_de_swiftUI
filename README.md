@@ -403,6 +403,8 @@
 
 # Extension
 
+[Email Validation Extension](https://www.notion.so/Email-Validation-Extension-eb4a64b22a58482198115cbcc50d72c6)
+
 [Swift Button Debouncing](https://www.notion.so/Swift-Button-Debouncing-6529fbcd88754b0295d7b65c89fc6190)
 
 [Swift extension for NSLayoutConstraint](https://www.notion.so/Swift-extension-for-NSLayoutConstraint-4691ec2de2b94c32aff5836f5744aa94)
@@ -537,7 +539,13 @@
 [Mongo Error code explained + Handle Error in swift](https://www.notion.so/Mongo-Error-code-explained-Handle-Error-in-swift-779e9bc286724c20a929693597d231b3)
 
 
+# Reusabilitiy
+
+[Swift measure your code performance](https://www.notion.so/Swift-measure-your-code-performance-e4039194bf464fd8ae452e6dcc3d81d0)
+
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Swift iso time 받아서, converting, 분 - 시간 단위로 바꾸기](https://www.notion.so/Swift-iso-time-converting-80a497f688a8429caa898c830fe38189)
 
 [URLSession, uploading images](https://www.notion.so/URLSession-uploading-images-d08d199b224d45f485cc89b5b46078f3)
 
@@ -925,6 +933,8 @@
 
 # Tricks
 
+[Swift measure your code performance](https://www.notion.so/Swift-measure-your-code-performance-e4039194bf464fd8ae452e6dcc3d81d0)
+
 [Swift Optional Protocol Method](https://www.notion.so/Swift-Optional-Protocol-Method-9c724a8cec1749b39c6d9d9aa36e98ee)
 
 [Swift field에서 함수 호출, 원래는 못함.](https://www.notion.so/Swift-field-9ef88092f82a4d7d9f680c8857cfafc3)
@@ -995,6 +1005,9 @@
 
 [Swift Self-Sizing TableViewCell](https://www.notion.so/Swift-Self-Sizing-TableViewCell-f6d4aa5f3c4f4d13a6bc6d8d8181ee1f)
 
+[Swift EstimatedRect, refer to this document when you want to create dynamic CollectionViewCell & TableViewCell](https://www.notion.so/Swift-get-size-of-String-estimatedrect-0fe66d9fbeb040beacf855f80952bd9f)
+
+
 [Swift Custom TableViewController](https://www.notion.so/Swift-Custom-TableViewController-332f4d1a8f0249f59a3fc96d5c99b2a6)
 
 
@@ -1005,6 +1018,8 @@
 [Swift CollectionViewFlowLayout Delegate Methods](https://www.notion.so/Swift-CollectionViewFlowLayout-Delegate-Methods-d6bf57d24e9640fa9d9bd61bd72a6f4d)
 
 [Swift Self-Sizing CollectionView Cell](https://www.notion.so/Swift-Self-Sizing-CollectionView-Cell-1d1d3f5436a9465896fb21343239f60d)
+
+[Swift EstimatedRect, refer to this document when you want to create dynamic CollectionViewCell & TableViewCell](https://www.notion.so/Swift-get-size-of-String-estimatedrect-0fe66d9fbeb040beacf855f80952bd9f)
 
 [Swift CollectionView Insight](https://www.notion.so/Swift-CollectionView-Insight-112d22673f1c405ca1a1f64f2f4db332)
 
