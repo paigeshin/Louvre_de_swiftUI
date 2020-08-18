@@ -25,6 +25,8 @@
 
 # Network
 
+[Swift - node Multipart-Form handling](https://www.notion.so/Swift-node-Multipart-Form-handling-2b8ad06c4de34f39a329735c6af26083)
+
 [URLSession, uploading images](https://www.notion.so/URLSession-uploading-images-d08d199b224d45f485cc89b5b46078f3)
 
 [Swift Generics + URLSession + Decodable](https://www.notion.so/Swift-Generics-URLSession-Decodable-e55e53981cb44a15a63a0013e24249d7)
@@ -477,6 +479,14 @@
 
 # Data Persistence
 
+[Realm Singleton](https://www.notion.so/Realm-Singleton-d8cd668b339044f78b31cb4083402bba)
+
+[https://github.com/paigeshin/Swift-Node-MultiPart-Form-Example](https://github.com/paigeshin/Swift-Node-MultiPart-Form-Example)
+
+[Realm Data Migration](https://www.notion.so/Realm-Data-Migration-9ce7aa851dd64473b47025e32df540ac)
+
+[https://github.com/paigeshin/Swift-Realm-Data-Migration-Example](https://github.com/paigeshin/Swift-Realm-Data-Migration-Example)
+
 [Download image into Local](https://github.com/paigeshin/swift_download_image)
 
 [Swift realm about primary key](https://www.notion.so/Swift-realm-about-primary-key-f46072b3e3624049b9b3c4668625ca8c)
@@ -525,7 +535,6 @@
 
 
 
-
 # Push Message
 
 [Swift- One signal customization](https://www.notion.so/swift-one-signal-customization-63c1c2087829498bbd1a650f036bea84)
@@ -539,11 +548,17 @@
 [Mongo Error code explained + Handle Error in swift](https://www.notion.so/Mongo-Error-code-explained-Handle-Error-in-swift-779e9bc286724c20a929693597d231b3)
 
 
+
+
 # Reusabilitiy
 
 [Swift measure your code performance](https://www.notion.so/Swift-measure-your-code-performance-e4039194bf464fd8ae452e6dcc3d81d0)
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Swift - node Multipart-Form handling](https://www.notion.so/Swift-node-Multipart-Form-handling-2b8ad06c4de34f39a329735c6af26083)
+
+[Timer 없이 AVPlayer가 진행되는 것을 업데이트 하는 방법. addPeriodicObserver](https://www.notion.so/Swift-AVPlayer-6f338217bf5a447c9fe75ad4039a2566)
 
 [Swift iso time 받아서, converting, 분 - 시간 단위로 바꾸기](https://www.notion.so/Swift-iso-time-converting-80a497f688a8429caa898c830fe38189)
 
@@ -1181,6 +1196,76 @@
 - Parse
 - One Signal
 
+# Error Handling
+
+[Swift Advanced Error Handling](https://www.notion.so/Swift-Error-Handling-8a412a63a7f74f62a3ae1e89b880342a)
+
+# Core Graphics
+
+[Swift Core Graphics Tutorial](https://www.notion.so/Swift-Coregraphics-Tutorial-05a49a17dd194bef9bc0fd517988a1be)
+
+# Local Notification
+
+[iOS notification ](https://www.notion.so/iOS-notification-50bba0238fcb47388af7a9299c81a047)
+
+[Swift Local Notification](https://www.notion.so/Swift-Local-Notification-0fb018b0003b4158b2a2de912d75357e)
+
+
+# Functionality
+
+[Follow & Following Logic](https://www.notion.so/Follow-Following-Logic-61cb8da341f24289a7fccc12f2d194c7)
+
+[Following JSON Document](https://www.notion.so/Following-JSON-Document-237fbba158934efea9f8ca4e55a73136)
+
+[Track follow status](https://www.notion.so/Track-follow-status-d9beb19763994f1494d5215c6cb1e8b1)
+
+# Explore API 
+
+[setNeedsLayout(), layoutIfNeeded(), layoutSubviews() - Reading](https://www.notion.so/setNeedsLayout-layoutIfNeeded-layoutSubviews-Reading-ca16ebc2ae574001b5639526037e51d9)
+
+# Advanced Topic
+
+[unowned self](https://github.com/paigeshin/unowned_self)
+
+[unowned self vs weak self](https://www.notion.so/unowned-self-vs-weak-self-b019cdd557484fc08f022e429e8ae743)
+
+[URLSession, uploading images](https://www.notion.so/URLSession-uploading-images-d08d199b224d45f485cc89b5b46078f3)
+
+[Swift Closure Syntax](https://www.notion.so/Swift-Closure-Syntax-3bd3cedede554becbe23d4e5e1175f5b)
+
+[Swift Higher Order function](https://www.notion.so/Swift-Higher-Order-function-daad47b195f446099a5ace9b54541a01)
+
+[Swift CollectionViewFlowLayout Delegate Methods](https://www.notion.so/Swift-CollectionViewFlowLayout-Delegate-Methods-d6bf57d24e9640fa9d9bd61bd72a6f4d)
+
+[Swift Self-Sizing CollectionView Cell](https://www.notion.so/Swift-Self-Sizing-CollectionView-Cell-1d1d3f5436a9465896fb21343239f60d)
+
+[Swift Self-Sizing TableViewCell](https://www.notion.so/Swift-Self-Sizing-TableViewCell-f6d4aa5f3c4f4d13a6bc6d8d8181ee1f)
+
+[Swift Custom TableViewController](https://www.notion.so/Swift-Custom-TableViewController-332f4d1a8f0249f59a3fc96d5c99b2a6)
+
+[Swift Advanced Error Handling](https://www.notion.so/Swift-Error-Handling-8a412a63a7f74f62a3ae1e89b880342a)
+
+[Swift Generics + URLSession + Decodable](https://www.notion.so/Swift-Generics-URLSession-Decodable-e55e53981cb44a15a63a0013e24249d7)
+
+[Swift JSON encode, decode](https://www.notion.so/Swift-JSON-encode-decode-b97383a553154c5a961674b29cbfbbb9)
+
+[Configure search page using UITableViewController](https://www.notion.so/Configure-search-page-using-UITableViewController-29a84ed4b88c49bd8d75191319b24025)
+
+[TableViewCell Defaults View Objects](https://www.notion.so/TableViewCell-Defaults-View-Objects-db924a8efa644842990e38e479fa81cd)
+
+[Optional 분기처리](https://www.notion.so/Optional-b2fb4148b47245b5a3f007078eb3adff)
+
+[TableViewCell, CollectionViewCell Initializer ](https://www.notion.so/TableViewCell-CollectionViewCell-Initializer-fd4afb1639614b38983dac6629775803)
+
+[anonymous function, add gesture recognizer problem](https://www.notion.so/anonymous-function-add-gesture-recognizer-problem-1b23912fe1ae417c99a19969eccdb63a)
+
+[Follow & Following Logic](https://www.notion.so/Follow-Following-Logic-61cb8da341f24289a7fccc12f2d194c7)
+
+[Use Delegates for Cell](https://www.notion.so/Use-Delegates-for-Cell-9657c90b21cb4437b89838e0a095259a)
+
+[Following JSON Document](https://www.notion.so/Following-JSON-Document-237fbba158934efea9f8ca4e55a73136)
+
+[Track follow status](https://www.notion.so/Track-follow-status-d9beb19763994f1494d5215c6cb1e8b1)
 
 # Build App Entirly with Code, Instagram Clone
 
@@ -1235,70 +1320,3 @@
 [Swift autologin feature logic](https://www.notion.so/Swift-autologin-feature-logic-12a30ce3d2274529bde5ceae62b24985)
 
 [Set Navigation Item Title](https://www.notion.so/Set-Navigation-Item-Title-79c24b0043354ad9b3484abf2248f63d)
-
-# Advanced Topic
-
-[unowned self](https://github.com/paigeshin/unowned_self)
-
-[unowned self vs weak self](https://www.notion.so/unowned-self-vs-weak-self-b019cdd557484fc08f022e429e8ae743)
-
-[URLSession, uploading images](https://www.notion.so/URLSession-uploading-images-d08d199b224d45f485cc89b5b46078f3)
-
-[Swift Closure Syntax](https://www.notion.so/Swift-Closure-Syntax-3bd3cedede554becbe23d4e5e1175f5b)
-
-[Swift Higher Order function](https://www.notion.so/Swift-Higher-Order-function-daad47b195f446099a5ace9b54541a01)
-
-[Swift CollectionViewFlowLayout Delegate Methods](https://www.notion.so/Swift-CollectionViewFlowLayout-Delegate-Methods-d6bf57d24e9640fa9d9bd61bd72a6f4d)
-
-[Swift Self-Sizing CollectionView Cell](https://www.notion.so/Swift-Self-Sizing-CollectionView-Cell-1d1d3f5436a9465896fb21343239f60d)
-
-[Swift Self-Sizing TableViewCell](https://www.notion.so/Swift-Self-Sizing-TableViewCell-f6d4aa5f3c4f4d13a6bc6d8d8181ee1f)
-
-[Swift Custom TableViewController](https://www.notion.so/Swift-Custom-TableViewController-332f4d1a8f0249f59a3fc96d5c99b2a6)
-
-[Swift Advanced Error Handling](https://www.notion.so/Swift-Error-Handling-8a412a63a7f74f62a3ae1e89b880342a)
-
-[Swift Generics + URLSession + Decodable](https://www.notion.so/Swift-Generics-URLSession-Decodable-e55e53981cb44a15a63a0013e24249d7)
-
-[Swift JSON encode, decode](https://www.notion.so/Swift-JSON-encode-decode-b97383a553154c5a961674b29cbfbbb9)
-
-[Configure search page using UITableViewController](https://www.notion.so/Configure-search-page-using-UITableViewController-29a84ed4b88c49bd8d75191319b24025)
-
-[TableViewCell Defaults View Objects](https://www.notion.so/TableViewCell-Defaults-View-Objects-db924a8efa644842990e38e479fa81cd)
-
-[Optional 분기처리](https://www.notion.so/Optional-b2fb4148b47245b5a3f007078eb3adff)
-
-[TableViewCell, CollectionViewCell Initializer ](https://www.notion.so/TableViewCell-CollectionViewCell-Initializer-fd4afb1639614b38983dac6629775803)
-
-[anonymous function, add gesture recognizer problem](https://www.notion.so/anonymous-function-add-gesture-recognizer-problem-1b23912fe1ae417c99a19969eccdb63a)
-
-[Follow & Following Logic](https://www.notion.so/Follow-Following-Logic-61cb8da341f24289a7fccc12f2d194c7)
-
-[Use Delegates for Cell](https://www.notion.so/Use-Delegates-for-Cell-9657c90b21cb4437b89838e0a095259a)
-
-[Following JSON Document](https://www.notion.so/Following-JSON-Document-237fbba158934efea9f8ca4e55a73136)
-
-[Track follow status](https://www.notion.so/Track-follow-status-d9beb19763994f1494d5215c6cb1e8b1)
-
-# Error Handling
-
-[Swift Advanced Error Handling](https://www.notion.so/Swift-Error-Handling-8a412a63a7f74f62a3ae1e89b880342a)
-
-# Core Graphics
-
-[Swift Core Graphics Tutorial](https://www.notion.so/Swift-Coregraphics-Tutorial-05a49a17dd194bef9bc0fd517988a1be)
-
-# Local Notification
-
-[iOS notification ](https://www.notion.so/iOS-notification-50bba0238fcb47388af7a9299c81a047)
-
-[Swift Local Notification](https://www.notion.so/Swift-Local-Notification-0fb018b0003b4158b2a2de912d75357e)
-
-
-# Functionality
-
-[Follow & Following Logic](https://www.notion.so/Follow-Following-Logic-61cb8da341f24289a7fccc12f2d194c7)
-
-[Following JSON Document](https://www.notion.so/Following-JSON-Document-237fbba158934efea9f8ca4e55a73136)
-
-[Track follow status](https://www.notion.so/Track-follow-status-d9beb19763994f1494d5215c6cb1e8b1)
