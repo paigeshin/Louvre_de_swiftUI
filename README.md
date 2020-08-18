@@ -1267,6 +1267,13 @@
 
 [Track follow status](https://www.notion.so/Track-follow-status-d9beb19763994f1494d5215c6cb1e8b1)
 
+# Article
+
+[ios-swift-setNeedsLayout(), layoutIfNeeded(), layoutSubviews() difference](https://medium.com/@abhimuralidharan/ios-swift-setneedslayout-vs-layoutifneeded-vs-layoutsubviews-5a2b486da31c)
+
+[Realm Data Migration Article](https://medium.com/@aliakhtar_16369/migration-with-realm-realmswift-part-6-11c3a7b24955)
+
+
 # Build App Entirly with Code, Instagram Clone
 
 [Entire Lecture - build instagram clone, it also includes push message](https://www.notion.so/Swift-Instagram-Clone-without-Storyboard-3a7b693254db4f88a43ff704c166aa24)
