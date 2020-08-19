@@ -537,6 +537,12 @@
 
 # Push Message
 
+[Remote Push Message](https://www.notion.so/Remote-Push-Message-e64ec7c351f344e6a33bff0c7e4b1d82)
+
+- [https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252](https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252)
+
+- [https://developer.apple.com/documentation/usernotifications/unnotificationcategory](https://developer.apple.com/documentation/usernotifications/unnotificationcategory)
+
 [Swift- One signal customization](https://www.notion.so/swift-one-signal-customization-63c1c2087829498bbd1a650f036bea84)
 
 [https://www.notion.so/Swift-One-Signal-iOS-push-message-installation-d92a0f4bd6a7415292eef825c2bc3532](https://www.notion.so/Swift-One-Signal-iOS-push-message-installation-d92a0f4bd6a7415292eef825c2bc3532)
@@ -1036,6 +1042,8 @@
 
 [Swift EstimatedRect, refer to this document when you want to create dynamic CollectionViewCell & TableViewCell](https://www.notion.so/Swift-get-size-of-String-estimatedrect-0fe66d9fbeb040beacf855f80952bd9f)
 
+[Swift EstimatedRect with `sizeForItemAt`](https://www.notion.so/Swift-decide-collectionview-cell-height-dynamically-and-programmatically-80edd48b6350464dbfd27828790f434e)
+
 [Swift CollectionView Insight](https://www.notion.so/Swift-CollectionView-Insight-112d22673f1c405ca1a1f64f2f4db332)
 
 [Swift handle collectionView orientation](https://www.notion.so/Swift-handle-collection-view-orientation-b85de1aa802343f09e783dadba16c374)
@@ -1268,6 +1276,12 @@
 [Track follow status](https://www.notion.so/Track-follow-status-d9beb19763994f1494d5215c6cb1e8b1)
 
 # Article
+
+
+[ios-remote-push-notifications-in-a-nutshell](https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252)
+=> 별 5개 줄만함 정말 설명 잘해놨음
+
+[unnotificationcategory, official doc](https://developer.apple.com/documentation/usernotifications/unnotificationcategory)
 
 [ios-swift-setNeedsLayout(), layoutIfNeeded(), layoutSubviews() difference](https://medium.com/@abhimuralidharan/ios-swift-setneedslayout-vs-layoutifneeded-vs-layoutsubviews-5a2b486da31c)
 
