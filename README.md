@@ -383,6 +383,20 @@
 
 # Push Message
 
+[node - swift, git repository](https://github.com/paigeshin/swift-apn-node-pushmessage-using-npm-package)
+
+[node - apn](https://www.notion.so/node-apn-c40e0cd139d443f7a995dfa22ef09369)
+
+[https://solarianprogrammer.com/2017/02/14/ios-remote-push-notifications-nodejs-backend/](https://solarianprogrammer.com/2017/02/14/ios-remote-push-notifications-nodejs-backend/)
+
+[https://www.npmjs.com/package/apn](https://www.npmjs.com/package/apn)
+
+[https://levelup.gitconnected.com/send-push-notification-through-apns-using-node-js-7427a01662a2](https://levelup.gitconnected.com/send-push-notification-through-apns-using-node-js-7427a01662a2)
+
+[https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/APNSOverview.html](https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/APNSOverview.html)
+
+[https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/CreatingtheNotificationPayload.html](https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/CreatingtheNotificationPayload.html)
+
 [Swift ask for remote message permission](https://www.notion.so/Swift-ask-for-remote-message-permission-e3c8270f175c45f6afcfd2e6167e8f2c)
 
 [Swift, get device token for push message](https://www.notion.so/Swift-get-device-token-for-push-message-00c5011e48204e2cb975b5455211975e)
