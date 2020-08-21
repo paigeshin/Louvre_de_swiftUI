@@ -411,6 +411,14 @@
 
 [Push Server without FCM, using only npm package](https://github.com/paigeshin/swift-apn-node-pushmessage-using-npm-package)
 
+# Push Message Addtional Information
+
+[https://firebase.google.com/docs/cloud-messaging/ios/send-image](https://firebase.google.com/docs/cloud-messaging/ios/send-image)
+
+[How to show the notification on lock screen!](https://www.notion.so/How-to-show-the-notification-on-lock-screen-9f3ca83689884bf9960b29dab0b2b914)
+
+[https://developer.apple.com/documentation/usernotifications/unusernotificationcenter](https://developer.apple.com/documentation/usernotifications/unusernotificationcenter)
+
 # Get Information
 
 [Swift get OS version](https://www.notion.so/Swift-get-OS-version-f6ec6b3a7804457e9d968a9618c72814)
@@ -1238,9 +1246,14 @@
 
 # Local Notification
 
+**** 엄청 중요. 이 api를 알고 있으면 굳이 항상 push message를 쓸 필요가 없다. ****
+[Swift Local Notification Scheduler](https://www.notion.so/Swift-Local-Notification-Scheduler-79ce00dea1da4de6a9dcd5d92bf0f4f9)
+
 [iOS notification ](https://www.notion.so/iOS-notification-50bba0238fcb47388af7a9299c81a047)
 
 [Swift Local Notification](https://www.notion.so/Swift-Local-Notification-0fb018b0003b4158b2a2de912d75357e)
+
+[How to show the notification on lock screen!](https://www.notion.so/How-to-show-the-notification-on-lock-screen-9f3ca83689884bf9960b29dab0b2b914)
 
 
 # Functionality
