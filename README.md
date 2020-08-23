@@ -1,3 +1,4 @@
+cd ..
 # Louvre_de_swift
 
 # Checklist
@@ -594,6 +595,14 @@
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[Swift Custom Loader](https://www.notion.so/Custom-Loader-90857f2ce4b445a09373431cf9b1e6a0)
+
+[Swift Read info.plist](https://www.notion.so/Read-info-plist-26dfa99ec82a4accbfb318529d0d6268)
+
+[Swift Component, GIF Loader](https://www.notion.so/Swift-Component-gif-loader-0bf7af94def241899f859ab99b2b5dcc)
+
+[Swift - Ideal Shadow Shape](https://www.notion.so/swift-shadow-advanced-fff784d1a5d24980936d37c2d088a660)
+
 [Swift - node Multipart-Form handling](https://www.notion.so/Swift-node-Multipart-Form-handling-2b8ad06c4de34f39a329735c6af26083)
 
 [Timer 없이 AVPlayer가 진행되는 것을 업데이트 하는 방법. addPeriodicObserver](https://www.notion.so/Swift-AVPlayer-6f338217bf5a447c9fe75ad4039a2566)
@@ -1088,6 +1097,10 @@
 
 [Swift handle collection view orientation](https://www.notion.so/Swift-handle-collection-view-orientation-b85de1aa802343f09e783dadba16c374)
 
+# CollectionView & TableView
+
+[Swift cell shadow](https://www.notion.so/Swift-cell-shadow-8bf432435d4d42b582dde7fe76654e79)
+
 # NSAttributedString
 
 [Swift NSAttachment](https://www.notion.so/Swift-NSAttachment-0232747a72184f28b1840a2457c6c200)
@@ -1269,6 +1282,8 @@
 [setNeedsLayout(), layoutIfNeeded(), layoutSubviews() - Reading](https://www.notion.so/setNeedsLayout-layoutIfNeeded-layoutSubviews-Reading-ca16ebc2ae574001b5639526037e51d9)
 
 # Advanced Topic
+
+[Static func vs Class func](https://www.notion.so/Static-func-vs-Class-func-0617313f5d5a46d980e59d6abd7714d4)
 
 [unowned self](https://github.com/paigeshin/unowned_self)
 
