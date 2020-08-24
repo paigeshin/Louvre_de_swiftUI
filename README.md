@@ -595,6 +595,14 @@ cd ..
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
 
+[ChildViewControleller](https://www.notion.so/ChildViewControleller-1e556d0b212740de9333ada7533170e3)
+
+**** 엄청 중요. 내가 원하는 어플리케이션들을 만들 수 있는 엄청난 단서 ****  
+[Swift Weekly or Three Days Local Notifcaiton Scheduler](https://github.com/paigeshin/Swift-Weekly-or-Three-Days-Notification-Scheduler)
+
+**** 엄청 중요. 이 api를 알고 있으면 굳이 항상 push message를 쓸 필요가 없다. ****  
+[Swift Local Notification Scheduler](https://www.notion.so/Swift-Local-Notification-Scheduler-79ce00dea1da4de6a9dcd5d92bf0f4f9)
+
 [Swift Custom Loader](https://www.notion.so/Custom-Loader-90857f2ce4b445a09373431cf9b1e6a0)
 
 [Swift Read info.plist](https://www.notion.so/Read-info-plist-26dfa99ec82a4accbfb318529d0d6268)
@@ -1259,7 +1267,10 @@ cd ..
 
 # Local Notification
 
-**** 엄청 중요. 이 api를 알고 있으면 굳이 항상 push message를 쓸 필요가 없다. ****
+**** 엄청 중요. 내가 원하는 어플리케이션들을 만들 수 있는 엄청난 단서 ****  
+[Swift Weekly or Three Days Local Notifcaiton Scheduler](https://github.com/paigeshin/Swift-Weekly-or-Three-Days-Notification-Scheduler)
+
+**** 엄청 중요. 이 api를 알고 있으면 굳이 항상 push message를 쓸 필요가 없다. ****  
 [Swift Local Notification Scheduler](https://www.notion.so/Swift-Local-Notification-Scheduler-79ce00dea1da4de6a9dcd5d92bf0f4f9)
 
 [iOS notification ](https://www.notion.so/iOS-notification-50bba0238fcb47388af7a9299c81a047)
@@ -1282,6 +1293,8 @@ cd ..
 [setNeedsLayout(), layoutIfNeeded(), layoutSubviews() - Reading](https://www.notion.so/setNeedsLayout-layoutIfNeeded-layoutSubviews-Reading-ca16ebc2ae574001b5639526037e51d9)
 
 # Advanced Topic
+
+[Auto Resizing Mask](https://www.notion.so/Auto-Resizing-Mask-96d9875672124146a1f42876faee5967)
 
 [Static func vs Class func](https://www.notion.so/Static-func-vs-Class-func-0617313f5d5a46d980e59d6abd7714d4)
 
