@@ -384,6 +384,8 @@ cd ..
 
 # Push Message
 
+[Notification Badge Handling](https://www.notion.so/Notification-Badge-Handling-7e30131a03044905b7bbe04d92d13de0)
+
 [node - swift, git repository](https://github.com/paigeshin/swift-apn-node-pushmessage-using-npm-package)
 
 [node - apn](https://www.notion.so/node-apn-c40e0cd139d443f7a995dfa22ef09369)
@@ -1288,6 +1290,8 @@ cd ..
 [Once a week Notification](https://www.notion.so/Once-a-week-Notification-4798b7af4e874e5baa1632ad6b08a34a)
 
 [Local Notification, stackoverflow](https://stackoverflow.com/questions/39713605/getting-local-notifications-to-show-while-app-is-in-foreground-swift-3)
+
+[Notification Badge Handling](https://www.notion.so/Notification-Badge-Handling-7e30131a03044905b7bbe04d92d13de0)
 
 
 # Deep Linking & Universal Link
