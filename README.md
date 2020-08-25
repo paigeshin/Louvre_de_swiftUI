@@ -1030,6 +1030,8 @@ cd ..
 
 # Debugging
 
+[PopToViewController Correct Way](https://www.notion.so/PopToViewController-Correct-Way-navigation-controllers-looping-cd13714d7bc34e66abd13f30c1dd600d)
+
 [anonymous function, add gesture recognizer problem](https://www.notion.so/anonymous-function-add-gesture-recognizer-problem-1b23912fe1ae417c99a19969eccdb63a)
 
 [Swift Interrupting sound debugging, specify objects for notification center](https://www.notion.so/Swift-Interrupting-sound-debugging-specify-objects-for-notificationCenter-66d0db275efd4714bcfef4764bc3e9e2)
@@ -1279,6 +1281,20 @@ cd ..
 
 [How to show the notification on lock screen!](https://www.notion.so/How-to-show-the-notification-on-lock-screen-9f3ca83689884bf9960b29dab0b2b914)
 
+[Rich Notification Swift (category)](https://www.notion.so/Rich-Notification-Swift-category-15f4d6b0e87843c6a51409f13e589bb4)
+
+[Swift Local Notification on the foreground](https://www.notion.so/Swift-Local-Notification-on-the-foreground-f249172821ee4815b0b9a034c3cbe6be)
+
+[Once a week Notification](https://www.notion.so/Once-a-week-Notification-4798b7af4e874e5baa1632ad6b08a34a)
+
+[Local Notification, stackoverflow](https://stackoverflow.com/questions/39713605/getting-local-notifications-to-show-while-app-is-in-foreground-swift-3)
+
+
+# Deep Linking & Universal Link
+
+[Deep Linking, go to specific scene with URL](https://www.notion.so/Deep-Linking-go-to-specific-scene-with-URL-a8eaf120f70046c089f827eab3bc3dba)
+
+[custom url scheme with deep link](https://www.swiftdevcenter.com/custom-url-scheme-deep-link-ios-13-and-later-swift-5/)
 
 # Functionality
 
