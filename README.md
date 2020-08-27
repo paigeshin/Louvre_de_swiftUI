@@ -1127,6 +1127,10 @@ cd ..
 
 # Exterioer API
 
+[Kakao API Official Doc, Lastest Version, 2020-08-27](https://developers.kakao.com/docs/latest/ko/getting-started/sdk-ios#apply-sdk)
+
+[Kakao API, Lastest Version, 2020-08-27](https://www.notion.so/KakaoTalk-594d4dce60a245a18cd70d311ad31ac4)
+
 [kakao login user response, 2020,08-01](https://www.notion.so/kakao-user-response-2020-08-01-20f9bf8643ea4a96b1eb4b8b2317b71e)
 
 [naver login](https://www.notion.so/ios-naver-login-a0338c3f316f4c4485c8458392d488a9)
