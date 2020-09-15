@@ -358,6 +358,8 @@ cd ..
 
 # TextField, mostly related with user input
 
+[Swift Textfield, keyboard handling](https://www.notion.so/Swift-Textfield-keyboard-handling-f58b81a441934c6480672dde525bbe8c)
+
 [Swift Textfield handling](https://www.notion.so/Swift-Textfield-handling-80c00c3f8f8247619128f378e5194d3b)
 
 [Swift force lowercase](https://www.notion.so/Swift-force-lowercase-0dccae3800974f21ad37d7b58f75e1d7)
@@ -590,12 +592,25 @@ cd ..
 
 
 
-
 # Reusabilitiy
 
 [Swift measure your code performance](https://www.notion.so/Swift-measure-your-code-performance-e4039194bf464fd8ae452e6dcc3d81d0)
 
+
+# Reusable Extensions - 엄청 유용한 extension들만...
+
+[Swift, add bottom border (working really well)](https://www.notion.so/Swift-add-bottom-border-working-really-well-f63cb5501bb740bcbad2ca4db2bbe476) 
+
+[Swift, textfield, check if it's alphanumeric](https://www.notion.so/Swift-textfield-check-if-it-s-alphanumeric-46c2c934d00c4f6589aca4c54bfcf8ba)
+
+
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Swift regex, passwords](https://www.notion.so/Swift-regex-passwords-3b4771c5462d46c786686bd0aa5b54ec)
+
+[Swift, add bottom border (working really well)](https://www.notion.so/Swift-add-bottom-border-working-really-well-f63cb5501bb740bcbad2ca4db2bbe476)
+
+[Swift PickerView](https://www.notion.so/Swift-PickerView-0b7ec0fe28d44d3597291804b78bc295)
 
 [ChildViewControleller](https://www.notion.so/ChildViewControleller-1e556d0b212740de9333ada7533170e3)
 
@@ -1004,6 +1019,10 @@ cd ..
 [Swift button random rendering](https://www.notion.so/Swift-button-random-rendering-4b165d26ff7045228d2b03db3b705b5b)
 
 # Tricks
+
+[Swift Textfield, keyboard handling](https://www.notion.so/Swift-Textfield-keyboard-handling-f58b81a441934c6480672dde525bbe8c)
+
+[Swift, 다른 hosting view에서 함수 정의하게 하게 , using `typealias`](https://www.notion.so/Swift-hosting-view-using-typealias-9637027bae7b4f2cbd017cbe198be54b)
 
 [Swift measure your code performance](https://www.notion.so/Swift-measure-your-code-performance-e4039194bf464fd8ae452e6dcc3d81d0)
 
