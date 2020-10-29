@@ -378,6 +378,12 @@ cd ..
 
 [Swift Limit textfield character length](https://www.notion.so/Swift-Limit-textfield-character-length-e9171912f5c44fbba520fd9ee274771b)
 
+[Swift, textfield, check if it's alphanumeric](https://www.notion.so/Swift-textfield-check-if-it-s-alphanumeric-46c2c934d00c4f6589aca4c54bfcf8ba)
+
+[Swift Textfield, keyboard handling](https://www.notion.so/Swift-Textfield-keyboard-handling-f58b81a441934c6480672dde525bbe8c)
+
+[Swift regex, passwords](https://www.notion.so/Swift-regex-passwords-3b4771c5462d46c786686bd0aa5b54ec)
+
 # 삽질 - 적어도 3시간 이상 해매인 것들만 적는다
 
 [Swift bulk json data 보내기 ](https://www.notion.so/Swift-bulk-json-data-7ceaa8af9c7249b5a4d93c631c864e22)
@@ -605,6 +611,12 @@ cd ..
 
 
 # Component - 다음 프로젝트때 쓸 가능성이 높은 것들
+
+[Swift, 다른 hosting view에서 함수 정의하게 하게 , using `typealias`](https://www.notion.so/Swift-hosting-view-using-typealias-9637027bae7b4f2cbd017cbe198be54b)
+
+[Swift Logout](https://www.notion.so/Swift-Logout-ebf5c677132e490184529a20966bcfab)
+
+[Swift Apple sign in ](https://www.notion.so/Swift-Apple-sign-in-9343f000948248c79734197a7355d919)
 
 [Swift regex, passwords](https://www.notion.so/Swift-regex-passwords-3b4771c5462d46c786686bd0aa5b54ec)
 
