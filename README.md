@@ -390,6 +390,8 @@ cd ..
 
 [swift image 삽질 교훈 ](https://www.notion.so/swift-image-35464382542149289ee5ffbde01cc4e1)
 
+Apple login 때문에 너무 힘들었다. 코드를 아무리 뜯어봐도 소용이 없었음.. 알고보니 xCode 자체의 버그로 이미 생성된 프로젝트 이후에 entitlement에 Apple SignIn이 추가가 안되서 생겨나는 버그였음.
+
 # Push Message
 
 [Notification Badge Handling](https://www.notion.so/Notification-Badge-Handling-7e30131a03044905b7bbe04d92d13de0)
@@ -1395,6 +1397,7 @@ cd ..
 
 [Track follow status](https://www.notion.so/Track-follow-status-d9beb19763994f1494d5215c6cb1e8b1)
 
+
 # Article
 
 
@@ -1461,3 +1464,5 @@ cd ..
 [Swift autologin feature logic](https://www.notion.so/Swift-autologin-feature-logic-12a30ce3d2274529bde5ceae62b24985)
 
 [Set Navigation Item Title](https://www.notion.so/Set-Navigation-Item-Title-79c24b0043354ad9b3484abf2248f63d)
+
+[Adaptive Layout](https://medium.com/@nikeshakya51/responsive-design-in-ios-b35dc7f22821)
