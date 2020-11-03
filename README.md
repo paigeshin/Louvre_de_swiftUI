@@ -5,6 +5,7 @@ cd ..
 
 [Checklist](https://www.notion.so/ios-Checklist-for-every-project-9412316201744ba5b57582c1fdc07053)
 
+- adaptive layout
 - ios version
 - ipad support
 - dark mode
@@ -1466,3 +1467,5 @@ Apple login 때문에 너무 힘들었다. 코드를 아무리 뜯어봐도 소�
 [Set Navigation Item Title](https://www.notion.so/Set-Navigation-Item-Title-79c24b0043354ad9b3484abf2248f63d)
 
 [Adaptive Layout](https://medium.com/@nikeshakya51/responsive-design-in-ios-b35dc7f22821)
+
+[Adaptive Layout Project Configuration](https://github.com/paigeshin/Swift_AdaptiveLayout_Project_Template)
