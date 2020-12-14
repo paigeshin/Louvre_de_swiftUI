@@ -25,6 +25,8 @@ cd ..
 
 [Swift File Handling](https://www.notion.so/Swift-File-Handling-795e48b7d2294caf95bae11283442d43)
 
+[get file size](https://www.notion.so/get-file-size-2a04c1e906824aeb8031800a414e8330)
+
 # Network
 
 [Swift - node Multipart-Form handling](https://www.notion.so/Swift-node-Multipart-Form-handling-2b8ad06c4de34f39a329735c6af26083)
