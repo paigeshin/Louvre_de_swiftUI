@@ -1481,3 +1481,11 @@ Apple login 때문에 너무 힘들었다. 코드를 아무리 뜯어봐도 소�
 [SwiftUI State Management on git](https://github.com/paigeshin/SwiftUI_State_Management)
 
 [SwiftUI handling event](https://www.notion.so/SwiftUI-handling-event-7fea99033986447299a49fdfca135579)
+
+[SwiftUI - Obverver Pattern, Screen Navigation, UIKit Component on git](https://github.com/paigeshin/SwiftUI_ObserverPattern_Navigation_UIkitComponent)
+
+[SwiftUI Observer Pattern and use UIKit](https://www.notion.so/SwiftUI-Observer-Pattern-and-use-UIKit-a00337e1a16c4c458045257c0c297555)
+
+# Swift UI Reusable Component
+
+[WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
