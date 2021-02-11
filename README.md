@@ -1477,3 +1477,7 @@ Apple login 때문에 너무 힘들었다. 코드를 아무리 뜯어봐도 소�
 [Create your own component on git](https://github.com/paigeshin/SwiftUI_create_custom_componenent_view)
 
 [Make your own component](https://www.notion.so/Make-your-own-component-722020cab0ea4f4db6841ce658fec142)
+
+[SwiftUI State Management on git](https://github.com/paigeshin/SwiftUI_State_Management)
+
+[SwiftUI handling event](https://www.notion.so/SwiftUI-handling-event-7fea99033986447299a49fdfca135579)
