@@ -1,5 +1,106 @@
 # Louvre_de_swift
 
+# Swift UI
+
+[Create your own component on git](https://github.com/paigeshin/SwiftUI_create_custom_componenent_view)
+
+[Make your own component](https://www.notion.so/Make-your-own-component-722020cab0ea4f4db6841ce658fec142)
+
+[SwiftUI State Management on git](https://github.com/paigeshin/SwiftUI_State_Management)
+
+[SwiftUI handling event](https://www.notion.so/SwiftUI-handling-event-7fea99033986447299a49fdfca135579)
+
+[SwiftUI - Obverver Pattern, Screen Navigation, UIKit Component on git](https://github.com/paigeshin/SwiftUI_ObserverPattern_Navigation_UIkitComponent)
+
+[SwiftUI Observer Pattern and use UIKit](https://www.notion.so/SwiftUI-Observer-Pattern-and-use-UIKit-a00337e1a16c4c458045257c0c297555)
+
+# Swift UI Reusable Component
+
+[WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
+
+# App Samples
+
+[Fruits](https://www.notion.so/Fruits-d71be810df4047038f7c04fb0cee6270)
+
+[https://github.com/paigeshin/SwiftUI_fruit_app](https://github.com/paigeshin/SwiftUI_fruit_app)
+
+[Fruits UI Library](https://www.notion.so/Fruits-UI-Library-e41b1d75fc314ad1a8c9ce1c57991548)
+
+[Africa, map, advanced grid handling ](https://www.notion.so/Africa-map-advanced-grid-handling-a41972d8c0a24b6c8ea536d550dbf47f)
+
+[JSON Decoder](https://www.notion.so/JSON-Decoder-5fb71073292541f5a95180054f642b73)
+
+[Africa UI Library](https://www.notion.so/Africa-UI-Library-c35b5164a25e4e0da1c4c187e27cf607)
+
+[https://github.com/paigeshin/SwiftUI_afreeca](https://github.com/paigeshin/SwiftUI_afreeca)
+
+[TouchDown](https://www.notion.so/TouchDown-1a818066f90747ebb78fca326ff1d828)
+
+[xCode create your own code snippet](https://www.notion.so/xCode-create-your-own-code-snippet-8da63b3a08c040e5a51b0fc35e4c0368)
+
+[Create custom shape](https://www.notion.so/Create-custom-shape-c68ac1ba7c6e4fa5b11921021f9f7e58)
+
+[TouchDown UILibrary](https://www.notion.so/TouchDown-UILibrary-b4d900f46ab24455b0834aeea5387859)
+
+[https://github.com/paigeshin/SwiftUI_TouchDown_ShoppingMall_EnvrionmentObject_topnavigation_with_safe_area-custom_navigation_bar](https://github.com/paigeshin/SwiftUI_TouchDown_ShoppingMall_EnvrionmentObject_topnavigation_with_safe_area-custom_navigation_bar)
+
+[Developers](https://www.notion.so/Developers-d7464b894bad4b5c94e8b6903332ec03)
+
+[Developers UI Library (Animation Heavy)](https://www.notion.so/Developers-UI-Library-Animation-Heavy-e18ac5e831c24e3c8cec798e6b910be0)
+
+[https://github.com/paigeshin/SwiftUI_Developers_App_Animation](https://github.com/paigeshin/SwiftUI_Developers_App_Animation)
+
+[Avocado](https://www.notion.so/Avocado-75cd0407dc5e414aab2ed6840c9d7058)
+
+[Avocado UI Library](https://www.notion.so/Avocado-UI-Library-b23761a457154a6bb3e5b22478b283a3)
+
+[https://github.com/paigeshin/SwiftUI_avocado](https://github.com/paigeshin/SwiftUI_avocado)
+
+[Slot machine](https://www.notion.so/Slot-machine-68d1e3d3fad149cf860f77c343080d84)
+
+[Slot Machine UILibrary](https://www.notion.so/Slot-Machine-UILibrary-a78ecc28ff6b40d28e86e06f43be737b)
+
+[https://github.com/paigeshin/SwiftUI_Slot_Machine](https://github.com/paigeshin/SwiftUI_Slot_Machine)
+
+[ToDoList - Core Data ](https://www.notion.so/ToDoList-Core-Data-a7a44c1315e244e0a8c5d5625ed77488)
+
+[Todo List UILibrary](https://www.notion.so/Todo-List-UILibrary-1643e5f4fbfd4606ac5d86f9f0ed3da7)
+
+[https://github.com/paigeshin/SwiftUI_TodoList](https://github.com/paigeshin/SwiftUI_TodoList)
+
+[Honeymoon, @Binding, Tinder Style Swiping ](https://www.notion.so/Honeymoon-Binding-Tinder-Style-Swiping-6335f4cfd73345e0b33fd9aa32cadef3)
+
+[HoneyMoon UILibrary](https://www.notion.so/HoneyMoon-UILibrary-6d8da0cd6c8a466588ee0827fed6de12)
+
+[https://github.com/paigeshin/SwiftUI_HoneyMoon_TinderStyleAnimation](https://github.com/paigeshin/SwiftUI_HoneyMoon_TinderStyleAnimation)
+
+
+# Functionality
+
+[Start TTS](https://www.notion.so/Start-TTS-51d077b47dbe40d694b76ab7e763392f)
+
+[Open URL](https://www.notion.so/Open-URL-b757d0bdae954a1282952a251ece5f7d)
+
+[Share String](https://www.notion.so/Share-String-71bcbb66869b4b30abbd2b57843180bf)
+
+# Logic 
+
+[SwiftUI For i Loop to change value by looping ](https://www.notion.so/SwiftUI-For-i-Loop-to-change-value-by-looping-6f2c7e1173f943aba2f1a9a6f4d6f3e9)
+
+# Component
+
+[BlurView](https://www.notion.so/BlurView-1eaa521310d74b3cb6bf13bd509f9396)
+
+[CustomAlertView](https://www.notion.so/CustomAlertView-1fd63d2072e04180a9cc03519671d451)
+
+[HUD ProgressView](https://www.notion.so/HUD-ProgressView-e30a338ce61e462d90b4b4a9b749d791)
+
+[ShowAlert](https://www.notion.so/ShowAlert-3544ac94afe24628b58e64a958fa8020)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# ***** 사실상 SwiftUI와 Storyboard 개발은 같은 언어나 완전 다른 방식이므로 여기서부터는 구분을 둔다. 구분선 아래부터는 과거에 사용했던 Storyboard 또는 순수 코딩 레이아웃 내용들.. *****
+
 # Checklist
 
 [Checklist](https://www.notion.so/ios-Checklist-for-every-project-9412316201744ba5b57582c1fdc07053)
@@ -1470,81 +1571,3 @@ Apple login 때문에 너무 힘들었다. 코드를 아무리 뜯어봐도 소�
 [Adaptive Layout](https://medium.com/@nikeshakya51/responsive-design-in-ios-b35dc7f22821)
 
 [Adaptive Layout Project Configuration](https://github.com/paigeshin/Swift_AdaptiveLayout_Project_Template)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# ***** 사실상 SwiftUI와 Storyboard 개발은 같은 언어나 완전 다른 방식이므로 여기서부터는 구분을 둔다. *****
-
-# Swift UI
-
-[Create your own component on git](https://github.com/paigeshin/SwiftUI_create_custom_componenent_view)
-
-[Make your own component](https://www.notion.so/Make-your-own-component-722020cab0ea4f4db6841ce658fec142)
-
-[SwiftUI State Management on git](https://github.com/paigeshin/SwiftUI_State_Management)
-
-[SwiftUI handling event](https://www.notion.so/SwiftUI-handling-event-7fea99033986447299a49fdfca135579)
-
-[SwiftUI - Obverver Pattern, Screen Navigation, UIKit Component on git](https://github.com/paigeshin/SwiftUI_ObserverPattern_Navigation_UIkitComponent)
-
-[SwiftUI Observer Pattern and use UIKit](https://www.notion.so/SwiftUI-Observer-Pattern-and-use-UIKit-a00337e1a16c4c458045257c0c297555)
-
-# Swift UI Reusable Component
-
-[WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
-
-# App Samples
-
-[Fruits](https://www.notion.so/Fruits-d71be810df4047038f7c04fb0cee6270)
-
-[https://github.com/paigeshin/SwiftUI_fruit_app](https://github.com/paigeshin/SwiftUI_fruit_app)
-
-[Fruits UI Library](https://www.notion.so/Fruits-UI-Library-e41b1d75fc314ad1a8c9ce1c57991548)
-
-[Africa, map, advanced grid handling ](https://www.notion.so/Africa-map-advanced-grid-handling-a41972d8c0a24b6c8ea536d550dbf47f)
-
-[JSON Decoder](https://www.notion.so/JSON-Decoder-5fb71073292541f5a95180054f642b73)
-
-[Africa UI Library](https://www.notion.so/Africa-UI-Library-c35b5164a25e4e0da1c4c187e27cf607)
-
-[https://github.com/paigeshin/SwiftUI_afreeca](https://github.com/paigeshin/SwiftUI_afreeca)
-
-[TouchDown](https://www.notion.so/TouchDown-1a818066f90747ebb78fca326ff1d828)
-
-[xCode create your own code snippet](https://www.notion.so/xCode-create-your-own-code-snippet-8da63b3a08c040e5a51b0fc35e4c0368)
-
-[Create custom shape](https://www.notion.so/Create-custom-shape-c68ac1ba7c6e4fa5b11921021f9f7e58)
-
-[TouchDown UILibrary](https://www.notion.so/TouchDown-UILibrary-b4d900f46ab24455b0834aeea5387859)
-
-[https://github.com/paigeshin/SwiftUI_TouchDown_ShoppingMall_EnvrionmentObject_topnavigation_with_safe_area-custom_navigation_bar](https://github.com/paigeshin/SwiftUI_TouchDown_ShoppingMall_EnvrionmentObject_topnavigation_with_safe_area-custom_navigation_bar)
-
-[Developers](https://www.notion.so/Developers-d7464b894bad4b5c94e8b6903332ec03)
-
-[Developers UI Library (Animation Heavy)](https://www.notion.so/Developers-UI-Library-Animation-Heavy-e18ac5e831c24e3c8cec798e6b910be0)
-
-[https://github.com/paigeshin/SwiftUI_Developers_App_Animation](https://github.com/paigeshin/SwiftUI_Developers_App_Animation)
-
-[Avocado](https://www.notion.so/Avocado-75cd0407dc5e414aab2ed6840c9d7058)
-
-[Avocado UI Library](https://www.notion.so/Avocado-UI-Library-b23761a457154a6bb3e5b22478b283a3)
-
-[https://github.com/paigeshin/SwiftUI_avocado](https://github.com/paigeshin/SwiftUI_avocado)
-
-[Slot machine](https://www.notion.so/Slot-machine-68d1e3d3fad149cf860f77c343080d84)
-
-[Slot Machine UILibrary](https://www.notion.so/Slot-Machine-UILibrary-a78ecc28ff6b40d28e86e06f43be737b)
-
-[https://github.com/paigeshin/SwiftUI_Slot_Machine](https://github.com/paigeshin/SwiftUI_Slot_Machine)
-
-[ToDoList - Core Data ](https://www.notion.so/ToDoList-Core-Data-a7a44c1315e244e0a8c5d5625ed77488)
-
-[Todo List UILibrary](https://www.notion.so/Todo-List-UILibrary-1643e5f4fbfd4606ac5d86f9f0ed3da7)
-
-[https://github.com/paigeshin/SwiftUI_TodoList](https://github.com/paigeshin/SwiftUI_TodoList)
-
-[Honeymoon, @Binding, Tinder Style Swiping ](https://www.notion.so/Honeymoon-Binding-Tinder-Style-Swiping-6335f4cfd73345e0b33fd9aa32cadef3)
-
-[HoneyMoon UILibrary](https://www.notion.so/HoneyMoon-UILibrary-6d8da0cd6c8a466588ee0827fed6de12)
-
-[https://github.com/paigeshin/SwiftUI_HoneyMoon_TinderStyleAnimation](https://github.com/paigeshin/SwiftUI_HoneyMoon_TinderStyleAnimation)
