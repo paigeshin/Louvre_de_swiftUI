@@ -14,9 +14,39 @@
 
 [SwiftUI Observer Pattern and use UIKit](https://www.notion.so/SwiftUI-Observer-Pattern-and-use-UIKit-a00337e1a16c4c458045257c0c297555)
 
-# Swift UI Reusable Component
+# View Component  
+
+[BlurView](https://www.notion.so/BlurView-1eaa521310d74b3cb6bf13bd509f9396)
+
+[CustomAlertView](https://www.notion.so/CustomAlertView-1fd63d2072e04180a9cc03519671d451)
+
+[HUD ProgressView](https://www.notion.so/HUD-ProgressView-e30a338ce61e462d90b4b4a9b749d791)
+
+[ShowAlert](https://www.notion.so/ShowAlert-3544ac94afe24628b58e64a958fa8020)
+
+# Swift UI Reusable Component For Functionality
 
 [WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
+
+[Load Image URL](https://www.notion.so/Load-Image-URL-d01e712b45ec460eaea5560a77ede8cc)
+
+# Functionality - Functions 
+
+[Start TTS](https://www.notion.so/Start-TTS-51d077b47dbe40d694b76ab7e763392f)
+
+[Open URL](https://www.notion.so/Open-URL-b757d0bdae954a1282952a251ece5f7d)
+
+[Share String](https://www.notion.so/Share-String-71bcbb66869b4b30abbd2b57843180bf)
+
+# Functionality - System
+
+[Localization ](https://www.notion.so/Localization-9613c84268dd45508a5675af83c96a59)
+
+[Localize with user selection](https://www.notion.so/Localize-with-user-selection-366ca22d8025456e822598bd1a3362d5)
+
+# Logic 
+
+[SwiftUI For i Loop to change value by looping ](https://www.notion.so/SwiftUI-For-i-Loop-to-change-value-by-looping-6f2c7e1173f943aba2f1a9a6f4d6f3e9)
 
 # App Samples
 
@@ -74,28 +104,6 @@
 
 [https://github.com/paigeshin/SwiftUI_HoneyMoon_TinderStyleAnimation](https://github.com/paigeshin/SwiftUI_HoneyMoon_TinderStyleAnimation)
 
-
-# Functionality
-
-[Start TTS](https://www.notion.so/Start-TTS-51d077b47dbe40d694b76ab7e763392f)
-
-[Open URL](https://www.notion.so/Open-URL-b757d0bdae954a1282952a251ece5f7d)
-
-[Share String](https://www.notion.so/Share-String-71bcbb66869b4b30abbd2b57843180bf)
-
-# Logic 
-
-[SwiftUI For i Loop to change value by looping ](https://www.notion.so/SwiftUI-For-i-Loop-to-change-value-by-looping-6f2c7e1173f943aba2f1a9a6f4d6f3e9)
-
-# Component
-
-[BlurView](https://www.notion.so/BlurView-1eaa521310d74b3cb6bf13bd509f9396)
-
-[CustomAlertView](https://www.notion.so/CustomAlertView-1fd63d2072e04180a9cc03519671d451)
-
-[HUD ProgressView](https://www.notion.so/HUD-ProgressView-e30a338ce61e462d90b4b4a9b749d791)
-
-[ShowAlert](https://www.notion.so/ShowAlert-3544ac94afe24628b58e64a958fa8020)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
