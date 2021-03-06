@@ -48,6 +48,8 @@
 
 [Lottie Animation](https://www.notion.so/Lottie-Animation-084f19e7ec224a9486fb8f66999b1d87)
 
+[Half Modal View ](https://www.notion.so/Half-Modal-View-d217e75a14404423ac0d344e676aca02)
+
 # Extensions
 
 [Roundeded Corners Extended ](https://www.notion.so/Roundeded-Corners-Extended-c28fccaedee2450c97cc8ab1d95b3754)
@@ -66,8 +68,6 @@
 
 [Load Image URL](https://www.notion.so/Load-Image-URL-d01e712b45ec460eaea5560a77ede8cc)
 
-[SwiftUI allow other characters such as korean and chinese characters for `open` URL](https://www.notion.so/SwiftUI-allow-other-characters-such-as-korean-and-chinese-characters-for-open-URL-f90d9ab3dc1149d1aeb52c45d1539cd4)
-
 # Functionality - Functions 
 
 [Start TTS](https://www.notion.so/Start-TTS-51d077b47dbe40d694b76ab7e763392f)
@@ -76,7 +76,11 @@
 
 [Share String](https://www.notion.so/Share-String-71bcbb66869b4b30abbd2b57843180bf)
 
+
+# URL 
+
 [SwiftUI allow other characters such as korean and chinese characters for `open` URL](https://www.notion.so/SwiftUI-allow-other-characters-such-as-korean-and-chinese-characters-for-open-URL-f90d9ab3dc1149d1aeb52c45d1539cd4)
+
 
 # Functionality - System
 
@@ -84,9 +88,22 @@
 
 [Localize with user selection](https://www.notion.so/Localize-with-user-selection-366ca22d8025456e822598bd1a3362d5)
 
+[SwiftUI, App State Handling For Views ](https://www.notion.so/SwiftUI-App-State-Handling-For-Views-8bf3aa0c318d4b9cab1f0eb5c1427607)
+
+
+# Library
+
+[Using Apple Default Provided Dependency system](https://www.notion.so/Using-Apple-Default-Provided-Dependency-system-483044ee855e4a95b4153d970d528e5b)
+
+# xCode
+
+[SwiftUI, xCode에 todo 남기기 ](https://www.notion.so/SwiftUI-xCode-todo-a00f2d69d3cb434fb23ae98a9a437335)
+
 # Logic 
 
 [SwiftUI For i Loop to change value by looping ](https://www.notion.so/SwiftUI-For-i-Loop-to-change-value-by-looping-6f2c7e1173f943aba2f1a9a6f4d6f3e9)
+
+[SwiftUI reverse loop ](https://www.notion.so/SwiftUI-reverse-loop-40894ecae5cd4283b109868a3b04aa03)
 
 # Articles 
 
@@ -94,9 +111,6 @@
 
 [SwiftUI AppDelegate Article](https://www.notion.so/SwiftUI-AppDelegate-Article-c5993665ed704d83ad548e15e0d356c1)
 
-# System
-
-[Using Apple Default Provided Dependency system](https://www.notion.so/Using-Apple-Default-Provided-Dependency-system-483044ee855e4a95b4153d970d528e5b)
 
 # Animation
 
