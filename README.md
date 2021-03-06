@@ -1,5 +1,9 @@
 # Louvre_de_swift
 
+# CheckList
+
+[SwiftUI AppDelegate Article](https://www.notion.so/SwiftUI-AppDelegate-Article-c5993665ed704d83ad548e15e0d356c1)
+
 # Swift UI
 
 [Create your own component on git](https://github.com/paigeshin/SwiftUI_create_custom_componenent_view)
@@ -13,6 +17,12 @@
 [SwiftUI - Obverver Pattern, Screen Navigation, UIKit Component on git](https://github.com/paigeshin/SwiftUI_ObserverPattern_Navigation_UIkitComponent)
 
 [SwiftUI Observer Pattern and use UIKit](https://www.notion.so/SwiftUI-Observer-Pattern-and-use-UIKit-a00337e1a16c4c458045257c0c297555)
+
+# Realm
+
+[Realm a bit advanced concept](https://github.com/paigeshin/SwiftUI_Realm_a_bit_advanced)
+
+[Realm DB Simplified](https://www.notion.so/Realm-DB-Simplified-efc9e534799240b7a1f991da24621797)
 
 # View Component  
 
@@ -32,11 +42,31 @@
 
 [Vertical Pager View](https://www.notion.so/Vertical-Pager-View-3cdaf6439d35444db01636c45908eb9b)
 
+[Pulse Animation View](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
+
+[SwiftUI Snap to Center ScrollView](https://www.notion.so/SwiftUI-Snap-to-Center-ScrollView-9c152281ba2a439299f6103fd52177a4)
+
+[Lottie Animation](https://www.notion.so/Lottie-Animation-084f19e7ec224a9486fb8f66999b1d87)
+
+# Extensions
+
+[Roundeded Corners Extended ](https://www.notion.so/Roundeded-Corners-Extended-c28fccaedee2450c97cc8ab1d95b3754)
+
+# Keyboard handling
+
+[Don't move up keyboard for specific view](https://www.notion.so/Don-t-move-up-keyboard-for-specific-view-0f7b7b987e2246b09ba7317fcb1ae680)
+
+[SwiftUI Keyboard handling manually](https://www.notion.so/SwiftUI-Keyboard-handling-manually-7ce341a7b8f94fe7a46185334c94a881)
+
+[SwiftUI hide keyboard when touching outside](https://www.notion.so/SwiftUI-hide-keyboard-when-touching-outside-e2f224e49b4547b9bdfd11af23c8aac7)
+
 # Swift UI Reusable Component For Functionality
 
 [WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
 
 [Load Image URL](https://www.notion.so/Load-Image-URL-d01e712b45ec460eaea5560a77ede8cc)
+
+[SwiftUI allow other characters such as korean and chinese characters for `open` URL](https://www.notion.so/SwiftUI-allow-other-characters-such-as-korean-and-chinese-characters-for-open-URL-f90d9ab3dc1149d1aeb52c45d1539cd4)
 
 # Functionality - Functions 
 
@@ -45,6 +75,8 @@
 [Open URL](https://www.notion.so/Open-URL-b757d0bdae954a1282952a251ece5f7d)
 
 [Share String](https://www.notion.so/Share-String-71bcbb66869b4b30abbd2b57843180bf)
+
+[SwiftUI allow other characters such as korean and chinese characters for `open` URL](https://www.notion.so/SwiftUI-allow-other-characters-such-as-korean-and-chinese-characters-for-open-URL-f90d9ab3dc1149d1aeb52c45d1539cd4)
 
 # Functionality - System
 
@@ -59,6 +91,8 @@
 # Articles 
 
 [Cache](https://www.notion.so/Cache-30d54057b8ef4b4dbb56b0219e12ded3)
+
+[SwiftUI AppDelegate Article](https://www.notion.so/SwiftUI-AppDelegate-Article-c5993665ed704d83ad548e15e0d356c1)
 
 # System
 
