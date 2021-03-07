@@ -4,25 +4,23 @@
 
 [SwiftUI AppDelegate Article](https://www.notion.so/SwiftUI-AppDelegate-Article-c5993665ed704d83ad548e15e0d356c1)
 
-# Swift UI
-
-[Create your own component on git](https://github.com/paigeshin/SwiftUI_create_custom_componenent_view)
-
-[Make your own component](https://www.notion.so/Make-your-own-component-722020cab0ea4f4db6841ce658fec142)
-
-[SwiftUI State Management on git](https://github.com/paigeshin/SwiftUI_State_Management)
-
-[SwiftUI handling event](https://www.notion.so/SwiftUI-handling-event-7fea99033986447299a49fdfca135579)
-
-[SwiftUI - Obverver Pattern, Screen Navigation, UIKit Component on git](https://github.com/paigeshin/SwiftUI_ObserverPattern_Navigation_UIkitComponent)
-
-[SwiftUI Observer Pattern and use UIKit](https://www.notion.so/SwiftUI-Observer-Pattern-and-use-UIKit-a00337e1a16c4c458045257c0c297555)
-
 # Realm
 
 [Realm a bit advanced concept](https://github.com/paigeshin/SwiftUI_Realm_a_bit_advanced)
 
 [Realm DB Simplified](https://www.notion.so/Realm-DB-Simplified-efc9e534799240b7a1f991da24621797)
+
+# UIViewRepresentable
+
+[BlurView](https://www.notion.so/BlurView-1eaa521310d74b3cb6bf13bd509f9396)
+
+[WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
+
+[Lottie Animation](https://www.notion.so/Lottie-Animation-084f19e7ec224a9486fb8f66999b1d87)
+
+[MailView](https://www.notion.so/MailView-521674ff8f5d4506846b5004b7b2e257)
+
+[Share Sheet](https://www.notion.so/Share-Sheet-bd0c9fd97e6f4ecca906a28ec3740950)
 
 # View Component  
 
@@ -48,7 +46,13 @@
 
 [Lottie Animation](https://www.notion.so/Lottie-Animation-084f19e7ec224a9486fb8f66999b1d87)
 
-[Half Modal View ](https://www.notion.so/Half-Modal-View-d217e75a14404423ac0d344e676aca02)
+[Half Modal View,](https://www.notion.so/Half-Modal-View-d217e75a14404423ac0d344e676aca02)
+
+[My Custom Bottom Sheet](https://www.notion.so/My-Custom-Bottom-Sheet-4f1499707c954178ab93a24bdc5523f8)
+
+[MailView](https://www.notion.so/MailView-521674ff8f5d4506846b5004b7b2e257)
+
+[Share Sheet](https://www.notion.so/Share-Sheet-bd0c9fd97e6f4ecca906a28ec3740950)
 
 # Extensions
 
@@ -76,6 +80,7 @@
 
 [Share String](https://www.notion.so/Share-String-71bcbb66869b4b30abbd2b57843180bf)
 
+[App Review Request](https://www.notion.so/App-Review-Request-a6787596429945d89d175c0c5828ced1)
 
 # URL 
 
@@ -123,6 +128,22 @@
 [Image Fetcher for learning.. Don't need to use `didChange`](https://www.notion.so/Image-Fetcher-for-learning-Don-t-need-to-use-didChange-e141cad38561410eb1ae6606b5c76717)
 
 [Image Loader with cache](https://www.notion.so/Image-Loader-with-cache-eeaffc8a5523439991d1676861ac6ffd)
+
+[Bottom Sheet Learning](https://www.notion.so/Bottom-Sheet-Learning-2571c9f150b249a7ada8c2718b8d253f)
+
+# Swift UI
+
+[Create your own component on git](https://github.com/paigeshin/SwiftUI_create_custom_componenent_view)
+
+[Make your own component](https://www.notion.so/Make-your-own-component-722020cab0ea4f4db6841ce658fec142)
+
+[SwiftUI State Management on git](https://github.com/paigeshin/SwiftUI_State_Management)
+
+[SwiftUI handling event](https://www.notion.so/SwiftUI-handling-event-7fea99033986447299a49fdfca135579)
+
+[SwiftUI - Obverver Pattern, Screen Navigation, UIKit Component on git](https://github.com/paigeshin/SwiftUI_ObserverPattern_Navigation_UIkitComponent)
+
+[SwiftUI Observer Pattern and use UIKit](https://www.notion.so/SwiftUI-Observer-Pattern-and-use-UIKit-a00337e1a16c4c458045257c0c297555)
 
 # App Samples
 
