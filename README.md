@@ -22,6 +22,10 @@
 
 [Share Sheet](https://www.notion.so/Share-Sheet-bd0c9fd97e6f4ecca906a28ec3740950)
 
+# Component
+
+[Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
+
 # View Component  
 
 [BlurView](https://www.notion.so/BlurView-1eaa521310d74b3cb6bf13bd509f9396)
@@ -116,6 +120,11 @@
 
 [SwiftUI AppDelegate Article](https://www.notion.so/SwiftUI-AppDelegate-Article-c5993665ed704d83ad548e15e0d356c1)
 
+[SwiftUI Notification with AppDelegate](https://prafullkumar77.medium.com/how-to-handle-push-notifications-in-swiftuis-new-app-lifecycle-7532c21d32d7)
+
+# Notification
+
+[Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
 
 # Animation
 
@@ -130,6 +139,10 @@
 [Image Loader with cache](https://www.notion.so/Image-Loader-with-cache-eeaffc8a5523439991d1676861ac6ffd)
 
 [Bottom Sheet Learning](https://www.notion.so/Bottom-Sheet-Learning-2571c9f150b249a7ada8c2718b8d253f)
+
+[Swift Local Notification Action, Example](https://www.notion.so/Swift-Local-Notification-Action-Example-f4809b4e31334cdda1d3cbffcf1a1d23)
+
+[UIKit based Rich Notification, example](https://www.notion.so/UIKit-based-Rich-Notification-example-de124e8262774c709fcde89b9e8854ca)
 
 # Swift UI
 
