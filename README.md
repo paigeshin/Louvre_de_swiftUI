@@ -4,6 +4,12 @@
 
 [SwiftUI AppDelegate Article](https://www.notion.so/SwiftUI-AppDelegate-Article-c5993665ed704d83ad548e15e0d356c1)
 
+# Permission Handling
+
+[SwiftUI Check Notification Permission](https://www.notion.so/SwiftUI-Check-Notification-Permission-75dc6170c48e4429a519210da33f8ca4)
+
+[Camera permission check, article ](https://www.notion.so/Camera-permission-check-article-d746114244fe45a3997a5f2c314802d2)
+
 # Realm
 
 [Realm a bit advanced concept](https://github.com/paigeshin/SwiftUI_Realm_a_bit_advanced)
@@ -78,6 +84,8 @@
 
 # Functionality - Functions 
 
+[SwiftUI go to settings](https://www.notion.so/SwiftUI-go-to-settings-e191999d899b4c0ea04bbe2d92040a6b)
+
 [Start TTS](https://www.notion.so/Start-TTS-51d077b47dbe40d694b76ab7e763392f)
 
 [Open URL](https://www.notion.so/Open-URL-b757d0bdae954a1282952a251ece5f7d)
@@ -92,6 +100,8 @@
 
 
 # Functionality - System
+
+[SwiftUI, launch screen with storyboard](https://www.notion.so/SwiftUI-launch-screen-with-storyboard-4e61a5f399b14e4286651e6e33a1becf)
 
 [Localization ](https://www.notion.so/Localization-9613c84268dd45508a5675af83c96a59)
 
@@ -124,7 +134,13 @@
 
 # Notification
 
+[SwiftUI Check Notification Permission](https://www.notion.so/SwiftUI-Check-Notification-Permission-75dc6170c48e4429a519210da33f8ca4)
+
+[Swift Local Notification Badge Handling](https://www.notion.so/Swift-Local-Notification-Badge-Handling-52f162e3d527467ea732537aaa190893)
+
 [Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
+
+[Swift Local Notification Component on git](https://github.com/paigeshin/SwiftUI_Local_Notification_Component_schedule_repeating_notification_is_possible)
 
 # Animation
 
