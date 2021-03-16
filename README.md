@@ -2,6 +2,8 @@
 
 # CheckList
 
+[AppDelegate and App LifeCycle in SwiftUI](https://www.notion.so/AppDelegate-and-App-LifeCycle-in-SwiftUI-fdff33f084154e6b92308a996d6898e7)
+
 [SwiftUI AppDelegate Article](https://www.notion.so/SwiftUI-AppDelegate-Article-c5993665ed704d83ad548e15e0d356c1)
 
 # Permission Handling
