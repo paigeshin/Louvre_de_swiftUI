@@ -498,6 +498,10 @@
 
 # System
 
+[Allow HTTP](https://www.notion.so/Allow-HTTP-3327cc56ea63474185e0b493ed957531)
+
+[Disable Darkmode](https://www.notion.so/Disable-Darkmode-e8a67d62fc1347c49a5ce1b03e1fd97e)
+
 [iOS version별 분기처리](https://www.notion.so/iOS-version-0dc40065cb5044399e4d757889796156)
 
 [Swift, get all device related information](https://www.notion.so/Swift-get-all-device-related-information-4a996073175b4f43811be2dc3df6e421)
@@ -696,6 +700,22 @@ Apple login 때문에 너무 힘들었다. 코드를 아무리 뜯어봐도 소�
 [Swift extension for NSLayoutConstraint](https://www.notion.so/Swift-extension-for-NSLayoutConstraint-4691ec2de2b94c32aff5836f5744aa94)
 
 [Swift extension, label + styling with linespacing](https://www.notion.so/Swift-extension-label-styling-with-linespacing-50899753ad2448129fb55979f82e6593)
+
+# Design
+
+[Swift transparent navigation bar ](https://www.notion.so/Swift-transparent-navigation-bar-2c6130f27bb4474599835013b5e293dc)
+
+[Underline TextField](https://www.notion.so/Underline-TextField-b05c2d9a616f458ca5325b99184d2b74)
+
+# Custom Splash
+
+[Custom Splash Screen](https://www.notion.so/Custom-Splash-Screen-a78a6c77736343f4957868c1cb5f36da)
+
+# Pagination
+
+[Swift Pagination Example, Infinite Scrolling - 1 ](https://www.notion.so/Swift-Pagination-Example-Infinite-Scrolling-1-345d65e89f06406f9029739906a766ac)
+
+[Swift Pagination Examples - 2](https://www.notion.so/Swift-Pagination-Examples-2-e18f507ce4f646c3831ad813613103c3)
 
 # Audio & Video
 
