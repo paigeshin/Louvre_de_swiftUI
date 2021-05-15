@@ -309,6 +309,16 @@
 
 [af.setImage](https://www.notion.so/af-setImage-e98fec4a57474a5398e6821e9ccd1b70)
 
+# Extensions 
+
+[Drop Shadow extension ](https://www.notion.so/Drop-Shadow-extension-94be4b65c84e4ae997f77b5e7f07de4d)
+
+# Navigation Bar
+
+[Multiple Navigation Right Buttons](https://www.notion.so/Multiple-Navigation-Right-Buttons-436c00f5bf684923b7f9a749afe5f9e9)
+
+[Multiple Navigation Right Buttons](https://www.notion.so/Multiple-Navigation-Right-Buttons-436c00f5bf684923b7f9a749afe5f9e9)
+
 # Time
 
 [Swift iso time 받아서 converting 하기 ](https://www.notion.so/Swift-iso-time-converting-80a497f688a8429caa898c830fe38189)
@@ -322,7 +332,13 @@
 [ISO 시간 받아서 converting하기](https://www.notion.so/Swift-iso-time-converting-80a497f688a8429caa898c830fe38189)
 
 
-# Layout
+# View
+
+[Swift Pull to refresh](https://www.notion.so/Swift-Pull-to-refresh-f24eccea789849c4ba884e80019b625a)
+
+[Add Remove ViewController](https://www.notion.so/Add-Remove-ViewController-0d0abc3db440423e9f00d891c00c01b8)
+
+[Swift change UISwitch icon](https://www.notion.so/Swift-change-UISwitch-icon-98ccd554be8e485291b6cfa03eaa75b9)
 
 [Swift Remove from superview](https://www.notion.so/Swift-Remove-from-superview-90a4b3eeff884815a2ea1f86950dac63)
 
