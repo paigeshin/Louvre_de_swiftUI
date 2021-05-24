@@ -1,5 +1,42 @@
 # Louvre_de_swift
 
+
+# Knowledge acquired by developing Secret Letter
+
+[Hugging Priority, Compression Resistance](https://www.notion.so/Hugging-Priority-Compression-Resistance-9cfc1bc718a741e9bca26a179bf791ea)
+
+[Swift Resizing ImageView](https://www.notion.so/Swift-Resizing-ImageView-fbaf5252c22d46248e48efcf2ce97ce3)
+
+[Swift growing sublayer](https://www.notion.so/Swift-growing-sublayer-76325a74e2a6411dbcb3d3cac240772c)
+
+[VideoView Player Component](https://www.notion.so/VideoView-Player-Component-0db9088495e548cfb0546d9dc8743fac)
+
+[#Warning, when creating self-sizing ](https://www.notion.so/Warning-when-creating-self-sizing-9acb5e6461804546a78e32cbe05badc6)
+
+[Self-sizing imageview, Get ratio and set image as ratio](https://www.notion.so/Self-sizing-imageview-Get-ratio-and-set-image-as-ratio-b873cf9d40504ba28d4a4a02a5cdcf96)
+
+[Self-sizing videoView with url](https://www.notion.so/Self-sizing-videoView-with-url-70eadececd7e4d67ad1525acf6419742)
+
+[When view going outside of parent's view's bound](https://www.notion.so/When-view-going-outside-of-parent-s-view-s-bound-c2bae0605fcd4fd09de6a2f2800788b3)
+
+[How to properly setup custom UIView ](https://www.notion.so/How-to-properly-setup-custom-UIView-9c0d03c2649c4faf85256b2820d059a4)
+
+[Dynamic TextView Height](https://www.notion.so/Dynamic-TextView-Height-8ee78cf9eb1d4698ad2ebca6502812cd)
+
+[Dynamic Changing TextView](https://www.notion.so/Dynamic-Changing-TextView-606a7f72550f454188218cb21cb6c0e6)
+
+[TextView, Detect new lines begin ](https://www.notion.so/TextView-Detect-new-lines-begin-42b1e083ab7f4b4a88073a9d5e52950f)
+
+[TextView, detect backbutton pressed](https://www.notion.so/TextView-detect-backbutton-pressed-7b50ddc1067c4bc9b3163ed4afb45980)
+
+[open album, camera, and video ](https://www.notion.so/open-album-camera-and-video-5dd6307db93e433f9b966094df47b02e)
+
+[Info.plist privacy](https://www.notion.so/Info-plist-privacy-ef4be8fba80d402e902c4614828cdeb6)
+
+[Constraint about `isActive`](https://www.notion.so/Constraint-about-isActive-bf3b3d4a5be54841bfd3c7781ebfcff8)
+
+[전설의 타이머 로직](https://www.notion.so/9c1c92d4111c42d9a381ce96cb29d3b9)
+
 # Extensions 
 
 [Drop Shadow extension ](https://www.notion.so/Drop-Shadow-extension-94be4b65c84e4ae997f77b5e7f07de4d)
