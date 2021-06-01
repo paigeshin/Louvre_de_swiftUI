@@ -37,6 +37,24 @@
 
 [전설의 타이머 로직](https://www.notion.so/9c1c92d4111c42d9a381ce96cb29d3b9)
 
+[DateConverter](https://www.notion.so/DateConverter-c362aad2754548bcbb2a8495e615a5bb)
+
+[Swift 함수 접고 펼치기](https://www.notion.so/Swift-fd3eeb4421a84093bbf3f2cb4250494a)
+
+[Shadow 관련된 버그](https://www.notion.so/Shadow-4c0dd022bf8f4bb5835660b37ec9d101)
+
+[xCode 파일내에서 모든 키워드 검색하기](https://www.notion.so/xCode-fa1d56eb29ba43358b1b96d8020a5067)
+
+[Swift, prevent navigaiton bar from covering statusbar](https://www.notion.so/Swift-prevent-navigaiton-bar-from-covering-statusbar-4f54d4101566486b804083746492f40f)
+
+[VideoView Component](https://www.notion.so/VideoView-Component-edcad51eea5f4d3aac47900761513fee)
+
+[AudioView Component](https://www.notion.so/AudioView-Component-95909c30610d4f58a92327999b07fd90)
+
+[AudioRecorderView](https://www.notion.so/AudioRecorderView-8cdadced270043db95b1b7b32941cbeb)
+
+[Swift pressed, released event](https://www.notion.so/Swift-pressed-released-event-15077148304142f8b04fd5a75357ecc8)
+
 # Extensions 
 
 [Drop Shadow extension ](https://www.notion.so/Drop-Shadow-extension-94be4b65c84e4ae997f77b5e7f07de4d)
