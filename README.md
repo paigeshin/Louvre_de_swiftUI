@@ -55,6 +55,18 @@
 
 [Swift pressed, released event](https://www.notion.so/Swift-pressed-released-event-15077148304142f8b04fd5a75357ecc8)
 
+[Swift Adaptive Layout Updated](https://www.notion.so/Swift-Adaptive-Layout-Updated-f55774c2f01e45038dede006af7a048c)
+
+[Layer와 View](https://woookdev.github.io/programming/iOS-View와-Layer-관계-정리/)
+
+[Intrinsic Size](https://www.hackingwithswift.com/example-code/uikit/what-is-a-views-intrinsic-content-size)
+
+[Swift, navigationController, navigation bar handling](https://www.notion.so/Swift-navigationController-navigation-bar-handling-b0550933cfa54e908ba7d852d50388ee)
+
+[Swift, ViewController내에 ViewController 호스팅하기](https://www.notion.so/Swift-ViewController-ViewController-ff1081f61c4a4bfd96dad5c7658d4d4d)
+
+[Swift, check permission status and send to settings ](https://www.notion.so/Swift-check-permission-status-and-send-to-settings-e7cd00b36891475681178a251147f540)
+
 # Extensions 
 
 [Drop Shadow extension ](https://www.notion.so/Drop-Shadow-extension-94be4b65c84e4ae997f77b5e7f07de4d)
