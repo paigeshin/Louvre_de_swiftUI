@@ -65,7 +65,25 @@
 
 [Swift, ViewController내에 ViewController 호스팅하기](https://www.notion.so/Swift-ViewController-ViewController-ff1081f61c4a4bfd96dad5c7658d4d4d)
 
-[Swift, check permission status and send to settings ](https://www.notion.so/Swift-check-permission-status-and-send-to-settings-e7cd00b36891475681178a251147f540)
+[Swift, check notification permission status and send to settings ](https://www.notion.so/Swift-check-permission-status-and-send-to-settings-e7cd00b36891475681178a251147f540)
+
+[Auto-resizing mask's properties](https://www.notion.so/Auto-resizing-mask-s-properties-9d2eef9d67d941899b329554feef3feb)
+
+[Autoresizing mask's purpose](https://www.notion.so/Autoresizing-mask-s-purpose-44ccfc08702948989fc5a684aed15ea8)
+
+[About Constraint's Priority](https://fluffy.es/what-is-constraint-priority/)
+
+[About CALayer](https://baked-corn.tistory.com/m/110)
+
+[Swift widget, view마다의 특성](https://www.notion.so/Swift-widget-view-65bee95b26bb4beeb697dbd5b1fb1c9b)
+
+[top layout guide, bottom layout  guide](https://www.notion.so/top-layout-guide-bottom-layout-guide-5a94b08af6b64b3588e94eb90b2a2dcb)
+
+[Swift SafeArea](https://devmjun.github.io/archive/SafeArea_1)
+
+[How to update sublayer](https://www.notion.so/How-to-update-sublayer-191c559f19344ed087fd99759e84f7ff)
+
+[Safe area 이용하기](https://www.notion.so/Safe-area-286c6697bca84637ba8910e92855945e)
 
 # Extensions 
 
