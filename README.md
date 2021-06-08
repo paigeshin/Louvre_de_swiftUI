@@ -97,6 +97,24 @@
 
 [Mentis image Cropping Library](https://github.com/guoyingtao/Mantis)
 
+[Swift Audio Record Supported Format](https://www.notion.so/Swift-Audio-Record-Supported-Format-889111c87d0b4e1ea4e486ebac681481)
+
+[Swift Shadow to all ](https://www.notion.so/Swift-Shadow-to-all-d1cd905748dd4e259d095a787bb20e3a)
+
+[Swift Shadow with corner radius to some particular corners ](https://www.notion.so/Swift-Shadow-with-corner-radius-to-some-particular-corners-0c13276c0d974b979c2adabca3eae276)
+
+[Swift Audio Session for airpods](https://www.notion.so/Swift-Audio-Session-for-airpods-ec3a740e1d3e4bc4831339321b0597c4)
+
+[CollectionView no background vs clear background](https://www.notion.so/CollectionView-no-background-vs-clear-background-62d4d4e495b24d6e9b6aa9bd0575a60d)
+
+[Swift Page Swiper with pagination ](https://www.notion.so/Swift-Page-Swiper-with-pagination-1067cd033b844730868ff8f27167d656)
+
+[Swift Audio Record & Video Format and Multipart-form, Audio Session](https://www.notion.so/Swift-Audio-Record-Video-Format-and-Multipart-form-Audio-Session-b392835f14ac4f64a9f8052a44bc47f3)
+
+[Swift Updated RecorderView](https://www.notion.so/Swift-Updated-RecorderView-408d29b1b38e4385ac46b93a42fdccd8)
+
+[Button attributed String](https://www.notion.so/Button-attributed-String-d667363ff0b441dfa49e32ebef0f78c9)
+
 # Extensions 
 
 [Drop Shadow extension ](https://www.notion.so/Drop-Shadow-extension-94be4b65c84e4ae997f77b5e7f07de4d)
