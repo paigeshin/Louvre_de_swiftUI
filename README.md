@@ -3,6 +3,8 @@
 
 # Knowledge acquired by developing Secret Letter
 
+- 프로젝트 개요: 스토리보드 
+
 [Hugging Priority, Compression Resistance](https://www.notion.so/Hugging-Priority-Compression-Resistance-9cfc1bc718a741e9bca26a179bf791ea)
 
 [Swift Resizing ImageView](https://www.notion.so/Swift-Resizing-ImageView-fbaf5252c22d46248e48efcf2ce97ce3)
@@ -114,6 +116,12 @@
 [Swift Updated RecorderView](https://www.notion.so/Swift-Updated-RecorderView-408d29b1b38e4385ac46b93a42fdccd8)
 
 [Button attributed String](https://www.notion.so/Button-attributed-String-d667363ff0b441dfa49e32ebef0f78c9)
+
+[Navigation Drawer](https://www.notion.so/Navigation-Drawer-8decf71cec904857b4ea81a563d310e4)
+
+[Gradient Button Updated](https://www.notion.so/Gradient-Button-Updated-66fed86b3422499f987b9aad98981603)
+
+[Navigation Bar Button Item을 Custom View로 지정할 때, 가끔 버튼 클릭이 안된다면.... lazy 키워드를 넣어보자 ](https://www.notion.so/Navigation-Bar-Button-Item-Custom-View-lazy-db2c070ed34740a9bf5027fae1e0de8b)
 
 # Extensions 
 
@@ -1882,3 +1890,4 @@ Apple login 때문에 너무 힘들었다. 코드를 아무리 뜯어봐도 소�
 [Adaptive Layout](https://medium.com/@nikeshakya51/responsive-design-in-ios-b35dc7f22821)
 
 [Adaptive Layout Project Configuration](https://github.com/paigeshin/Swift_AdaptiveLayout_Project_Template)
+# swift_twitter_like_navigation_drawer_example
