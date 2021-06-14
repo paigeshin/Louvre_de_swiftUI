@@ -123,6 +123,32 @@
 
 [Navigation Bar Button Item을 Custom View로 지정할 때, 가끔 버튼 클릭이 안된다면.... lazy 키워드를 넣어보자 ](https://www.notion.so/Navigation-Bar-Button-Item-Custom-View-lazy-db2c070ed34740a9bf5027fae1e0de8b)
 
+[prevent user from taking screenshot](https://betterprogramming.pub/how-to-prevent-screen-capture-at-ios-14-1f01173c31c0)
+
+[ContentSized Tableview ](https://www.notion.so/ContentSized-Tableview-cd215e7427b7452abe702b4f2ea72ceb)
+
+[Prevent ScreenShot ](https://www.notion.so/Prevent-ScreenShot-9601500f71c446da89dcfaabd713d02a)
+
+[UITableViewCell LifeCycle Handling](https://www.notion.so/UITableViewCell-LifeCycle-Handling-802559ae3640491187e7f63bcdb24bf3)
+
+[how to redirect user to various screen based on remote notification type](https://stackoverflow.com/questions/51263681/how-to-redirect-user-to-various-screen-based-on-remote-notification-type)
+
+[PushMessage, Foreground & Background Handling ](https://www.notion.so/PushMessage-Foreground-Background-Handling-a019f7e6bda7469bb6bac89983bf7c6f)
+
+[Firebase Push Message Complete](https://www.notion.so/Firebase-Push-Message-Complete-f7c82c52825f4543aca341ddffc6d634)
+
+[현재 root controller 가져오는 방법](https://www.notion.so/root-controller-f6a1a42d1f15459ca3b2030e5b1e905a)
+
+[Swift, Navigation Controller 이전 뷰 지워주고 원하는 곳으로 pop하기](https://www.notion.so/Swift-Navigation-Controller-pop-2940fe16908e493c99818c9f08e4f922)
+
+[Image filesize 가져오기](https://www.notion.so/Image-filesize-6703c59a8b5743548088c491f5219a3c)
+
+[Extension 내에 변수 선언하기](https://www.notion.so/Extension-8acb0293c83a4b93aff2fefeb4d396bd)
+
+[URL, file size 가져오기](https://www.notion.so/URL-file-size-392e579b24c840b48f071ae15fe1c899)
+
+[Toast](https://www.notion.so/Toast-a80e5f79dee247e386f7d5193c246e0a)
+
 # Extensions 
 
 [Drop Shadow extension ](https://www.notion.so/Drop-Shadow-extension-94be4b65c84e4ae997f77b5e7f07de4d)
