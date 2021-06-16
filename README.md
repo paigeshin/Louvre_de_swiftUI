@@ -1,5 +1,10 @@
 # Louvre_de_swift
 
+# Japanese Kanji 
+
+- 프로젝트 개요: 스토리 보드 
+
+[Realm index out of bound 버그](https://www.notion.so/Realm-index-out-of-bound-aaf8bf728a504f9782d478033a66d80d)
 
 # Knowledge acquired by developing Secret Letter
 
@@ -148,6 +153,14 @@
 [URL, file size 가져오기](https://www.notion.so/URL-file-size-392e579b24c840b48f071ae15fe1c899)
 
 [Toast](https://www.notion.so/Toast-a80e5f79dee247e386f7d5193c246e0a)
+
+[iOS 14,  CollectionView ScrollToItem Bug fix](https://www.notion.so/iOS-14-CollectionView-ScrollToItem-Bug-fix-7733a3e6ea56460e8ce5ef55a0faf184)
+
+[CollectionView iOS 14, ScrollToItem Bug](https://stackoverflow.com/questions/50237180/uicollectionview-scrolltoitem-not-working-in-ios-14)
+
+[NSDefault Change Value Event](https://www.notion.so/NSDefault-Change-Value-Event-f2c2def0b7d943d6b3c06c7353c84afb)
+
+[closure name label ](https://www.notion.so/closure-name-label-7712b2be240c44b78a99b86ca2b516a2)
 
 # Extensions 
 
