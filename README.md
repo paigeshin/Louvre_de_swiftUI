@@ -1,6 +1,6 @@
 # Louvre_de_swift
 
-# Japanese Kanji 
+# Knowledge acquired by developing Japanese Kanji 
 
 - 프로젝트 개요: 스토리 보드 
 
@@ -161,6 +161,38 @@
 [NSDefault Change Value Event](https://www.notion.so/NSDefault-Change-Value-Event-f2c2def0b7d943d6b3c06c7353c84afb)
 
 [closure name label ](https://www.notion.so/closure-name-label-7712b2be240c44b78a99b86ca2b516a2)
+
+[How to get pure URL](https://www.notion.so/How-to-get-pure-URL-425aa0568b4441ea92f79888fde89df7)
+
+[Save Image to Album](https://www.notion.so/Save-Image-to-Album-4086d9e0b9d742499b02421643bb4191)
+
+[https://www.hackingwithswift.com/books/ios-swiftui/how-to-save-images-to-the-users-photo-library](https://www.hackingwithswift.com/books/ios-swiftui/how-to-save-images-to-the-users-photo-library)
+
+[How to integrate Crashlytics](https://www.notion.so/How-to-integrate-Crashlytics-a89b341b8911489b95b04bff53e1e20b)
+
+[https://medium.com/@paulsoham/firebase-crashlytics-in-ios-swift-1d8c9aec63d0](https://medium.com/@paulsoham/firebase-crashlytics-in-ios-swift-1d8c9aec63d0)
+
+[How to log on Crashlytics](https://www.notion.so/How-to-log-on-Crashlytics-b356e2664c4a44f1949485ef3f39aa92)
+
+[Firebase Dynamic Links](https://www.notion.so/Firebase-Dynamic-Links-4a1821b227f34cf292fdef18029caa5b)
+
+[https://mrparkcodingschool.tistory.com/19](https://mrparkcodingschool.tistory.com/19)
+
+### Dynamic Link & Deep Link
+
+0. Set Up Project and Dynamic Link
+    
+    1) Set up firebase with ios project
+    
+    2) Connect Your iOS app with firebase.. (Teamd id, App Store id.....)
+
+    3) Create Dynamic Link 
+
+[1. Open Dynamic Links in your app](https://www.notion.so/Open-Dynamic-Links-in-your-app-2e62fb64a5bc4c04849a9b07a8c74a92)
+
+2. If dynamic link doesn't work ⇒ [https://iosrevisited.blogspot.com/2019/12/firebase-dynamic-link-not-found-ios-swift.html](https://iosrevisited.blogspot.com/2019/12/firebase-dynamic-link-not-found-ios-swift.html)
+
+[3. Handle when DeepLink is received on App ](https://www.notion.so/Handle-when-DeepLink-is-received-on-App-e0359b923d184f28ab1e48c461e66124)
 
 # Extensions 
 
