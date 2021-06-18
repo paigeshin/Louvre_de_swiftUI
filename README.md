@@ -178,6 +178,32 @@
 
 [https://mrparkcodingschool.tistory.com/19](https://mrparkcodingschool.tistory.com/19)
 
+[Swift Interceptor](https://aircook.tistory.com/entry/Alamofire-간단하게-사용하기)
+
+[Swift get window anywhere you want](https://www.notion.so/Swift-get-window-anywhere-you-want-bb8a9ebf700146c8bcaa1b124070ee18)
+
+[Swift Root View Controller Transition](https://www.notion.so/Swift-Root-View-Controller-Transition-22a4fedea00449e8acb068dcad8bcfe8)
+
+[Check if viewController is already presented](https://www.notion.so/Check-if-viewController-is-already-presented-03a12c268eb9498080ea6ff7ae753832)
+
+[Swift Adaptive Layout, programmatically & storyboard](https://www.notion.so/Swift-Adaptive-Layout-programmatically-storyboard-1d91d4d7799c45a6ae080ea953cf91ee)
+
+[Adaptive Layout on git](https://github.com/paigeshin/Swift_AdaptiveLayout_Storyboard_OR_Programmatically) 
+
+[SwiftUI Scaled Metric](https://www.notion.so/SwiftUI-Scaled-Metric-312f3f2c38c6450b92256fb67b4d275e)
+
+[Swift Alamofire Session Manager (When you needed customization)](https://rhammer.tistory.com/280)
+
+[Swift Interceptor](https://www.notion.so/Swift-Interceptor-acb214b6cab443368dabbfec7a956f5c)
+
+[https://medium.com/developerinsider/create-a-library-using-swift-package-manager-stepwise-tutorial-181604ec8a7](https://medium.com/developerinsider/create-a-library-using-swift-package-manager-stepwise-tutorial-181604ec8a7)
+
+[Create your own package](https://www.notion.so/Create-your-own-package-b01aa44a592741afbabe3e4471517206)
+
+[https://betterprogramming.pub/build-reusable-swiftui-component-libraries-with-the-swift-package-manager-23343681a8f3](https://betterprogramming.pub/build-reusable-swiftui-component-libraries-with-the-swift-package-manager-23343681a8f3)
+
+[Swift Package UIKit Library example](https://www.notion.so/Swift-Package-UIKit-Library-example-ef4ed86231e0403983a8386adf73aa46)
+
 ### Dynamic Link & Deep Link
 
 0. Set Up Project and Dynamic Link
