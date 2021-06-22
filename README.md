@@ -198,11 +198,21 @@
 
 [https://medium.com/developerinsider/create-a-library-using-swift-package-manager-stepwise-tutorial-181604ec8a7](https://medium.com/developerinsider/create-a-library-using-swift-package-manager-stepwise-tutorial-181604ec8a7)
 
-[Create your own package](https://www.notion.so/Create-your-own-package-b01aa44a592741afbabe3e4471517206)
+[Create your own package, Library](https://www.notion.so/Create-your-own-package-b01aa44a592741afbabe3e4471517206)
 
 [https://betterprogramming.pub/build-reusable-swiftui-component-libraries-with-the-swift-package-manager-23343681a8f3](https://betterprogramming.pub/build-reusable-swiftui-component-libraries-with-the-swift-package-manager-23343681a8f3)
 
 [Swift Package UIKit Library example](https://www.notion.so/Swift-Package-UIKit-Library-example-ef4ed86231e0403983a8386adf73aa46)
+
+[Swift splash screen when app resigns..](https://www.notion.so/Swift-splash-screen-when-app-resigns-8bab4e09c4c0472f8bfde5087ee063df)
+
+[Smooth animation when addSubview and removeFromSuperView](https://www.notion.so/Smooth-animation-when-addSubview-and-removeFromSuperView-1997d80e27d8433bbd4ef3905871b08e)
+
+[Bounce Animation Magic Formula](https://www.notion.so/Bounce-Animation-Magic-Formula-dca6138918cc4358b7ef147de1bddda9)
+
+[Remove tableview last line](https://www.notion.so/Remove-tableview-last-line-2f62f33be7ac464ab167fbb25612d972)
+
+[Swift register, unregister notifications](https://www.notion.so/Swift-register-unregister-notifications-b01f285d60554cf38aa93fb33b828f74)
 
 ### Dynamic Link & Deep Link
 
