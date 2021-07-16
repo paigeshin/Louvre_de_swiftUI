@@ -1,5 +1,11 @@
 # Louvre_de_swift
 
+# Article To Read
+
+[앱업데이트 알람](https://stackoverflow.com/questions/11288745/ios-app-update-notification)
+
+[Swift Rich Notification](https://www.youtube.com/watch?v=e7cTZ4Tp25I)
+
 # Knowledge acquired by developing Japanese Kanji 
 
 - 프로젝트 개요: 스토리 보드 
@@ -9,6 +15,10 @@
 # Knowledge acquired by developing Secret Letter
 
 - 프로젝트 개요: 스토리보드 
+
+[Swift, Alamofire, json parsing error](https://www.notion.so/Swift-Alamofire-json-parsing-error-6adee5b83c714d7c85cec636d50caa41)
+
+[WebviewVC](https://www.notion.so/WebviewVC-55d6592e3bdb4eea841ffc1e2bf4af03)
 
 [Hugging Priority, Compression Resistance](https://www.notion.so/Hugging-Priority-Compression-Resistance-9cfc1bc718a741e9bca26a179bf791ea)
 
