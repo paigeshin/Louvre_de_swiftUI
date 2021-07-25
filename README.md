@@ -6,6 +6,10 @@
 
 [Swift Rich Notification](https://www.youtube.com/watch?v=e7cTZ4Tp25I)
 
+[Fetch Ad tracking code ](https://www.notion.so/Fetch-Ad-tracking-code-d7278c9340ec450f80a9b7d3d8d68f50)
+
+[Ask Ad tracking ](https://www.notion.so/Ask-Ad-tracking-148c985ece2d4bcb91fc3d9512e6347b)
+
 # Knowledge acquired by developing Japanese Kanji 
 
 - 프로젝트 개요: 스토리 보드 
@@ -1741,6 +1745,10 @@ Apple login 때문에 너무 힘들었다. 코드를 아무리 뜯어봐도 소�
 [Swift ARDicee Project](https://www.notion.so/Swift-ARDicee-Proejct-cfdcd3e7d2af457cae492cc34d4b1899)
 
 # Business
+
+[Fetch Ad tracking code ](https://www.notion.so/Fetch-Ad-tracking-code-d7278c9340ec450f80a9b7d3d8d68f50)
+
+[Ask Ad tracking ](https://www.notion.so/Ask-Ad-tracking-148c985ece2d4bcb91fc3d9512e6347b)
 
 [Swift, when google ad is not showing](https://www.notion.so/Swift-Google-ad-not-showing-0ba5d211ee2f40f6a33574327fd8ce13)
 
