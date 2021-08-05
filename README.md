@@ -1,5 +1,17 @@
 # Louvre_de_swift
 
+# Articles unread yet
+
+[앱업데이트 알람](https://stackoverflow.com/questions/11288745/ios-app-update-notification)
+
+[Swift Rich Notification](https://www.youtube.com/watch?v=e7cTZ4Tp25I)
+
+# SwiftUI MVVM
+
+[Swift MVVM Pattern](https://mokacoding.com/blog/swiftui-dependency-injection/)
+
+[Swift MVVM Realistic Example Youtube](https://www.youtube.com/watch?v=bdqEcpppAMc)
+
 # Article To Read
 
 [앱업데이트 알람](https://stackoverflow.com/questions/11288745/ios-app-update-notification)
