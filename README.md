@@ -1,5 +1,101 @@
 # Louvre_de_swift
 
+# Enum 
+
+[https://www.hackingwithswift.com/read/0/14/enumerations](https://www.hackingwithswift.com/read/0/14/enumerations)
+
+[https://www.swiftbysundell.com/articles/powerful-ways-to-use-swift-enums/](https://www.swiftbysundell.com/articles/powerful-ways-to-use-swift-enums/)
+
+[https://youtube.com/watch?v=YUZ1YA1-jXk&feature=share](https://youtube.com/watch?v=YUZ1YA1-jXk&feature=share) - youtube 
+
+[https://youtube.com/watch?v=UjdEItY2Zxc&feature=share](https://youtube.com/watch?v=UjdEItY2Zxc&feature=share) - youtube
+
+# Async & Await & Concurrency
+
+[https://www.youtube.com/watch?v=C0tx4Cionus](https://www.youtube.com/watch?v=C0tx4Cionus) - youtube 
+
+[https://youtube.com/watch?v=c3lvJSkniB8&feature=share](https://youtube.com/watch?v=c3lvJSkniB8&feature=share) - youtube 
+
+[https://link.medium.com/V97GB492wib](https://link.medium.com/V97GB492wib)
+
+[https://link.medium.com/JFjeO5b3wib](https://link.medium.com/JFjeO5b3wib)
+
+[https://link.medium.com/r3ZOikd3wib](https://link.medium.com/r3ZOikd3wib)
+
+# Grammar
+
+[https://stackoverflow.com/questions/41273035/read-only-properties](https://stackoverflow.com/questions/41273035/read-only-properties)
+
+# Protocols 
+
+[https://link.medium.com/ZqImE2wGvib](https://link.medium.com/ZqImE2wGvib)
+
+[https://www.hackingwithswift.com/articles/138/swift-protocols-tips-and-tricks](https://www.hackingwithswift.com/articles/138/swift-protocols-tips-and-tricks)
+
+[https://www.swiftbysundell.com/articles/different-categories-of-swift-protocols/](https://www.swiftbysundell.com/articles/different-categories-of-swift-protocols/)
+
+[https://link.medium.com/1xwnBqEHvib](https://link.medium.com/1xwnBqEHvib)
+
+[https://link.medium.com/kYDmrqGHvib](https://link.medium.com/kYDmrqGHvib)
+
+[https://link.medium.com/IW5Y8cIHvib](https://link.medium.com/IW5Y8cIHvib)
+
+[https://link.medium.com/uluJ8RKHvib](https://link.medium.com/uluJ8RKHvib)
+
+[https://link.medium.com/cMuXkfMHvib](https://link.medium.com/cMuXkfMHvib)
+
+[https://www.raywenderlich.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started](https://www.raywenderlich.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started) 
+
+[https://www.hackingwithswift.com/example-code/language/how-to-make-optional-protocol-methods](https://www.hackingwithswift.com/example-code/language/how-to-make-optional-protocol-methods)
+
+[https://www.hackingwithswift.com/example-code/language/what-is-the-objc-attribute](https://www.hackingwithswift.com/example-code/language/what-is-the-objc-attribute)
+
+[https://link.medium.com/fgNENnzewib](https://link.medium.com/fgNENnzewib)
+
+[https://youtube.com/watch?v=wATufOPMK-A&feature=share](https://youtube.com/watch?v=wATufOPMK-A&feature=share)  -  youtube
+
+[https://youtube.com/watch?v=oqr8Wvn8tCo&feature=share](https://youtube.com/watch?v=oqr8Wvn8tCo&feature=share) - youtube 
+
+[https://youtube.com/watch?v=pO-QqnY6y6Y&feature=share](https://youtube.com/watch?v=pO-QqnY6y6Y&feature=share) - youtube 
+
+[https://youtube.com/watch?v=QZjz2PL9IS8&feature=share](https://youtube.com/watch?v=QZjz2PL9IS8&feature=share) - youtube 
+
+[https://youtube.com/watch?v=vST4UN4s1kg&feature=share](https://youtube.com/watch?v=vST4UN4s1kg&feature=share) - youtube
+
+# Thread
+
+[https://www.baeldung.com/cs/semaphore](https://www.baeldung.com/cs/semaphore)
+
+[https://developer.arm.com/documentation/ka003612/latest](https://developer.arm.com/documentation/ka003612/latest) ⇒ Semaphore
+
+[https://betterprogramming.pub/understanding-dispatchqueues-2eb72ba965f4](https://betterprogramming.pub/understanding-dispatchqueues-2eb72ba965f4)
+
+[https://www.hackingwithswift.com/example-code/system/how-to-use-multithreaded-operations-with-operationqueue](https://www.hackingwithswift.com/example-code/system/how-to-use-multithreaded-operations-with-operationqueue)
+
+[https://stackoverflow.com/questions/7078658/operation-queue-vs-dispatch-queue-for-ios-application](https://stackoverflow.com/questions/7078658/operation-queue-vs-dispatch-queue-for-ios-application)
+
+[https://developer.apple.com/documentation/DISPATCH](https://developer.apple.com/documentation/DISPATCH)
+
+[https://developer.apple.com/documentation/dispatch/dispatchgroup](https://developer.apple.com/documentation/dispatch/dispatchgroup)
+
+[https://agostini.tech/2017/08/20/dispatchgroup-vs-operationqueue-in-swift/](https://agostini.tech/2017/08/20/dispatchgroup-vs-operationqueue-in-swift/)
+
+[https://eon.codes/blog/2021/06/12/Concurrency-in-swift/](https://eon.codes/blog/2021/06/12/Concurrency-in-swift/)
+
+[https://dev.to/fmo91/dispatchgroup-in-swift-gg7](https://dev.to/fmo91/dispatchgroup-in-swift-gg7)
+
+[https://levelup.gitconnected.com/dispatch-groups-and-semaphores-d3e37613d38c](https://levelup.gitconnected.com/dispatch-groups-and-semaphores-d3e37613d38c)
+
+# Dependency Injection 
+
+[SwiftUI Dependency Injection](https://mokacoding.com/blog/swiftui-dependency-injection/)
+
+[SwiftUI Dependency Injection article](https://medium.com/@hanneshertach/swiftui-dependency-injection-in-20-lines-b322457065a5)
+
+# Annotations 
+
+[State vs StateObject vs ObservedObject vs  EnvironmentObject ](https://www.notion.so/State-vs-StateObject-vs-ObservedObject-vs-EnvironmentObject-a351eab0db20425b9c5419ee8a3c5418)
+
 # Articles unread yet
 
 [앱업데이트 알람](https://stackoverflow.com/questions/11288745/ios-app-update-notification)
@@ -8,9 +104,17 @@
 
 # SwiftUI MVVM
 
+[https://nalexn.github.io/clean-architecture-swiftui/](https://nalexn.github.io/clean-architecture-swiftui/)
+
+[https://betterprogramming.pub/implement-a-clean-mvvm-architecture-in-swiftui-with-combine-637246fa1342](https://betterprogramming.pub/implement-a-clean-mvvm-architecture-in-swiftui-with-combine-637246fa1342)
+
+[Siwft Clean Architecture](https://link.medium.com/4zlhlgpevib)
+
 [Swift MVVM Pattern](https://mokacoding.com/blog/swiftui-dependency-injection/)
 
 [Swift MVVM Realistic Example Youtube](https://www.youtube.com/watch?v=bdqEcpppAMc)
+
+[Is it a bad idea to have BaseViewModel?](https://stackoverflow.com/questions/45613225/is-it-bad-practice-to-have-an-empty-base-class-for-viewmodels-in-mvvm) ⇒ No, It's a good idea
 
 # Article To Read
 
