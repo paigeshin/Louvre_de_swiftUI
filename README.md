@@ -1,5 +1,27 @@
 # Louvre_de_swift
 
+# What I learned from MVVM Secret Letter
+
+[No Storyboard Setup](https://sarunw.com/posts/how-to-create-new-xcode-project-without-storyboard/)
+
+[MVVM Without Rxswift](https://riptutorial.com/ios/example/27354/mvvm-without-reactive-programming)
+
+[Allow http](https://stackoverflow.com/questions/32631184/the-resource-could-not-be-loaded-because-the-app-transport-security-policy-requi) 
+
+[String to enum](https://stackoverflow.com/questions/30009788/in-swift-is-it-possible-to-convert-a-string-to-an-enum/30009873)
+
+[JSON Serialization](https://github.com/SwiftyJSON/SwiftyJSON)
+
+[Response Interceptor](https://stackoverflow.com/questions/37707854/intercepting-every-response-with-alamofire)
+
+[Properties Loopable Protocol](https://stackoverflow.com/questions/27292255/how-to-loop-over-struct-properties-in-swift) 
+
+[Generic function with Multiple protocols](https://stackoverflow.com/questions/24089145/multiple-type-constraints-in-swift) 
+
+[How to call properly generic function](https://stackoverflow.com/questions/36231811/why-specializing-a-generic-function-explicitly-is-not-allowed) 
+
+[Combined Protocol](https://www.notion.so/Combined-Protocol-60f13f66a6934ea68dd30657679cf4dd)
+
 # Enum 
 
 [https://www.hackingwithswift.com/read/0/14/enumerations](https://www.hackingwithswift.com/read/0/14/enumerations)
