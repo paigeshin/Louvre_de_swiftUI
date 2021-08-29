@@ -88,6 +88,10 @@
 
 [https://youtube.com/watch?v=vST4UN4s1kg&feature=share](https://youtube.com/watch?v=vST4UN4s1kg&feature=share) - youtube
 
+# background service
+
+[iOS background service](https://www.notion.so/iOS-background-service-529adb9edca544c7a3e3d49071b4c150)
+
 # Thread
 
 [https://www.baeldung.com/cs/semaphore](https://www.baeldung.com/cs/semaphore)
