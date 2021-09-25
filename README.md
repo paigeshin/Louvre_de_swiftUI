@@ -82,7 +82,7 @@
 
 [Widget](https://www.notion.so/Widget-40abcc201fa448bfbdb4f42145d6c1ba)
 
-[load & save data on device local as file ](https://www.notion.so/load-save-data-on-device-local-as-file-e47345efc0104da89d5fb011231f2a76)
+[**load & save data on device local as file**](https://www.notion.so/load-save-data-on-device-local-as-file-e47345efc0104da89d5fb011231f2a76)
 
 [Handle Slider with Binding](https://www.notion.so/Handle-Slider-with-Binding-2ef9bff11823403cba0d010f70aeeab5)
 
