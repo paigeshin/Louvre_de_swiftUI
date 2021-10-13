@@ -6,6 +6,11 @@
 
 # SwiftUI MultiPlatform
 
+
+# Management
+
+[Recreate entitlements](https://www.notion.so/Recreate-entitlements-416b532f71ff4146a86b1595de82f4c2)
+
 ### iOS Basic
 
 [SwiftUI Controller View](https://www.notion.so/SwiftUI-Controller-View-295d8d55a6f540edb048d87ba19c1a60)
