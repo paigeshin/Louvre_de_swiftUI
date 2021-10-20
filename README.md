@@ -698,6 +698,10 @@
 
 # View Component  
 
+[Vertical View Pager on git](https://github.com/paigeshin/SwiftUI_Vertical_ViewPager)
+
+[SwiftUI Vertical ViewPager](https://www.notion.so/SwiftUI-Vertical-ViewPager-b16d53491e354ecfaafc2d8a4d7346a7)
+
 [BlurView](https://www.notion.so/BlurView-1eaa521310d74b3cb6bf13bd509f9396)
 
 [CustomAlertView](https://www.notion.so/CustomAlertView-1fd63d2072e04180a9cc03519671d451)
