@@ -8,7 +8,11 @@
 
 [Swift Local Package Manager - article](https://itnext.io/modularize-xcode-projects-using-local-swift-packages-8fd844c19081)
 
-# Cheat Sheet
+[Swift Local Package Manger - on github](https://github.com/paigeshin/Swift---Create-Local-Pacakge)
+
+[Swift, Create Local Package - on notion](https://www.notion.so/Swift-Create-Local-Package-535a6cf8d88949cd90571943d0225598)
+
+# SwiftUI Cheat Sheet
 
 [Chest Sheet SwiftUI](https://fuckingswiftui.com/)
 
