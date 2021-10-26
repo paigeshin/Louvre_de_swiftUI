@@ -1,5 +1,11 @@
 # Louvre_de_swift
 
+# CheckList
+
+[AppDelegate and App LifeCycle in SwiftUI](https://www.notion.so/AppDelegate-and-App-LifeCycle-in-SwiftUI-fdff33f084154e6b92308a996d6898e7)
+
+[SwiftUI AppDelegate Article](https://www.notion.so/SwiftUI-AppDelegate-Article-c5993665ed704d83ad548e15e0d356c1)
+
 # SwiftUI Cheat Sheet
 
 [Chest Sheet SwiftUI](https://fuckingswiftui.com/)
@@ -199,14 +205,6 @@
 [SwiftUI 3 Introduction](https://www.notion.so/SwiftUI-3-Introduction-823e825fecf1438d8835151ab1c8b5e7)
 
 [Async Image ](https://www.notion.so/Async-Image-2fcab8d0a7664a00b7ccf38f6b4b2583)
-
-# ***** SwiftUI *****
-
-# CheckList
-
-[AppDelegate and App LifeCycle in SwiftUI](https://www.notion.so/AppDelegate-and-App-LifeCycle-in-SwiftUI-fdff33f084154e6b92308a996d6898e7)
-
-[SwiftUI AppDelegate Article](https://www.notion.so/SwiftUI-AppDelegate-Article-c5993665ed704d83ad548e15e0d356c1)
 
 # Permission Handling
 
