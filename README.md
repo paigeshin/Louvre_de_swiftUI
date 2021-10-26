@@ -2,9 +2,11 @@
 
 # Create Library
 
-[Cocoa Pod](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270)
+[Cocoa Pod - article](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270)
 
-[Swift Package Manager](https://medium.com/developerinsider/create-a-library-using-swift-package-manager-stepwise-tutorial-181604ec8a7)
+[Swift Package Manager - article](https://medium.com/developerinsider/create-a-library-using-swift-package-manager-stepwise-tutorial-181604ec8a7)
+
+[Swift Local Package Manager - article](https://itnext.io/modularize-xcode-projects-using-local-swift-packages-8fd844c19081)
 
 # Cheat Sheet
 
