@@ -4,6 +4,10 @@
 
 [Cocoa Pod - article](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270)
 
+[Create Cocoa Pod library on github](https://github.com/paigeshin/create-pod)
+
+[Create Pod library on notion](https://www.notion.so/Create-Pod-library-f5dda0260e1a4f81871172ce4ad1d98f)
+
 [Swift Package Manager - article](https://medium.com/developerinsider/create-a-library-using-swift-package-manager-stepwise-tutorial-181604ec8a7)
 
 [Swift Package Manager - on Github](https://github.com/paigeshin/swift-package-manager-remote-test/)
