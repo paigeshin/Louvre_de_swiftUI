@@ -4,6 +4,8 @@
 
 [Cocoa Pod](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270)
 
+[Swift Package Manager](https://medium.com/developerinsider/create-a-library-using-swift-package-manager-stepwise-tutorial-181604ec8a7)
+
 # Cheat Sheet
 
 [Chest Sheet SwiftUI](https://fuckingswiftui.com/)
