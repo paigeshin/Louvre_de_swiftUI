@@ -6,6 +6,8 @@
 
 [Swift Package Manager - article](https://medium.com/developerinsider/create-a-library-using-swift-package-manager-stepwise-tutorial-181604ec8a7)
 
+[Swift Package Manager - on Github](https://github.com/paigeshin/swift-package-manager-remote-test/)
+
 [Swift Local Package Manager - article](https://itnext.io/modularize-xcode-projects-using-local-swift-packages-8fd844c19081)
 
 [Swift Local Package Manger - on github](https://github.com/paigeshin/Swift---Create-Local-Pacakge)
