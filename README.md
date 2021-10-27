@@ -10,6 +10,12 @@
 
 [Chest Sheet SwiftUI](https://fuckingswiftui.com/)
 
+# Functionality 
+
+[SwiftUI, launch screen with storyboard](https://www.notion.so/SwiftUI-launch-screen-with-storyboard-4e61a5f399b14e4286651e6e33a1becf)
+
+[SwiftUI, App State Handling For Views ](https://www.notion.so/SwiftUI-App-State-Handling-For-Views-8bf3aa0c318d4b9cab1f0eb5c1427607)
+
 # Template 
 
 [MVVM NO LIBRARY & NO STORYBOARD](https://github.com/paigeshin/MVVM_NO_LIBRARY)
