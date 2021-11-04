@@ -2,6 +2,26 @@
 
 # Knowledge acquired by building Dr.Dozy
 
+[https://material.io/design/color/the-color-system.html#color-theme-creation](https://material.io/design/color/the-color-system.html#color-theme-creation)
+
+[Material Color](https://www.notion.so/Material-Color-f895ecb022384a99aecef886d32d1d34)
+
+[TabController with custom images ](https://www.notion.so/TabController-with-custom-images-cf649bf93a314b6aa723ac578074c267)
+
+[Swift Custom Tabbar](https://www.notion.so/Swift-Custom-Tabbar-bd98da324c614c8b8753834eabc95936)
+
+[SwiftUI Custom TabController](https://www.notion.so/SwiftUI-Custom-TabController-123393d547db4db9862df3f96e00de6a)
+
+[Scalable SwiftUI, including @ScaledMetrics](https://itnext.io/make-your-swiftui-app-scaleable-and-prepare-for-different-screen-sizes-eed42326b11c)
+
+[Relative Size SwiftUI](https://www.hackingwithswift.com/quick-start/swiftui/how-to-provide-relative-sizes-using-geometryreader)
+
+[Responsive Layout Swift with Size Size classes Youtube](https://www.youtube.com/watch?v=67ZCQ5ihj_I&list=PLYL9l9FUEBHu9u_2ddZp7yVRUiLN-thRS)
+
+[SwiftUI Gradient Mask](https://www.notion.so/SwiftUI-Gradient-Mask-8bf5cd874c0e40ff8b5722a5a7d07160)
+
+[Flexible Sheet (ViewComponent)](https://www.notion.so/Flexible-Sheet-ViewComponent-8fea13a5452f4eefb8865b3e0cebb667)
+
 [Snapkit Tutorial](https://www.notion.so/Snapkit-Tutorial-7d921363dcc84ce19ecd0963491f991e)
 
 [Moya Tutorial](https://www.notion.so/Moya-Tutorial-fae21819c519446ca059832975810f91)
@@ -51,6 +71,14 @@
 [MVVM NO LIBRARY & NO STORYBOARD](https://github.com/paigeshin/MVVM_NO_LIBRARY)
 
 [SwiftUI Dependency Injection & Clean Architecture](https://github.com/paigeshin/swiftUI_dependency_injection-arctitecture-guide)
+
+# Responsive Layout
+
+[Scalable SwiftUI, including @ScaledMetrics](https://itnext.io/make-your-swiftui-app-scaleable-and-prepare-for-different-screen-sizes-eed42326b11c)
+
+[Relative Size SwiftUI](https://www.hackingwithswift.com/quick-start/swiftui/how-to-provide-relative-sizes-using-geometryreader)
+
+[Responsive Layout Swift with Size Size classes Youtube](https://www.youtube.com/watch?v=67ZCQ5ihj_I&list=PLYL9l9FUEBHu9u_2ddZp7yVRUiLN-thRS)
 
 # SwiftUI MultiPlatform
 
@@ -271,6 +299,8 @@
 [Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
 
 # View Component  
+
+[Flexible Sheet (ViewComponent)](https://www.notion.so/Flexible-Sheet-ViewComponent-8fea13a5452f4eefb8865b3e0cebb667)
 
 [Vertical View Pager on git](https://github.com/paigeshin/SwiftUI_Vertical_ViewPager)
 
