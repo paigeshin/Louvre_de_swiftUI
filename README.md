@@ -2,6 +2,10 @@
 
 # Knowledge acquired by building Dr.Dozy
 
+[pop to view controller with `isActive`](https://fwani.tistory.com/16)
+
+[PopToRoot helper](https://www.notion.so/PopToRoot-helper-01a357a6146f4ca88908dbdbfda5e6e8)
+
 [https://material.io/design/color/the-color-system.html#color-theme-creation](https://material.io/design/color/the-color-system.html#color-theme-creation)
 
 [Material Color](https://www.notion.so/Material-Color-f895ecb022384a99aecef886d32d1d34)
