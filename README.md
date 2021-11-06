@@ -306,9 +306,11 @@
 
 # View Component  
 
-[HalfModalModifier](https://github.com/paigeshin/SwiftUI_ViewComponent_HalfModal)
+[Draggable Bottom Sheet](https://github.com/paigeshin/SwiftUI_DraggableBottomSheet)
 
-[Clock Component](https://github.com/paigeshin/SwiftUI_ClockComponent)
+[HalfModalModifier GitHub](https://github.com/paigeshin/SwiftUI_ViewComponent_HalfModal)
+
+[Clock Component GitHub](https://github.com/paigeshin/SwiftUI_ClockComponent)
 
 [Flexible Sheet (ViewComponent)](https://www.notion.so/Flexible-Sheet-ViewComponent-8fea13a5452f4eefb8865b3e0cebb667)
 
