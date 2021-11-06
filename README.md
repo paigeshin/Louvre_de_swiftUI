@@ -2,6 +2,8 @@
 
 # Knowledge acquired by building Dr.Dozy
 
+[Clock Component](https://github.com/paigeshin/SwiftUI_ClockComponent)
+
 [pop to view controller with `isActive`](https://fwani.tistory.com/16)
 
 [PopToRoot helper](https://www.notion.so/PopToRoot-helper-01a357a6146f4ca88908dbdbfda5e6e8)
@@ -303,6 +305,8 @@
 [Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
 
 # View Component  
+
+[Clock Component](https://github.com/paigeshin/SwiftUI_ClockComponent)
 
 [Flexible Sheet (ViewComponent)](https://www.notion.so/Flexible-Sheet-ViewComponent-8fea13a5452f4eefb8865b3e0cebb667)
 
