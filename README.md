@@ -2,59 +2,7 @@
 
 # Knowledge acquired by building Dr.Dozy
 
-[Highlight Carousel View on git](https://github.com/paigeshin/SwiftUIParallexCarouselView)
 
-[Clock Component on git](https://github.com/paigeshin/SwiftUI_ClockComponent)
-
-[pop to view controller with `isActive`](https://fwani.tistory.com/16)
-
-[PopToRoot helper](https://www.notion.so/PopToRoot-helper-01a357a6146f4ca88908dbdbfda5e6e8)
-
-[https://material.io/design/color/the-color-system.html#color-theme-creation](https://material.io/design/color/the-color-system.html#color-theme-creation)
-
-[Material Color](https://www.notion.so/Material-Color-f895ecb022384a99aecef886d32d1d34)
-
-[TabController with custom images ](https://www.notion.so/TabController-with-custom-images-cf649bf93a314b6aa723ac578074c267)
-
-[Swift Custom Tabbar](https://www.notion.so/Swift-Custom-Tabbar-bd98da324c614c8b8753834eabc95936)
-
-[SwiftUI Custom TabController](https://www.notion.so/SwiftUI-Custom-TabController-123393d547db4db9862df3f96e00de6a)
-
-[Scalable SwiftUI, including @ScaledMetrics](https://itnext.io/make-your-swiftui-app-scaleable-and-prepare-for-different-screen-sizes-eed42326b11c)
-
-[Relative Size SwiftUI](https://www.hackingwithswift.com/quick-start/swiftui/how-to-provide-relative-sizes-using-geometryreader)
-
-[Responsive Layout Swift with Size Size classes Youtube](https://www.youtube.com/watch?v=67ZCQ5ihj_I&list=PLYL9l9FUEBHu9u_2ddZp7yVRUiLN-thRS)
-
-[SwiftUI Gradient Mask](https://www.notion.so/SwiftUI-Gradient-Mask-8bf5cd874c0e40ff8b5722a5a7d07160)
-
-[Flexible Sheet (ViewComponent)](https://www.notion.so/Flexible-Sheet-ViewComponent-8fea13a5452f4eefb8865b3e0cebb667)
-
-[Snapkit Tutorial](https://www.notion.so/Snapkit-Tutorial-7d921363dcc84ce19ecd0963491f991e)
-
-[Moya Tutorial](https://www.notion.so/Moya-Tutorial-fae21819c519446ca059832975810f91)
-
-[SwiftUI Keyboard Handling LayoutModifier](https://www.notion.so/SwiftUI-Keyboard-Handling-LayoutModifier-788707398c1c48a49aa8d51d03aa8f31)
-
-[SwiftUI Hide Keyboard](https://www.notion.so/SwiftUI-Hide-Keyboard-a58fff2258e642b28cdc7b167e040006)
-
-[SwiftUI Hide NavigationBar Modifier](https://www.notion.so/SwiftUI-Hide-NavigationBar-Modifier-65c83dd931a445148499474375157847)
-
-[SwiftUI, scrollview dragging touches top navigation bar area](https://www.notion.so/SwiftUI-scrollview-dragging-touches-top-navigation-bar-area-0de1172428b644e3b71132f6bda1754b)
-
-[CoreMotion Tutorial ](https://www.notion.so/CoreMotion-Tutorial-afdd3207cfd44104ae48b9c89949df32)
-
-[Navigationbar background color extension](https://www.notion.so/Navigationbar-background-color-extension-b3bdb56608934a97bf55002f960506b2)
-
-[Swift Permission Manager](https://www.notion.so/Swift-Permission-Manager-83c2c5c289f348cf970f28e11ecebf54)
-
-[SwiftUI about font](https://www.notion.so/SwiftUI-about-font-d07d34e92cdb48ba95e264c63bf37264)
-
-[SwiftUI get safe area](https://www.notion.so/SwiftUI-get-safe-area-9bd486f4337a4bc5b977192d19b51c10)
-
-[SwiftUI when navigation bar doesn't disappear](https://www.notion.so/SwiftUI-when-navigation-bar-doesn-t-disappear-e1ad5447abeb496e82bb6f49827621d9)
-
-[SwiftUI optional view modifier](https://www.notion.so/SwiftUI-optional-view-modifier-cabdab4c6a56467ca4b0381b1b14686e)
 
 # CheckList
 
@@ -78,6 +26,12 @@
 
 [Responsive Layout Swift with Size Size classes Youtube](https://www.youtube.com/watch?v=67ZCQ5ihj_I&list=PLYL9l9FUEBHu9u_2ddZp7yVRUiLN-thRS)
 
+# Navigation 
+
+[pop to view controller with `isActive`](https://fwani.tistory.com/16)
+
+[PopToRoot helper](https://www.notion.so/PopToRoot-helper-01a357a6146f4ca88908dbdbfda5e6e8)
+
 # Management
 
 [Recreate entitlements](https://www.notion.so/Recreate-entitlements-416b532f71ff4146a86b1595de82f4c2) 
@@ -99,6 +53,8 @@
 [Realm a bit advanced concept](https://github.com/paigeshin/SwiftUI_Realm_a_bit_advanced)
 
 [Realm DB Simplified](https://www.notion.so/Realm-DB-Simplified-efc9e534799240b7a1f991da24621797)
+
+# Custom Shape
 
 # Component
 
