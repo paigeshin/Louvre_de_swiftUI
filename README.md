@@ -118,9 +118,15 @@
 
 # Navigation 
 
+[SwiftUI when navigation bar doesn't disappear](https://www.notion.so/SwiftUI-when-navigation-bar-doesn-t-disappear-e1ad5447abeb496e82bb6f49827621d9)
+
 [pop to view controller with `isActive`](https://fwani.tistory.com/16)
 
 [PopToRoot helper](https://www.notion.so/PopToRoot-helper-01a357a6146f4ca88908dbdbfda5e6e8)
+
+[Navigationbar background color extension](https://www.notion.so/Navigationbar-background-color-extension-b3bdb56608934a97bf55002f960506b2)
+
+[SwiftUI, scrollview dragging touches top navigation bar area](https://www.notion.so/SwiftUI-scrollview-dragging-touches-top-navigation-bar-area-0de1172428b644e3b71132f6bda1754b)
 
 # Management
 
@@ -132,7 +138,9 @@
 
 [Async Image ](https://www.notion.so/Async-Image-2fcab8d0a7664a00b7ccf38f6b4b2583)
 
-# Permission Handling
+# Permission 
+
+[Swift Permission Manager](https://www.notion.so/Swift-Permission-Manager-83c2c5c289f348cf970f28e11ecebf54)
 
 [SwiftUI Check Notification Permission](https://www.notion.so/SwiftUI-Check-Notification-Permission-75dc6170c48e4429a519210da33f8ca4)
 
@@ -146,11 +154,27 @@
 
 # Custom Shape
 
+[Shape - Custom Corner Radius](https://www.notion.so/Shape-Custom-Corner-Radius-0ebef99858cf4dd7b7fc8e14efa7c160)
+
 # Component
 
 [Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
 
+# Modifier 
+
+[SwiftUI optional view modifier](https://www.notion.so/SwiftUI-optional-view-modifier-cabdab4c6a56467ca4b0381b1b14686e)
+
+[SwiftUI Keyboard Handling LayoutModifier](https://www.notion.so/SwiftUI-Keyboard-Handling-LayoutModifier-788707398c1c48a49aa8d51d03aa8f31)
+
+[SwiftUI Hide Keyboard](https://www.notion.so/SwiftUI-Hide-Keyboard-a58fff2258e642b28cdc7b167e040006)
+
+[SwiftUI Hide NavigationBar Modifier](https://www.notion.so/SwiftUI-Hide-NavigationBar-Modifier-65c83dd931a445148499474375157847)
+
+[SwiftUI Hide NavigationBar Modifier](https://www.notion.so/SwiftUI-Hide-NavigationBar-Modifier-65c83dd931a445148499474375157847)
+
 # System
+
+[SwiftUI get safe area](https://www.notion.so/SwiftUI-get-safe-area-9bd486f4337a4bc5b977192d19b51c10)
 
 [SwiftUI, launch screen with storyboard](https://www.notion.so/SwiftUI-launch-screen-with-storyboard-4e61a5f399b14e4286651e6e33a1becf)
 
@@ -158,7 +182,49 @@
 
 [preview darkmode](https://www.notion.so/preview-darkmode-33f0634c4f7c4a8da4bd9330c48a9e95)
 
-# View Component  
+[SwiftUI StatusBar Control](https://www.notion.so/SwiftUI-StatusBar-Control-e90a3c0990bc4217ad350972327b4086)
+
+[SwiftUI Only Portrait Mode ](https://www.notion.so/SwiftUI-Only-Portrait-Mode-b9732484c515428caeb31bb5e6dd3bf0)
+
+# Reusable View  
+
+[Flexible Sheet (ViewComponent)](https://www.notion.so/Flexible-Sheet-ViewComponent-8fea13a5452f4eefb8865b3e0cebb667)
+
+[TabController with custom images](https://www.notion.so/TabController-with-custom-images-cf649bf93a314b6aa723ac578074c267)
+
+[Swift Custom Tabbar](https://www.notion.so/Swift-Custom-Tabbar-bd98da324c614c8b8753834eabc95936)
+
+[SwiftUI Custom TabController](https://www.notion.so/SwiftUI-Custom-TabController-123393d547db4db9862df3f96e00de6a)
+
+[SwiftUI BottomSheetView](https://www.notion.so/SwiftUI-BottomSheetView-56ce91f410a4437ea0511e6abf211d40)
+
+[Swift Half Modal iOS 15+](https://www.notion.so/Swift-Half-Modal-iOS-15-7d70b5e968f546d9aa41ccfcd6a72d66)
+
+[SwiftUI Menu + PickerView + Section](https://www.notion.so/SwiftUI-Menu-PickerView-Section-eb2fec9e5b9b45038e227c2e416679ea)
+
+[SwiftUI DropDown Custom Style](https://www.notion.so/SwiftUI-DropDown-Custom-Style-43a2b3c919ed42328eddabce59ebc4c2)
+
+[SwiftUI Dropdown Custom Style2](https://www.notion.so/SwiftUI-Dropdown-Custom-Style2-9ffcb946ea95454eaf3c4eb689d06808)
+
+[SwiftUI Dropdown](https://www.notion.so/SwiftUI-Dropdown-161b893b4edd4debbbb42c3d4eadc29a)
+
+[Customize PickerView](https://www.notion.so/Customize-PickerView-2615d0c0d6ff499a8b3247a44aec5636)
+
+[SwiftUI Clock](https://www.notion.so/SwiftUI-Clock-9251a14c356b4308923e397611b0f409)
+
+[My Dialog](https://www.notion.so/My-Dialog-b14bca3ddf754950bc150a292f42990f)
+
+[Advanced BlurView](https://www.notion.so/Advanced-BlurView-2ab191315ac141b99b66487045216342)
+
+[Draggable BottomSheet Applied](https://www.notion.so/Draggable-BottomSheet-Applied-04035e4ed2dc46cda3d9018b37707d07)
+
+[My Long Press Fill Button](https://www.notion.so/My-Long-Press-Fill-Button-5c5c965f5a0747cf9b1049802079871b)
+
+[SwiftUI Long Click Fill Animation](https://www.notion.so/SwiftUI-Long-Click-Fill-Animation-337f562db35f464ea62a28435d42327e)
+
+[Swift Custom Navigation Bar](https://www.notion.so/Swift-Custom-Navigation-Bar-fd795218a1cd4f9b8233bb939adf47dc)
+
+[Swift Highlight CarouselView ](https://www.notion.so/Swift-Highlight-CarouselView-3d664e5b0d454232a79fbf8b94826521)
 
 [BlurView](https://www.notion.so/BlurView-1eaa521310d74b3cb6bf13bd509f9396)
 
@@ -222,7 +288,15 @@
 
 [Tinder-like card dragging motion](https://www.notion.so/Tinder-like-card-dragging-motion-556a4872e79a4d6b962d602906d31640)
 
+# Tutorial
+
+[CoreMotion Tutorial](https://www.notion.so/CoreMotion-Tutorial-afdd3207cfd44104ae48b9c89949df32)
+
 # Extensions
+
+[Navigationbar background color extension](https://www.notion.so/Navigationbar-background-color-extension-b3bdb56608934a97bf55002f960506b2)
+
+[SwiftUI, scrollview dragging touches top navigation bar area](https://www.notion.so/SwiftUI-scrollview-dragging-touches-top-navigation-bar-area-0de1172428b644e3b71132f6bda1754b)
 
 [Roundeded Corners Extended ](https://www.notion.so/Roundeded-Corners-Extended-c28fccaedee2450c97cc8ab1d95b3754)
 
@@ -234,6 +308,10 @@
 
 [SwiftUI hide keyboard when touching outside](https://www.notion.so/SwiftUI-hide-keyboard-when-touching-outside-e2f224e49b4547b9bdfd11af23c8aac7)
 
+[SwiftUI Keyboard Handling LayoutModifier](https://www.notion.so/SwiftUI-Keyboard-Handling-LayoutModifier-788707398c1c48a49aa8d51d03aa8f31)
+
+[SwiftUI Hide Keyboard](https://www.notion.so/SwiftUI-Hide-Keyboard-a58fff2258e642b28cdc7b167e040006)
+
 # Functionality 
 
 [WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
@@ -244,6 +322,10 @@
 # Library
 
 [Using Apple Default Provided Dependency system](https://www.notion.so/Using-Apple-Default-Provided-Dependency-system-483044ee855e4a95b4153d970d528e5b)
+
+[Snapkit Tutorial](https://www.notion.so/Snapkit-Tutorial-7d921363dcc84ce19ecd0963491f991e)
+
+[Moya Tutorial](https://www.notion.so/Moya-Tutorial-fae21819c519446ca059832975810f91)
 
 # xCode
 
@@ -275,11 +357,29 @@
 
 # Animation
 
+[My Long Press Fill Button](https://www.notion.so/My-Long-Press-Fill-Button-5c5c965f5a0747cf9b1049802079871b)
+
+[SwiftUI Long Click Fill Animation](https://www.notion.so/SwiftUI-Long-Click-Fill-Animation-337f562db35f464ea62a28435d42327e)
+
+[Swift Swing Animation](https://www.notion.so/Swift-Swing-Animation-23c0d386e66a405a9cb05244ca9b632f)
+
+[My Long Press Fill Button](https://www.notion.so/My-Long-Press-Fill-Button-5c5c965f5a0747cf9b1049802079871b)
+
+[SwiftUI Long Click Fill Animation](https://www.notion.so/SwiftUI-Long-Click-Fill-Animation-337f562db35f464ea62a28435d42327e)
+
 [Animation for understanding](https://www.notion.so/Animation-for-understanding-a415285ca8654f51984634bda40bbce7)
 
 [Pulse Animation](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
 
 # Design Guide
+
+[SwiftUI about font](https://www.notion.so/SwiftUI-about-font-d07d34e92cdb48ba95e264c63bf37264)
+
+[SwiftUI Gradient Mask](https://www.notion.so/SwiftUI-Gradient-Mask-8bf5cd874c0e40ff8b5722a5a7d07160)
+
+[https://material.io/design/color/the-color-system.html#color-theme-creation](https://material.io/design/color/the-color-system.html#color-theme-creation)
+
+[Material Color](https://www.notion.so/Material-Color-f895ecb022384a99aecef886d32d1d34)
 
 [Long Text on `onBoarding`, maxWidth 480 ](https://www.notion.so/Long-Text-on-onBoarding-maxWidth-480-c0b1a79b23cd4dfb8828b4f48c45eba8)
 
