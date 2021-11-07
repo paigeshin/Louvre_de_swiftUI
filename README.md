@@ -64,16 +64,6 @@
 
 [Font Article](https://opendoorlife.tistory.com/12) **super important**
 
-# SwiftUI Cheat Sheet
-
-[Chest Sheet SwiftUI](https://fuckingswiftui.com/)
-
-# Functionality 
-
-[SwiftUI, launch screen with storyboard](https://www.notion.so/SwiftUI-launch-screen-with-storyboard-4e61a5f399b14e4286651e6e33a1becf)
-
-[SwiftUI, App State Handling For Views ](https://www.notion.so/SwiftUI-App-State-Handling-For-Views-8bf3aa0c318d4b9cab1f0eb5c1427607)
-
 # Template 
 
 [MVVM NO LIBRARY & NO STORYBOARD](https://github.com/paigeshin/MVVM_NO_LIBRARY)
@@ -88,79 +78,162 @@
 
 [Responsive Layout Swift with Size Size classes Youtube](https://www.youtube.com/watch?v=67ZCQ5ihj_I&list=PLYL9l9FUEBHu9u_2ddZp7yVRUiLN-thRS)
 
-# SwiftUI MultiPlatform
-
-### iOS Basic
-
-[SwiftUI Controller View](https://www.notion.so/SwiftUI-Controller-View-295d8d55a6f540edb048d87ba19c1a60)
-
-[DatePicker, Color Picker ](https://www.notion.so/DatePicker-Color-Picker-9f18b4b8c83344c4b5c7f8e2605cc034)
-
-[Image Picker](https://www.notion.so/Image-Picker-7f1e616c07104cfca46834e41821115b)
-
-[class, codable](https://www.notion.so/class-codable-1ceb7e1c73514711a6c0ae50d381ab31)
-
-[UserDefaults, json encoding, json decoding ](https://www.notion.so/UserDefaults-json-encoding-json-decoding-d2bd50cf2a214e3794a0dbbcc4f77eae)
-
-[filter past future](https://www.notion.so/filter-past-future-080560c983ff4adc8a2e0130aedc0e02)
-
-[xCode Super Debugging Tips!](https://www.notion.so/xCode-Super-Debugging-Tips-e60f08c3285344aabf277aa4bb7099f4)
-
-### Widget
-
-[Include Configuration Intent](https://www.notion.so/Include-Configuration-Intent-9b0c56a0be344542afa2acc47028308f)
-
-[iOS Widget ](https://www.notion.so/iOS-Widget-c5c189173b53407c8e848436af2245c8)
-
-[CRUD Inspiration](https://www.notion.so/CRUD-Inspiration-3f809d4446d44fdeaaa18a74895135e4)
-
-[widget small,medium,large](https://www.notion.so/widget-small-medium-large-0dcd61be3633449da46909f084b5df1d)
-
-[Communication between app and widget, UserDefaults ](https://www.notion.so/Communication-between-app-and-widget-UserDefaults-2756087f8f074da297baa06752a7f94d)
-
-[Widget Logic, PlaceHolder, Snapshot, Timeline](https://www.notion.so/Widget-Logic-PlaceHolder-Snapshot-Timeline-a8504185d87f4878b449b084b1d22c81)
-
-[Widget App Code](https://www.notion.so/Widget-App-Code-16d5e11d64d54026bac2ecb3ee8ac73d)
-
-### IPAD
-
-[Size Classes](https://www.notion.so/Size-Classes-7edf2d42c58942ec8c708c5fe54e23f1)
-
-### Apple Watch
-
-[App Watch](https://www.notion.so/App-Watch-99f5371b6b024e0db74a634a95ebe5e5)
-
-[Platform specific code handling  ](https://www.notion.so/Platform-specific-code-handling-037fdcb470a34ede9f00ebcf271ba51e)
-
-[always embed](https://www.notion.so/always-embed-2dcbf7284072459eb558f1bd98b3c885)
-
-[Swift Grammar Multiple Variables](https:/v/www.notion.so/Swift-Grammar-Multiple-Variables-3dd63a64a95749fea17f10925cfe85bf)
-
-[extension - isDarkColor?](https://www.notion.so/extension-isDarkColor-c4ae17613ee54497bdc14f3850897730)
-
-[Apple Watch PodFile](https://www.notion.so/Apple-Watch-PodFile-b5f6a485614844afa9b97e09a44811a9)
-
-[Apple Watch - iOS Communication](https://www.notion.so/Apple-Watch-iOS-Communication-40b93b7c1add4281a0fb16d957fd15a6)
-
-[Communication from phone to watch ](https://www.notion.so/Communication-from-phone-to-watch-c114847f4c7e4eedb1dd22c8722b8af4)
-
-[Communication from watch to app ](https://www.notion.so/Communication-from-watch-to-app-8def59218cd548d28bd154ebcf144129)
-
-### Mac
-
-[Create Mac App](https://www.notion.so/Create-Mac-App-a835575298d040f7b2df4a0ce0aa3982)
-
-### TVOS
-
-[TVOS](https://www.notion.so/TVOS-ac7579bc34da4e53afffa9e0e3c70f6b)
-
 # Management
 
-[Recreate entitlements](https://www.notion.so/Recreate-entitlements-416b532f71ff4146a86b1595de82f4c2)
+[Recreate entitlements](https://www.notion.so/Recreate-entitlements-416b532f71ff4146a86b1595de82f4c2) 
 
-# SwiftUI 
+### SwiftUI 3.0
 
-### Design Guide
+[SwiftUI 3 Introduction](https://www.notion.so/SwiftUI-3-Introduction-823e825fecf1438d8835151ab1c8b5e7)
+
+[Async Image ](https://www.notion.so/Async-Image-2fcab8d0a7664a00b7ccf38f6b4b2583)
+
+# Permission Handling
+
+[SwiftUI Check Notification Permission](https://www.notion.so/SwiftUI-Check-Notification-Permission-75dc6170c48e4429a519210da33f8ca4)
+
+[Camera permission check, article ](https://www.notion.so/Camera-permission-check-article-d746114244fe45a3997a5f2c314802d2)
+
+# Realm
+
+[Realm a bit advanced concept](https://github.com/paigeshin/SwiftUI_Realm_a_bit_advanced)
+
+[Realm DB Simplified](https://www.notion.so/Realm-DB-Simplified-efc9e534799240b7a1f991da24621797)
+
+# Component
+
+[Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
+
+# System
+
+[SwiftUI, launch screen with storyboard](https://www.notion.so/SwiftUI-launch-screen-with-storyboard-4e61a5f399b14e4286651e6e33a1becf)
+
+[SwiftUI, App State Handling For Views ](https://www.notion.so/SwiftUI-App-State-Handling-For-Views-8bf3aa0c318d4b9cab1f0eb5c1427607)
+
+[preview darkmode](https://www.notion.so/preview-darkmode-33f0634c4f7c4a8da4bd9330c48a9e95)
+
+# View Component  
+
+[BlurView](https://www.notion.so/BlurView-1eaa521310d74b3cb6bf13bd509f9396)
+
+[WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
+
+[Lottie Animation](https://www.notion.so/Lottie-Animation-084f19e7ec224a9486fb8f66999b1d87)
+
+[MailView](https://www.notion.so/MailView-521674ff8f5d4506846b5004b7b2e257)
+
+[Share Sheet](https://www.notion.so/Share-Sheet-bd0c9fd97e6f4ecca906a28ec3740950)
+
+[Highlight Carousel View on git](https://github.com/paigeshin/SwiftUIParallexCarouselView)
+
+[Clock Component on git](https://github.com/paigeshin/SwiftUI_ClockComponent)
+
+[Draggable Bottom Sheet](https://github.com/paigeshin/SwiftUI_DraggableBottomSheet)
+
+[HalfModalModifier GitHub](https://github.com/paigeshin/SwiftUI_ViewComponent_HalfModal)
+
+[Clock Component GitHub](https://github.com/paigeshin/SwiftUI_ClockComponent)
+
+[Flexible Sheet (ViewComponent)](https://www.notion.so/Flexible-Sheet-ViewComponent-8fea13a5452f4eefb8865b3e0cebb667)
+
+[Vertical View Pager on git](https://github.com/paigeshin/SwiftUI_Vertical_ViewPager)
+
+[SwiftUI Vertical ViewPager](https://www.notion.so/SwiftUI-Vertical-ViewPager-b16d53491e354ecfaafc2d8a4d7346a7)
+
+[BlurView](https://www.notion.so/BlurView-1eaa521310d74b3cb6bf13bd509f9396)
+
+[CustomAlertView](https://www.notion.so/CustomAlertView-1fd63d2072e04180a9cc03519671d451)
+
+[HUD ProgressView](https://www.notion.so/HUD-ProgressView-e30a338ce61e462d90b4b4a9b749d791)
+
+[ShowAlert](https://www.notion.so/ShowAlert-3544ac94afe24628b58e64a958fa8020)
+
+[Pulse Animation](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
+
+[GridView + Network Example](https://www.notion.so/GridView-Network-Example-746ba812246441a5b16549ce08fb5c51)
+
+[Vertical Pager + DrawerNavigationView](https://www.notion.so/Vertical-Pager-DrawerNavigationView-a4b39df26780473b9db5563025336703)
+
+[Vertical Pager View](https://www.notion.so/Vertical-Pager-View-3cdaf6439d35444db01636c45908eb9b)
+
+[Pulse Animation View](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
+
+[SwiftUI Snap to Center ScrollView](https://www.notion.so/SwiftUI-Snap-to-Center-ScrollView-9c152281ba2a439299f6103fd52177a4)
+
+[Lottie Animation](https://www.notion.so/Lottie-Animation-084f19e7ec224a9486fb8f66999b1d87)
+
+[Half Modal View,](https://www.notion.so/Half-Modal-View-d217e75a14404423ac0d344e676aca02)
+
+[My Custom Bottom Sheet](https://www.notion.so/My-Custom-Bottom-Sheet-4f1499707c954178ab93a24bdc5523f8)
+
+[MailView](https://www.notion.so/MailView-521674ff8f5d4506846b5004b7b2e257)
+
+[Share Sheet](https://www.notion.so/Share-Sheet-bd0c9fd97e6f4ecca906a28ec3740950)
+
+[Complex Settings View](https://www.notion.so/Complex-Settings-View-92723a801fca47afb7b1000bfa2dc452)
+
+[Flashcard Core Logic](https://www.notion.so/Flashcard-Core-Logic-9a1d00cba7424ab887df6dea0b3bd7b9)
+
+[Tinder-like card dragging motion](https://www.notion.so/Tinder-like-card-dragging-motion-556a4872e79a4d6b962d602906d31640)
+
+# Extensions
+
+[Roundeded Corners Extended ](https://www.notion.so/Roundeded-Corners-Extended-c28fccaedee2450c97cc8ab1d95b3754)
+
+# Keyboard handling
+
+[Don't move up keyboard for specific view](https://www.notion.so/Don-t-move-up-keyboard-for-specific-view-0f7b7b987e2246b09ba7317fcb1ae680)
+
+[SwiftUI Keyboard handling manually](https://www.notion.so/SwiftUI-Keyboard-handling-manually-7ce341a7b8f94fe7a46185334c94a881)
+
+[SwiftUI hide keyboard when touching outside](https://www.notion.so/SwiftUI-hide-keyboard-when-touching-outside-e2f224e49b4547b9bdfd11af23c8aac7)
+
+# Functionality 
+
+[WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
+
+[Load Image URL](https://www.notion.so/Load-Image-URL-d01e712b45ec460eaea5560a77ede8cc)
+
+
+# Library
+
+[Using Apple Default Provided Dependency system](https://www.notion.so/Using-Apple-Default-Provided-Dependency-system-483044ee855e4a95b4153d970d528e5b)
+
+# xCode
+
+[SwiftUI, xCode에 todo 남기기 ](https://www.notion.so/SwiftUI-xCode-todo-a00f2d69d3cb434fb23ae98a9a437335)
+
+# Logic 
+
+[SwiftUI For i Loop to change value by looping ](https://www.notion.so/SwiftUI-For-i-Loop-to-change-value-by-looping-6f2c7e1173f943aba2f1a9a6f4d6f3e9)
+
+[SwiftUI reverse loop ](https://www.notion.so/SwiftUI-reverse-loop-40894ecae5cd4283b109868a3b04aa03)
+
+# Articles 
+
+[Cache](https://www.notion.so/Cache-30d54057b8ef4b4dbb56b0219e12ded3)
+
+[SwiftUI AppDelegate Article](https://www.notion.so/SwiftUI-AppDelegate-Article-c5993665ed704d83ad548e15e0d356c1)
+
+[SwiftUI Notification with AppDelegate](https://prafullkumar77.medium.com/how-to-handle-push-notifications-in-swiftuis-new-app-lifecycle-7532c21d32d7)
+
+# Notification
+
+[SwiftUI Check Notification Permission](https://www.notion.so/SwiftUI-Check-Notification-Permission-75dc6170c48e4429a519210da33f8ca4)
+
+[Swift Local Notification Badge Handling](https://www.notion.so/Swift-Local-Notification-Badge-Handling-52f162e3d527467ea732537aaa190893)
+
+[Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
+
+[Swift Local Notification Component on git](https://github.com/paigeshin/SwiftUI_Local_Notification_Component_schedule_repeating_notification_is_possible)
+
+# Animation
+
+[Animation for understanding](https://www.notion.so/Animation-for-understanding-a415285ca8654f51984634bda40bbce7)
+
+[Pulse Animation](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
+
+# Design Guide
 
 [Long Text on `onBoarding`, maxWidth 480 ](https://www.notion.so/Long-Text-on-onBoarding-maxWidth-480-c0b1a79b23cd4dfb8828b4f48c45eba8)
 
@@ -272,146 +345,10 @@
 
 [Tinder-like card dragging motion](https://www.notion.so/Tinder-like-card-dragging-motion-556a4872e79a4d6b962d602906d31640)
 
-### SwiftUI 3.0
-
-[SwiftUI 3 Introduction](https://www.notion.so/SwiftUI-3-Introduction-823e825fecf1438d8835151ab1c8b5e7)
-
-[Async Image ](https://www.notion.so/Async-Image-2fcab8d0a7664a00b7ccf38f6b4b2583)
-
-# Permission Handling
-
-[SwiftUI Check Notification Permission](https://www.notion.so/SwiftUI-Check-Notification-Permission-75dc6170c48e4429a519210da33f8ca4)
-
-[Camera permission check, article ](https://www.notion.so/Camera-permission-check-article-d746114244fe45a3997a5f2c314802d2)
-
-# Realm
-
-[Realm a bit advanced concept](https://github.com/paigeshin/SwiftUI_Realm_a_bit_advanced)
-
-[Realm DB Simplified](https://www.notion.so/Realm-DB-Simplified-efc9e534799240b7a1f991da24621797)
-
-# UIViewRepresentable
-
-[BlurView](https://www.notion.so/BlurView-1eaa521310d74b3cb6bf13bd509f9396)
-
-[WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
-
-[Lottie Animation](https://www.notion.so/Lottie-Animation-084f19e7ec224a9486fb8f66999b1d87)
-
-[MailView](https://www.notion.so/MailView-521674ff8f5d4506846b5004b7b2e257)
-
-[Share Sheet](https://www.notion.so/Share-Sheet-bd0c9fd97e6f4ecca906a28ec3740950)
-
-# Component
-
-[Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
-
-# View Component  
-
-[Highlight Carousel View on git](https://github.com/paigeshin/SwiftUIParallexCarouselView)
-
-[Clock Component on git](https://github.com/paigeshin/SwiftUI_ClockComponent)
-
-[Draggable Bottom Sheet](https://github.com/paigeshin/SwiftUI_DraggableBottomSheet)
-
-[HalfModalModifier GitHub](https://github.com/paigeshin/SwiftUI_ViewComponent_HalfModal)
-
-[Clock Component GitHub](https://github.com/paigeshin/SwiftUI_ClockComponent)
-
-[Flexible Sheet (ViewComponent)](https://www.notion.so/Flexible-Sheet-ViewComponent-8fea13a5452f4eefb8865b3e0cebb667)
-
-[Vertical View Pager on git](https://github.com/paigeshin/SwiftUI_Vertical_ViewPager)
-
-[SwiftUI Vertical ViewPager](https://www.notion.so/SwiftUI-Vertical-ViewPager-b16d53491e354ecfaafc2d8a4d7346a7)
-
-[BlurView](https://www.notion.so/BlurView-1eaa521310d74b3cb6bf13bd509f9396)
-
-[CustomAlertView](https://www.notion.so/CustomAlertView-1fd63d2072e04180a9cc03519671d451)
-
-[HUD ProgressView](https://www.notion.so/HUD-ProgressView-e30a338ce61e462d90b4b4a9b749d791)
-
-[ShowAlert](https://www.notion.so/ShowAlert-3544ac94afe24628b58e64a958fa8020)
-
-[Pulse Animation](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
-
-[GridView + Network Example](https://www.notion.so/GridView-Network-Example-746ba812246441a5b16549ce08fb5c51)
-
-[Vertical Pager + DrawerNavigationView](https://www.notion.so/Vertical-Pager-DrawerNavigationView-a4b39df26780473b9db5563025336703)
-
-[Vertical Pager View](https://www.notion.so/Vertical-Pager-View-3cdaf6439d35444db01636c45908eb9b)
-
-[Pulse Animation View](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
-
-[SwiftUI Snap to Center ScrollView](https://www.notion.so/SwiftUI-Snap-to-Center-ScrollView-9c152281ba2a439299f6103fd52177a4)
-
-[Lottie Animation](https://www.notion.so/Lottie-Animation-084f19e7ec224a9486fb8f66999b1d87)
-
-[Half Modal View,](https://www.notion.so/Half-Modal-View-d217e75a14404423ac0d344e676aca02)
-
-[My Custom Bottom Sheet](https://www.notion.so/My-Custom-Bottom-Sheet-4f1499707c954178ab93a24bdc5523f8)
-
-[MailView](https://www.notion.so/MailView-521674ff8f5d4506846b5004b7b2e257)
-
-[Share Sheet](https://www.notion.so/Share-Sheet-bd0c9fd97e6f4ecca906a28ec3740950)
-
-# Extensions
-
-[Roundeded Corners Extended ](https://www.notion.so/Roundeded-Corners-Extended-c28fccaedee2450c97cc8ab1d95b3754)
-
-# Keyboard handling
-
-[Don't move up keyboard for specific view](https://www.notion.so/Don-t-move-up-keyboard-for-specific-view-0f7b7b987e2246b09ba7317fcb1ae680)
-
-[SwiftUI Keyboard handling manually](https://www.notion.so/SwiftUI-Keyboard-handling-manually-7ce341a7b8f94fe7a46185334c94a881)
-
-[SwiftUI hide keyboard when touching outside](https://www.notion.so/SwiftUI-hide-keyboard-when-touching-outside-e2f224e49b4547b9bdfd11af23c8aac7)
-
-# Swift UI Reusable Component For Functionality
-
-[WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
-
-[Load Image URL](https://www.notion.so/Load-Image-URL-d01e712b45ec460eaea5560a77ede8cc)
-
-
-# Library
-
-[Using Apple Default Provided Dependency system](https://www.notion.so/Using-Apple-Default-Provided-Dependency-system-483044ee855e4a95b4153d970d528e5b)
-
-# xCode
-
-[SwiftUI, xCode에 todo 남기기 ](https://www.notion.so/SwiftUI-xCode-todo-a00f2d69d3cb434fb23ae98a9a437335)
-
-# Logic 
-
-[SwiftUI For i Loop to change value by looping ](https://www.notion.so/SwiftUI-For-i-Loop-to-change-value-by-looping-6f2c7e1173f943aba2f1a9a6f4d6f3e9)
-
-[SwiftUI reverse loop ](https://www.notion.so/SwiftUI-reverse-loop-40894ecae5cd4283b109868a3b04aa03)
-
-# Articles 
-
-[Cache](https://www.notion.so/Cache-30d54057b8ef4b4dbb56b0219e12ded3)
-
-[SwiftUI AppDelegate Article](https://www.notion.so/SwiftUI-AppDelegate-Article-c5993665ed704d83ad548e15e0d356c1)
-
-[SwiftUI Notification with AppDelegate](https://prafullkumar77.medium.com/how-to-handle-push-notifications-in-swiftuis-new-app-lifecycle-7532c21d32d7)
-
-# Notification
-
-[SwiftUI Check Notification Permission](https://www.notion.so/SwiftUI-Check-Notification-Permission-75dc6170c48e4429a519210da33f8ca4)
-
-[Swift Local Notification Badge Handling](https://www.notion.so/Swift-Local-Notification-Badge-Handling-52f162e3d527467ea732537aaa190893)
-
-[Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
-
-[Swift Local Notification Component on git](https://github.com/paigeshin/SwiftUI_Local_Notification_Component_schedule_repeating_notification_is_possible)
-
-# Animation
-
-[Animation for understanding](https://www.notion.so/Animation-for-understanding-a415285ca8654f51984634bda40bbce7)
-
-[Pulse Animation](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
 
 # Learning 
+
+[Cheat Sheet SwiftUI](https://fuckingswiftui.com/)
 
 [Image Fetcher for learning.. Don't need to use `didChange`](https://www.notion.so/Image-Fetcher-for-learning-Don-t-need-to-use-didChange-e141cad38561410eb1ae6606b5c76717)
 
@@ -493,3 +430,70 @@
 
 [https://github.com/paigeshin/SwiftUI_HoneyMoon_TinderStyleAnimation](https://github.com/paigeshin/SwiftUI_HoneyMoon_TinderStyleAnimation)
 
+
+
+# SwiftUI MultiPlatform
+
+### iOS Basic
+
+[SwiftUI Controller View](https://www.notion.so/SwiftUI-Controller-View-295d8d55a6f540edb048d87ba19c1a60)
+
+[DatePicker, Color Picker ](https://www.notion.so/DatePicker-Color-Picker-9f18b4b8c83344c4b5c7f8e2605cc034)
+
+[Image Picker](https://www.notion.so/Image-Picker-7f1e616c07104cfca46834e41821115b)
+
+[class, codable](https://www.notion.so/class-codable-1ceb7e1c73514711a6c0ae50d381ab31)
+
+[UserDefaults, json encoding, json decoding ](https://www.notion.so/UserDefaults-json-encoding-json-decoding-d2bd50cf2a214e3794a0dbbcc4f77eae)
+
+[filter past future](https://www.notion.so/filter-past-future-080560c983ff4adc8a2e0130aedc0e02)
+
+[xCode Super Debugging Tips!](https://www.notion.so/xCode-Super-Debugging-Tips-e60f08c3285344aabf277aa4bb7099f4)
+
+### Widget
+
+[Include Configuration Intent](https://www.notion.so/Include-Configuration-Intent-9b0c56a0be344542afa2acc47028308f)
+
+[iOS Widget ](https://www.notion.so/iOS-Widget-c5c189173b53407c8e848436af2245c8)
+
+[CRUD Inspiration](https://www.notion.so/CRUD-Inspiration-3f809d4446d44fdeaaa18a74895135e4)
+
+[widget small,medium,large](https://www.notion.so/widget-small-medium-large-0dcd61be3633449da46909f084b5df1d)
+
+[Communication between app and widget, UserDefaults ](https://www.notion.so/Communication-between-app-and-widget-UserDefaults-2756087f8f074da297baa06752a7f94d)
+
+[Widget Logic, PlaceHolder, Snapshot, Timeline](https://www.notion.so/Widget-Logic-PlaceHolder-Snapshot-Timeline-a8504185d87f4878b449b084b1d22c81)
+
+[Widget App Code](https://www.notion.so/Widget-App-Code-16d5e11d64d54026bac2ecb3ee8ac73d)
+
+### IPAD
+
+[Size Classes](https://www.notion.so/Size-Classes-7edf2d42c58942ec8c708c5fe54e23f1)
+
+### Apple Watch
+
+[App Watch](https://www.notion.so/App-Watch-99f5371b6b024e0db74a634a95ebe5e5)
+
+[Platform specific code handling  ](https://www.notion.so/Platform-specific-code-handling-037fdcb470a34ede9f00ebcf271ba51e)
+
+[always embed](https://www.notion.so/always-embed-2dcbf7284072459eb558f1bd98b3c885)
+
+[Swift Grammar Multiple Variables](https:/v/www.notion.so/Swift-Grammar-Multiple-Variables-3dd63a64a95749fea17f10925cfe85bf)
+
+[extension - isDarkColor?](https://www.notion.so/extension-isDarkColor-c4ae17613ee54497bdc14f3850897730)
+
+[Apple Watch PodFile](https://www.notion.so/Apple-Watch-PodFile-b5f6a485614844afa9b97e09a44811a9)
+
+[Apple Watch - iOS Communication](https://www.notion.so/Apple-Watch-iOS-Communication-40b93b7c1add4281a0fb16d957fd15a6)
+
+[Communication from phone to watch ](https://www.notion.so/Communication-from-phone-to-watch-c114847f4c7e4eedb1dd22c8722b8af4)
+
+[Communication from watch to app ](https://www.notion.so/Communication-from-watch-to-app-8def59218cd548d28bd154ebcf144129)
+
+### Mac
+
+[Create Mac App](https://www.notion.so/Create-Mac-App-a835575298d040f7b2df4a0ce0aa3982)
+
+### TVOS
+
+[TVOS](https://www.notion.so/TVOS-ac7579bc34da4e53afffa9e0e3c70f6b)
