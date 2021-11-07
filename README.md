@@ -2,7 +2,9 @@
 
 # Knowledge acquired by building Dr.Dozy
 
-[Clock Component](https://github.com/paigeshin/SwiftUI_ClockComponent)
+[Highlight Carousel View on git](https://github.com/paigeshin/SwiftUIParallexCarouselView)
+
+[Clock Component on git](https://github.com/paigeshin/SwiftUI_ClockComponent)
 
 [pop to view controller with `isActive`](https://fwani.tistory.com/16)
 
@@ -132,7 +134,7 @@
 
 [always embed](https://www.notion.so/always-embed-2dcbf7284072459eb558f1bd98b3c885)
 
-[Swift Grammar Multiple Variables](https://www.notion.so/Swift-Grammar-Multiple-Variables-3dd63a64a95749fea17f10925cfe85bf)
+[Swift Grammar Multiple Variables](https:/v/www.notion.so/Swift-Grammar-Multiple-Variables-3dd63a64a95749fea17f10925cfe85bf)
 
 [extension - isDarkColor?](https://www.notion.so/extension-isDarkColor-c4ae17613ee54497bdc14f3850897730)
 
@@ -305,6 +307,10 @@
 [Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
 
 # View Component  
+
+[Highlight Carousel View on git](https://github.com/paigeshin/SwiftUIParallexCarouselView)
+
+[Clock Component on git](https://github.com/paigeshin/SwiftUI_ClockComponent)
 
 [Draggable Bottom Sheet](https://github.com/paigeshin/SwiftUI_DraggableBottomSheet)
 
