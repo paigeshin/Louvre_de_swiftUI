@@ -2,6 +2,68 @@
 
 # Knowledge acquired by building Dr.Dozy
 
+[Swift Dependency Injection with protocol, Factory Method #2 ](https://www.notion.so/Swift-Dependency-Injection-with-protocol-Factory-Method-2-c9f5248687ac4a3ba2b84bb714d4d8d4)
+
+[Swift Dependency Injection with protocol # 1 ](https://www.notion.so/Swift-Dependency-Injection-with-protocol-1-7cad8ca37f6142468ef8f25c77b462a0)
+
+[Swift Key-Chain Wrapper](https://www.notion.so/Swift-Key-Chain-Wrapper-a40e92cc32de4682ae90cc02af6535bb)
+
+[dependency injection with protocol](https://www.notion.so/dependency-injection-with-protocol-9106bbe8d1304c2cb2c8dde39f801e76)
+
+[Swift State Handling Network](https://www.notion.so/Swift-State-Handling-Network-abaf4815976548a7b8cf211d9d72e8b4)
+
+[Apple Login With UIViewRepresentable](https://www.notion.so/Apple-Login-With-UIViewRepresentable-3ad6cf3de8994c758ab553ef0439e304)
+
+[https://zeddios.tistory.com/973](https://zeddios.tistory.com/973)
+
+[Apple Login ](https://www.notion.so/Apple-Login-4e589e0665df4a398b1421a669b6e8c0)
+
+[Geometry Reader, center element](https://www.notion.so/Geometry-Reader-center-element-8d25f1e4429f48548ec8f7d2bcc9cf82)
+
+[Swift current Device Size for adaptive layout](https://www.notion.so/Swift-current-Device-Size-for-adaptive-layout-c418fb511e644ea1bfa72cc89884a0e3)
+
+[Tips for building responsive UIs](https://www.notion.so/Tips-for-building-responsive-UIs-acb6ccc8224945248b9d6715f72d84b1)
+
+[https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/)
+
+[SwiftUI responsive Layout, Size Class](https://www.notion.so/SwiftUI-responsive-Layout-Size-Class-f020ed747ab94a8faa1074d67beb2da7)
+
+[Article About Preference Key](https://crystalminds.medium.com/introducing-view-preferences-in-swiftui-e193c346b68d) 
+
+[Preference Key Example](https://www.notion.so/Preference-Key-Example-29105c1247b1446e903b04cf05937397)
+
+[Geometry Reader ](https://www.notion.so/Geometry-Reader-144778640d0e44fe85ad0e6191f00d62)
+
+[offset & position](https://www.notion.so/offset-position-b67b5a93e32049889c151e950bce34eb)
+
+[Add Custom Alignment](https://www.notion.so/Add-Custom-Alignment-e371734c71b444ccba5ed48b3071785f)
+
+[SwiftUI Layout Tutorial](https://www.notion.so/SwiftUI-Layout-Tutorial-0b6ca95f8e2148dc9ed9e18d40d84d69)
+
+[ScaledMetric](https://www.notion.so/ScaledMetric-41da98b0c62e450386da6b24f188e11c)
+
+[https://github.com/paigeshin/swift_screen_size](https://github.com/paigeshin/swift_screen_size)
+
+[Apple Device Sizes](https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html)
+
+[https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app](https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app)
+
+[Swift Charts Library](https://www.notion.so/Swift-Charts-Library-419ee697383c4a4daf2dc89c8d850988)
+
+[SwiftUI get view size](https://www.notion.so/SwiftUI-get-view-size-f5deb6ce09cf4e3db8de204762fe0bde)
+
+[SwiftUI custom font dynamic size](https://www.notion.so/SwiftUI-custom-font-dynamic-size-3dbb25cf9e044baa81980d0d6d6b7c51)
+
+[Circular Progress SwiftUI](https://www.notion.so/Circular-Progress-SwiftUI-217d8a5bfc6149498eea522011698e4f)
+
+[Swift Text, minimumScaleFactor](https://www.notion.so/Swift-Text-minimumScaleFactor-1fb8ce75ea584777bd9028fad2e82c33)
+
+[Custom BarChart without library](https://www.notion.so/Custom-BarChart-without-library-f3ba230b3b90478c9ffce1505d6bfbb4)
+
+[AnyView Wrapper](https://www.notion.so/AnyView-Wrapper-b118dba4756447bf9da02bb6cbc16513)
+
+[Extension, read view size](https://www.notion.so/Extension-read-view-size-991de794b03342b4ae36f68c9d7fbb33)
+
 [Swift Custom Navigation Bar](https://www.notion.so/Swift-Custom-Navigation-Bar-fd795218a1cd4f9b8233bb939adf47dc)
 
 [Swift Highlight CarouselView ](https://www.notion.so/Swift-Highlight-CarouselView-3d664e5b0d454232a79fbf8b94826521)
@@ -110,11 +172,52 @@
 
 # Responsive Layout
 
+[SwiftUI get view size](https://www.notion.so/SwiftUI-get-view-size-f5deb6ce09cf4e3db8de204762fe0bde)
+
+[Swift Text, minimumScaleFactor](https://www.notion.so/Swift-Text-minimumScaleFactor-1fb8ce75ea584777bd9028fad2e82c33)
+
+[SwiftUI custom font dynamic size](https://www.notion.so/SwiftUI-custom-font-dynamic-size-3dbb25cf9e044baa81980d0d6d6b7c51)
+
+[https://github.com/paigeshin/swift_screen_size](https://github.com/paigeshin/swift_screen_size)
+
+[Apple Device Sizes](https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html)
+
+[https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app](https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app)
+
+[Add Custom Alignment](https://www.notion.so/Add-Custom-Alignment-e371734c71b444ccba5ed48b3071785f)
+
+[Geometry Reader, center element](https://www.notion.so/Geometry-Reader-center-element-8d25f1e4429f48548ec8f7d2bcc9cf82)
+
 [Scalable SwiftUI, including @ScaledMetrics](https://itnext.io/make-your-swiftui-app-scaleable-and-prepare-for-different-screen-sizes-eed42326b11c)
 
 [Relative Size SwiftUI](https://www.hackingwithswift.com/quick-start/swiftui/how-to-provide-relative-sizes-using-geometryreader)
 
 [Responsive Layout Swift with Size Size classes Youtube](https://www.youtube.com/watch?v=67ZCQ5ihj_I&list=PLYL9l9FUEBHu9u_2ddZp7yVRUiLN-thRS)
+
+[Swift current Device Size for adaptive layout](https://www.notion.so/Swift-current-Device-Size-for-adaptive-layout-c418fb511e644ea1bfa72cc89884a0e3)
+
+[Tips for building responsive UIs](https://www.notion.so/Tips-for-building-responsive-UIs-acb6ccc8224945248b9d6715f72d84b1)
+
+[https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/)
+
+[SwiftUI responsive Layout, Size Class](https://www.notion.so/SwiftUI-responsive-Layout-Size-Class-f020ed747ab94a8faa1074d67beb2da7)
+
+[Article About Preference Key](https://crystalminds.medium.com/introducing-view-preferences-in-swiftui-e193c346b68d) 
+
+[Preference Key Example](https://www.notion.so/Preference-Key-Example-29105c1247b1446e903b04cf05937397)
+
+[Geometry Reader ](https://www.notion.so/Geometry-Reader-144778640d0e44fe85ad0e6191f00d62
+
+[Add Custom Alignment](https://www.notion.so/Add-Custom-Alignment-e371734c71b444ccba5ed48b3071785f)
+
+[Article About Preference Key](https://crystalminds.medium.com/introducing-view-preferences-in-swiftui-e193c346b68d) 
+
+[Preference Key Example](https://www.notion.so/Preference-Key-Example-29105c1247b1446e903b04cf05937397)
+
+[Geometry Reader ](https://www.notion.so/Geometry-Reader-144778640d0e44fe85ad0e6191f00d62)
+
+[Geometry Reader, center element](https://www.notion.so/Geometry-Reader-center-element-8d25f1e4429f48548ec8f7d2bcc9cf82
+
 
 # Navigation 
 
@@ -156,9 +259,19 @@
 
 [Shape - Custom Corner Radius](https://www.notion.so/Shape-Custom-Corner-Radius-0ebef99858cf4dd7b7fc8e14efa7c160)
 
+# Timer 
+
+[Swift Advanced Timer](https://stackoverflow.com/questions/25951980/do-something-every-x-minutes-in-swift)
+
+# Deployment
+
+[Debugging, BGTaskSchedulerPermitteIdentifiers](https://www.notion.so/Debugging-BGTaskSchedulerPermitteIdentifiers-3f0f081ad42a4e67ba712dfcbbc5c994)
+
 # Component
 
 [Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
+
+[Swift Key-Chain Wrapper](https://www.notion.so/Swift-Key-Chain-Wrapper-a40e92cc32de4682ae90cc02af6535bb)
 
 # Modifier 
 
@@ -186,7 +299,55 @@
 
 [SwiftUI Only Portrait Mode ](https://www.notion.so/SwiftUI-Only-Portrait-Mode-b9732484c515428caeb31bb5e6dd3bf0)
 
+[SwiftUI STATUS BAR CONTROL](https://www.notion.so/SwiftUI-STATUS-BAR-CONTROL-ba4d6b0adc58415f935bcd3d510dc972)
+
+[Swift Key-Chain Wrapper](https://www.notion.so/Swift-Key-Chain-Wrapper-a40e92cc32de4682ae90cc02af6535bb)
+
+[ScaledMetric](https://www.notion.so/ScaledMetric-41da98b0c62e450386da6b24f188e11c)
+
+# Social Login 
+
+[Kakao Login](https://coding-rengar.tistory.com/3)
+
+[kakao login](https://coding-rengar.tistory.com/3)
+
+[Apple Login With UIViewRepresentable](https://www.notion.so/Apple-Login-With-UIViewRepresentable-3ad6cf3de8994c758ab553ef0439e304)
+
+[Sign In With Apple](https://zeddios.tistory.com/973)
+
+[Apple Login ](https://www.notion.so/Apple-Login-4e589e0665df4a398b1421a669b6e8c0)
+
+# Geometry Reader
+
+[Add Custom Alignment](https://www.notion.so/Add-Custom-Alignment-e371734c71b444ccba5ed48b3071785f)
+
+[Article About Preference Key](https://crystalminds.medium.com/introducing-view-preferences-in-swiftui-e193c346b68d) 
+
+[Preference Key Example](https://www.notion.so/Preference-Key-Example-29105c1247b1446e903b04cf05937397)
+
+[Geometry Reader ](https://www.notion.so/Geometry-Reader-144778640d0e44fe85ad0e6191f00d62)
+
+[Geometry Reader, center element](https://www.notion.so/Geometry-Reader-center-element-8d25f1e4429f48548ec8f7d2bcc9cf82)
+
+# Architecture
+
+[AnyView Wrapper](https://www.notion.so/AnyView-Wrapper-b118dba4756447bf9da02bb6cbc16513)
+
+[Swift State Handling Network](https://www.notion.so/Swift-State-Handling-Network-abaf4815976548a7b8cf211d9d72e8b4)
+
+[dependency injection with protocol](https://www.notion.so/dependency-injection-with-protocol-9106bbe8d1304c2cb2c8dde39f801e76)
+
+[https://www.swiftbysundell.com/articles/handling-loading-states-in-swiftui/](https://www.swiftbysundell.com/articles/handling-loading-states-in-swiftui/)
+
+[Swift Dependency Injection with protocol, Factory Method #2 ](https://www.notion.so/Swift-Dependency-Injection-with-protocol-Factory-Method-2-c9f5248687ac4a3ba2b84bb714d4d8d4)
+
+[Swift Dependency Injection with protocol # 1 ](https://www.notion.so/Swift-Dependency-Injection-with-protocol-1-7cad8ca37f6142468ef8f25c77b462a0)
+
 # Reusable View  
+
+[Custom BarChart without library](https://www.notion.so/Custom-BarChart-without-library-f3ba230b3b90478c9ffce1505d6bfbb4)
+
+[Circular Progress SwiftUI](https://www.notion.so/Circular-Progress-SwiftUI-217d8a5bfc6149498eea522011698e4f)
 
 [Flexible Sheet (ViewComponent)](https://www.notion.so/Flexible-Sheet-ViewComponent-8fea13a5452f4eefb8865b3e0cebb667)
 
@@ -294,11 +455,17 @@
 
 # Extensions
 
+[Extension, read view size](https://www.notion.so/Extension-read-view-size-991de794b03342b4ae36f68c9d7fbb33)
+
 [Navigationbar background color extension](https://www.notion.so/Navigationbar-background-color-extension-b3bdb56608934a97bf55002f960506b2)
 
 [SwiftUI, scrollview dragging touches top navigation bar area](https://www.notion.so/SwiftUI-scrollview-dragging-touches-top-navigation-bar-area-0de1172428b644e3b71132f6bda1754b)
 
 [Roundeded Corners Extended ](https://www.notion.so/Roundeded-Corners-Extended-c28fccaedee2450c97cc8ab1d95b3754)
+
+[Swift, decode local json](https://www.notion.so/Swift-decode-local-json-292dc77704af4c7884df635ee4602488)
+
+[Swift current Device Size for adaptive layout](https://www.notion.so/Swift-current-Device-Size-for-adaptive-layout-c418fb511e644ea1bfa72cc89884a0e3)
 
 # Keyboard handling
 
@@ -312,6 +479,10 @@
 
 [SwiftUI Hide Keyboard](https://www.notion.so/SwiftUI-Hide-Keyboard-a58fff2258e642b28cdc7b167e040006)
 
+# Date
+
+[Swift Calculate date](https://www.notion.so/Swift-Calculate-date-3fadd9a709824cb5a2e8f3d4ea5cc68a)
+
 # Functionality 
 
 [WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
@@ -320,6 +491,8 @@
 
 
 # Library
+
+[Lottie Animation Background Handling](https://www.notion.so/Lottie-Animation-Background-Handling-dc07fbf9a0ed4dcfbaa7a163fb66bfb0)
 
 [Using Apple Default Provided Dependency system](https://www.notion.so/Using-Apple-Default-Provided-Dependency-system-483044ee855e4a95b4153d970d528e5b)
 
@@ -345,6 +518,18 @@
 
 [SwiftUI Notification with AppDelegate](https://prafullkumar77.medium.com/how-to-handle-push-notifications-in-swiftuis-new-app-lifecycle-7532c21d32d7)
 
+# Audio
+
+[AVPlayer Loop](https://stackoverflow.com/questions/27808266/how-do-you-loop-avplayer-in-swift)
+
+# Vibration
+
+[Swift Alarm Vibrator Core Logic](https://www.notion.so/Swift-Alarm-Vibrator-Core-Logic-c9ef524925924d9c976f61f138a576d0)
+
+[Swift Vibration](https://www.notion.so/Swift-Vibration-b3b496de819145bf8e3bbcb8f1c68e89)
+
+[Swift Haptic Engine](https://www.notion.so/Swift-Haptic-Engine-bd3cfdb10fb54aba942e23036fd69a00)
+
 # iOS App Extensions
 
 [CallKit](https://bugguide.tistory.com/17)
@@ -363,6 +548,8 @@
 
 # Animation
 
+[Lottie Animation Background Handling](https://www.notion.so/Lottie-Animation-Background-Handling-dc07fbf9a0ed4dcfbaa7a163fb66bfb0)
+
 [My Long Press Fill Button](https://www.notion.so/My-Long-Press-Fill-Button-5c5c965f5a0747cf9b1049802079871b)
 
 [SwiftUI Long Click Fill Animation](https://www.notion.so/SwiftUI-Long-Click-Fill-Animation-337f562db35f464ea62a28435d42327e)
@@ -378,6 +565,12 @@
 [Pulse Animation](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
 
 # Design Guide
+
+[SwiftUI Layout Tutorial](https://www.notion.so/SwiftUI-Layout-Tutorial-0b6ca95f8e2148dc9ed9e18d40d84d69)
+
+[offset & position](https://www.notion.so/offset-position-b67b5a93e32049889c151e950bce34eb)
+
+[Geometry Reader, center element](https://www.notion.so/Geometry-Reader-center-element-8d25f1e4429f48548ec8f7d2bcc9cf82)
 
 [SwiftUI about font](https://www.notion.so/SwiftUI-about-font-d07d34e92cdb48ba95e264c63bf37264)
 
