@@ -2,6 +2,28 @@
 
 # Knowledge acquired by building Dr.Dozy
 
+[https://github.com/paigeshin/SwiftUI_MVVM](https://github.com/paigeshin/SwiftUI_MVVM)
+
+[https://github.com/paigeshin/SwiftUI_IVOPattern](https://github.com/paigeshin/SwiftUI_IVOPattern)
+
+[SwiftUI Full Width Clickable Button](https://www.notion.so/SwiftUI-Full-Width-Clickable-Button-fd387ba2ff904fab8af74229caae1644)
+
+[In App Purchase Tutorial, SwiftUI, All Products Covered](https://www.notion.so/In-App-Purchase-Tutorial-SwiftUI-All-Products-Covered-184b05e9776140d4872cf3ab8c62abe1)
+
+[Swift with CaseIterable](https://www.notion.so/Swift-with-CaseIterable-43cd62b05bed473c832273f6ee8c6e83)
+
+[SwiftUI mask](https://www.notion.so/SwiftUI-mask-a6f51db142c7405e903147e2f9801a48)
+
+ [In App Free Period](https://stackoverflow.com/questions/12297342/how-to-set-up-in-app-purchase-free-trial-period-in-ios-app)
+
+[Advanced Directory Structure](https://www.notion.so/Advanced-Directory-Structure-5817f7b2ba9742e3b2e90a30f5b40c4e)
+
+[Open other app](https://www.notion.so/Open-other-app-05e5d28b60514ebbae878f1317ee1871)
+
+[Alarmy App, how does it work?](https://www.notion.so/Alarmy-App-how-does-it-work-f8b0d63ba73c4bc19208577a55d59ea7)
+
+[Apple Watch API REF](https://www.notion.so/Apple-Watch-API-REF-282c173429f04ed3aa34e32bfbd92d58)
+
 [Swift Dependency Injection with protocol, Factory Method #2 ](https://www.notion.so/Swift-Dependency-Injection-with-protocol-Factory-Method-2-c9f5248687ac4a3ba2b84bb714d4d8d4)
 
 [Swift Dependency Injection with protocol # 1 ](https://www.notion.so/Swift-Dependency-Injection-with-protocol-1-7cad8ca37f6142468ef8f25c77b462a0)
@@ -289,7 +311,11 @@
 
 [SwiftUI Hide NavigationBar Modifier](https://www.notion.so/SwiftUI-Hide-NavigationBar-Modifier-65c83dd931a445148499474375157847)
 
+[SwiftUI mask](https://www.notion.so/SwiftUI-mask-a6f51db142c7405e903147e2f9801a48)
+
 # System
+
+[Advanced Directory Structure](https://www.notion.so/Advanced-Directory-Structure-5817f7b2ba9742e3b2e90a30f5b40c4e)
 
 [SwiftUI get safe area](https://www.notion.so/SwiftUI-get-safe-area-9bd486f4337a4bc5b977192d19b51c10)
 
@@ -308,6 +334,14 @@
 [Swift Key-Chain Wrapper](https://www.notion.so/Swift-Key-Chain-Wrapper-a40e92cc32de4682ae90cc02af6535bb)
 
 [ScaledMetric](https://www.notion.so/ScaledMetric-41da98b0c62e450386da6b24f188e11c)
+
+# InApp
+
+[In App Purchase Tutorial, SwiftUI, All Products Covered](https://www.notion.so/In-App-Purchase-Tutorial-SwiftUI-All-Products-Covered-184b05e9776140d4872cf3ab8c62abe1)
+
+[In App Free Period](https://stackoverflow.com/questions/12297342/how-to-set-up-in-app-purchase-free-trial-period-in-ios-app)
+
+
 
 # Social Login 
 
@@ -335,6 +369,12 @@
 
 # Architecture
 
+[Advanced Directory Structure](https://www.notion.so/Advanced-Directory-Structure-5817f7b2ba9742e3b2e90a30f5b40c4e)
+
+[https://github.com/paigeshin/SwiftUI_MVVM](https://github.com/paigeshin/SwiftUI_MVVM)
+
+[https://github.com/paigeshin/SwiftUI_IVOPattern](https://github.com/paigeshin/SwiftUI_IVOPattern)
+
 [AnyView Wrapper](https://www.notion.so/AnyView-Wrapper-b118dba4756447bf9da02bb6cbc16513)
 
 [Swift State Handling Network](https://www.notion.so/Swift-State-Handling-Network-abaf4815976548a7b8cf211d9d72e8b4)
@@ -348,6 +388,8 @@
 [Swift Dependency Injection with protocol # 1 ](https://www.notion.so/Swift-Dependency-Injection-with-protocol-1-7cad8ca37f6142468ef8f25c77b462a0)
 
 # Reusable View  
+
+[SwiftUI Full Width Clickable Button](https://www.notion.so/SwiftUI-Full-Width-Clickable-Button-fd387ba2ff904fab8af74229caae1644)
 
 [Custom BarChart without library](https://www.notion.so/Custom-BarChart-without-library-f3ba230b3b90478c9ffce1505d6bfbb4)
 
@@ -483,11 +525,21 @@
 
 [SwiftUI Hide Keyboard](https://www.notion.so/SwiftUI-Hide-Keyboard-a58fff2258e642b28cdc7b167e040006)
 
+# Watch
+
+[Apple Watch API REF](https://www.notion.so/Apple-Watch-API-REF-282c173429f04ed3aa34e32bfbd92d58)
+
+# Ref
+
+[Alarmy App, how does it work?](https://www.notion.so/Alarmy-App-how-does-it-work-f8b0d63ba73c4bc19208577a55d59ea7)
+
 # Date
 
 [Swift Calculate date](https://www.notion.so/Swift-Calculate-date-3fadd9a709824cb5a2e8f3d4ea5cc68a)
 
 # Functionality 
+
+[Open other app](https://www.notion.so/Open-other-app-05e5d28b60514ebbae878f1317ee1871)
 
 [WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
 
@@ -569,6 +621,8 @@
 [Pulse Animation](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
 
 # Design Guide
+
+[SwiftUI mask](https://www.notion.so/SwiftUI-mask-a6f51db142c7405e903147e2f9801a48)
 
 [SwiftUI Layout Tutorial](https://www.notion.so/SwiftUI-Layout-Tutorial-0b6ca95f8e2148dc9ed9e18d40d84d69)
 
