@@ -529,6 +529,8 @@
 
 [Apple Watch API REF](https://www.notion.so/Apple-Watch-API-REF-282c173429f04ed3aa34e32bfbd92d58)
 
+https://github.com/paigeshin/watch-phone-communication
+
 # Ref
 
 [Alarmy App, how does it work?](https://www.notion.so/Alarmy-App-how-does-it-work-f8b0d63ba73c4bc19208577a55d59ea7)
