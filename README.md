@@ -2,6 +2,64 @@
 
 # Knowledge acquired by building Dr.Dozy
 
+[SwiftUI Route Components](https://www.notion.so/SwiftUI-Route-Components-9f2e3390b6b346af80e5ce2e10eac136)
+
+[Inherited Observable Objects](https://www.notion.so/Inherited-Observable-Objects-e40e50c018584d0a91b2161476196aa0)
+
+[Nested Observable Objects](https://www.notion.so/Nested-Observable-Objects-bfe35bdcaebc43ffbf8497b1727e3ec6)
+
+[Nested Oberservable objects](https://rhonabwy.com/2021/02/13/nested-observable-objects-in-swiftui/)
+
+[Fully hidden Reusable Bottom SheetView ](https://www.notion.so/Fully-hidden-Reusable-Bottom-SheetView-3a4a9f5fea2d466c8b122807a0196c0d)
+
+[Reusable Bottom Sheet View, one fourth shown ](https://www.notion.so/Reusable-Bottom-Sheet-View-one-fourth-shown-5a00301e9348493ea907705253c0904f)
+
+[multiple viewbuilder](https://stackoverflow.com/questions/60402841/swiftui-view-with-multiple-viewbuilder)
+
+[pass view](https://stackoverflow.com/questions/56938805/how-to-pass-one-swiftui-view-as-a-variable-to-another-view-struct) 
+
+[https://developer.apple.com/documentation/watchconnectivity/wcsession](https://developer.apple.com/documentation/watchconnectivity/wcsession)
+
+[https://developer.apple.com/documentation/watchconnectivity/wcsessiondelegate](https://developer.apple.com/documentation/watchconnectivity/wcsessiondelegate)
+
+[Watch & Phone Communication Basic](https://www.notion.so/Watch-Phone-Communication-Basic-b9e111a9bf4e451da0f607af875bedfe)
+
+[find url scheme of ios App](https://stackoverflow.com/questions/56363894/how-to-get-the-uri-scheme-of-any-app-for-applinks-universal-linking)
+
+[how to find bundle identifier](https://mrvirk.com/how-to-find-app-bundle-id-ios.html)
+
+[iphone - applewatch, how to build workout app](https://medium.com/@gorillalogic/apple-watch-healthkit-developer-tutorial-how-to-build-a-workout-app-de156733dd6a) 
+
+[What is complication?](https://developer.apple.com/documentation/clockkit/creating_complications_for_your_watchos_app)
+
+[difference between watchkit and watch extension](https://stackoverflow.com/questions/52687924/ios-watchos-what-is-the-difference-between-watchkit-app-and-watchkit-app-exten)
+
+[WatchKit - About Notification Scene](https://www.notion.so/WatchKit-About-Notification-Scene-41f6e9ab42c34ac3a2c54b7a31f5b279)
+
+[Apple Watch - 심박수](https://www.notion.so/Apple-Watch-2ec895ec327c4d6da37dba38be44ca29)
+
+[heartrate](https://stackoverflow.com/questions/35039742/ios-get-heart-rate-from-apple-watch-in-near-real-time) 
+
+[heartrate from watch to app](https://stackoverflow.com/questions/53780808/how-to-get-heart-rate-data-near-by-real-time-from-health-kit-in-ios) 
+
+[Get Motion Data ](https://www.notion.so/Get-Motion-Data-2ff5401cb5c04bfb9e91ad68252a5474)
+
+[Swift HealthKit get heart rate](https://www.notion.so/Swift-HealthKit-get-heart-rate-002966d828934cf4aeb5badaa13db952)
+
+[Identifiable, ForEach, Binding](https://www.notion.so/Identifiable-ForEach-Binding-7b628892f8074b8ab7b9d8920ffea0d0)
+
+[Swift Locale Date String](https://www.notion.so/Swift-Locale-Date-String-5551333483294e289302ef68f352b0b2)
+
+[Combine Framework  Tutorial](https://www.notion.so/Combine-Framework-Tutorial-8dd1f85df2d34e4a9e3c3dbee4188044)
+
+[protocol tutorial](https://www.notion.so/protocol-tutorial-6039971ee5ea4201af81967305b501f8)
+
+[OOP vs POP](https://www.notion.so/OOP-vs-POP-8054b75f0c0c450898703147ff9eac71)
+
+[Enum with protocol](https://www.notion.so/Enum-with-protocol-2ecd87d669d0458fb54920fdea67cbe1)
+
+[Conditional Extension Protocol](https://www.notion.so/Conditional-Extension-Protocol-04087d21c57a4f9a94a6d0d1d692e4fd)
+
 [https://github.com/paigeshin/SwiftUI_MVVM](https://github.com/paigeshin/SwiftUI_MVVM)
 
 [https://github.com/paigeshin/SwiftUI_IVOPattern](https://github.com/paigeshin/SwiftUI_IVOPattern)
@@ -271,6 +329,16 @@
 
 [Camera permission check, article ](https://www.notion.so/Camera-permission-check-article-d746114244fe45a3997a5f2c314802d2)
 
+# Combine
+
+[Combine Framework  Tutorial](https://www.notion.so/Combine-Framework-Tutorial-8dd1f85df2d34e4a9e3c3dbee4188044)
+
+[Inherited Observable Objects](https://www.notion.so/Inherited-Observable-Objects-e40e50c018584d0a91b2161476196aa0)
+
+[Nested Observable Objects](https://www.notion.so/Nested-Observable-Objects-bfe35bdcaebc43ffbf8497b1727e3ec6)
+
+[Nested Oberservable objects](https://rhonabwy.com/2021/02/13/nested-observable-objects-in-swiftui/)
+
 # Realm
 
 [Realm a bit advanced concept](https://github.com/paigeshin/SwiftUI_Realm_a_bit_advanced)
@@ -289,7 +357,21 @@
 
 [Debugging, BGTaskSchedulerPermitteIdentifiers](https://www.notion.so/Debugging-BGTaskSchedulerPermitteIdentifiers-3f0f081ad42a4e67ba712dfcbbc5c994)
 
+# SwiftUI 
+
+[Identifiable, ForEach, Binding](https://www.notion.so/Identifiable-ForEach-Binding-7b628892f8074b8ab7b9d8920ffea0d0)
+
+[multiple viewbuilder](https://stackoverflow.com/questions/60402841/swiftui-view-with-multiple-viewbuilder)
+
+[pass view](https://stackoverflow.com/questions/56938805/how-to-pass-one-swiftui-view-as-a-variable-to-another-view-struct)
+
 # Component
+
+[Fully hidden Reusable Bottom SheetView ](https://www.notion.so/Fully-hidden-Reusable-Bottom-SheetView-3a4a9f5fea2d466c8b122807a0196c0d)
+
+[Reusable Bottom Sheet View, one fourth shown ](https://www.notion.so/Reusable-Bottom-Sheet-View-one-fourth-shown-5a00301e9348493ea907705253c0904f)
+
+[SwiftUI Route Components](https://www.notion.so/SwiftUI-Route-Components-9f2e3390b6b346af80e5ce2e10eac136)
 
 [Swift Local Notification Component](https://www.notion.so/Swift-Local-Notification-Component-11fafef1d8f34ea08f5db1683a951053)
 
@@ -367,7 +449,23 @@
 
 [Geometry Reader, center element](https://www.notion.so/Geometry-Reader-center-element-8d25f1e4429f48548ec8f7d2bcc9cf82)
 
+# Enum
+
+[Enum with protocol](https://www.notion.so/Enum-with-protocol-2ecd87d669d0458fb54920fdea67cbe1)
+
+# Protocol
+
+[Conditional Extension Protocol](https://www.notion.so/Conditional-Extension-Protocol-04087d21c57a4f9a94a6d0d1d692e4fd)
+
+[Enum with protocol](https://www.notion.so/Enum-with-protocol-2ecd87d669d0458fb54920fdea67cbe1)
+
+[protocol tutorial](https://www.notion.so/protocol-tutorial-6039971ee5ea4201af81967305b501f8)
+
 # Architecture
+
+[OOP vs POP](https://www.notion.so/OOP-vs-POP-8054b75f0c0c450898703147ff9eac71)
+
+[protocol tutorial](https://www.notion.so/protocol-tutorial-6039971ee5ea4201af81967305b501f8)
 
 [Advanced Directory Structure](https://www.notion.so/Advanced-Directory-Structure-5817f7b2ba9742e3b2e90a30f5b40c4e)
 
@@ -387,7 +485,13 @@
 
 [Swift Dependency Injection with protocol # 1 ](https://www.notion.so/Swift-Dependency-Injection-with-protocol-1-7cad8ca37f6142468ef8f25c77b462a0)
 
+# Date 
+
+[Swift Locale Date String](https://www.notion.so/Swift-Locale-Date-String-5551333483294e289302ef68f352b0b2)
+
 # Reusable View  
+
+[multiple viewbuilder](https://stackoverflow.com/questions/60402841/swiftui-view-with-multiple-viewbuilder)
 
 [SwiftUI Full Width Clickable Button](https://www.notion.so/SwiftUI-Full-Width-Clickable-Button-fd387ba2ff904fab8af74229caae1644)
 
@@ -525,7 +629,43 @@
 
 [SwiftUI Hide Keyboard](https://www.notion.so/SwiftUI-Hide-Keyboard-a58fff2258e642b28cdc7b167e040006)
 
+# Hack 
+
+[find url scheme of ios App](https://stackoverflow.com/questions/56363894/how-to-get-the-uri-scheme-of-any-app-for-applinks-universal-linking)
+
+[how to find bundle identifier](https://mrvirk.com/how-to-find-app-bundle-id-ios.html)
+
+# Motion
+
+[Get Motion Data ](https://www.notion.so/Get-Motion-Data-2ff5401cb5c04bfb9e91ad68252a5474)
+
+# HealthKit
+
+[Swift HealthKit get heart rate](https://www.notion.so/Swift-HealthKit-get-heart-rate-002966d828934cf4aeb5badaa13db952)
+
+[heartrate](https://stackoverflow.com/questions/35039742/ios-get-heart-rate-from-apple-watch-in-near-real-time) 
+
+[heartrate from watch to app](https://stackoverflow.com/questions/53780808/how-to-get-heart-rate-data-near-by-real-time-from-health-kit-in-ios)
+
+[heartrate from watch to app](https://stackoverflow.com/questions/53780808/how-to-get-heart-rate-data-near-by-real-time-from-health-kit-in-ios)
+
 # Watch
+
+[WatchKit - About Notification Scene](https://www.notion.so/WatchKit-About-Notification-Scene-41f6e9ab42c34ac3a2c54b7a31f5b279)
+
+[Apple Watch - 심박수](https://www.notion.so/Apple-Watch-2ec895ec327c4d6da37dba38be44ca29)
+
+[What is complication?](https://developer.apple.com/documentation/clockkit/creating_complications_for_your_watchos_app)
+
+[difference between watchkit and watch extension](https://stackoverflow.com/questions/52687924/ios-watchos-what-is-the-difference-between-watchkit-app-and-watchkit-app-exten)
+
+[iphone - applewatch, how to build workout app](https://medium.com/@gorillalogic/apple-watch-healthkit-developer-tutorial-how-to-build-a-workout-app-de156733dd6a)
+
+[https://developer.apple.com/documentation/watchconnectivity/wcsession](https://developer.apple.com/documentation/watchconnectivity/wcsession)
+
+[https://developer.apple.com/documentation/watchconnectivity/wcsessiondelegate](https://developer.apple.com/documentation/watchconnectivity/wcsessiondelegate)
+
+[Watch & Phone Communication Basic](https://www.notion.so/Watch-Phone-Communication-Basic-b9e111a9bf4e451da0f607af875bedfe)
 
 [Apple Watch API REF](https://www.notion.so/Apple-Watch-API-REF-282c173429f04ed3aa34e32bfbd92d58)
 
