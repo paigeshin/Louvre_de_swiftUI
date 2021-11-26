@@ -2,7 +2,7 @@
 
 # Knowledge acquired by building Dr.Dozy
 
-[SwiftUI Route Components](https://www.notion.so/SwiftUI-Route-Components-9f2e3390b6b346af80e5ce2e10eac136)
+[SwiftUI Route Components](https://www.notion.so/SwiftUI-Route-Components-9f2e3390b6b346af80e5ce2e10eac136)b
 
 [Inherited Observable Objects](https://www.notion.so/Inherited-Observable-Objects-e40e50c018584d0a91b2161476196aa0)
 
@@ -490,6 +490,8 @@
 [Swift Locale Date String](https://www.notion.so/Swift-Locale-Date-String-5551333483294e289302ef68f352b0b2)
 
 # Reusable View  
+
+[Custom BarChart without library](https://www.notion.so/Custom-BarChart-without-library-f3ba230b3b90478c9ffce1505d6bfbb4)
 
 [multiple viewbuilder](https://stackoverflow.com/questions/60402841/swiftui-view-with-multiple-viewbuilder)
 
