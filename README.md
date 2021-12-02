@@ -2,6 +2,36 @@
 
 # Knowledge acquired by building Dr.Dozy
 
+[앱 출시 후 featured에 유리한 올라가는 기간](https://www.notion.so/featured-0e62a36cd33e4a9a8886318c15e7ec8e)
+
+[point free lectures](https://www.pointfree.co/) 
+
+[App Review](https://www.notion.so/App-Review-8386a400ec094487b60e4ba225453d60)
+
+[Color Hex Extension ](https://www.notion.so/Color-Hex-Extension-49c9c7def4d34f76bf56843a823d964c)
+
+[My Custombar chart for DRDOZY Updated Version](https://www.notion.so/My-Custombar-chart-for-DRDOZY-Updated-Version-2c7f30b0dbc444de9f094ab3fdd767d9)
+
+[alarmy trick](https://stackoverflow.com/questions/55546865/wake-up-application-in-background-using-audiosession-like-alarmy-ios-app)
+
+[My app is getting killed](https://www.notion.so/My-app-is-getting-killed-696b6539ce3a44bcaa9bb3eb36489518)
+
+[Crashlytics build script setting](https://www.notion.so/Crashlytics-build-script-setting-9fe352f25f454aacac041196dc7b1fc2)
+
+[SwiftUI animation only one time](https://www.notion.so/SwiftUI-animation-only-one-time-37db5be04de446c894c783495c96f664)
+
+[My Custom Line Chart for DR.Dozy](https://www.notion.so/My-Custom-Line-Chart-for-DR-Dozy-e9cf10d90a224fbb87ee56dce251981d)
+
+[My Custom Bar Chart  for DR.DOZY](https://www.notion.so/My-Custom-Bar-Chart-for-DR-DOZY-d7c3e7b532344a0e88d79a83bcf4d516)
+
+[SwiftUI LineGraph with bar ](https://www.notion.so/SwiftUI-LineGraph-with-bar-0ed83a0bd4a146eb913e069eb0f7b82f)
+
+[Card Shadow](https://www.notion.so/Card-Shadow-b64da6e92e5445d38e3a09a7dbd9f577)
+
+[Swift LineGraph](https://www.notion.so/Swift-LineGraph-38d60f18e399493d90f7e2e10c63b891)
+
+[Swift Find Empty Image Extension ](https://www.notion.so/Swift-Find-Empty-Image-Extension-98d644c504964859b0dccb6ff6834721)
+
 [SwiftUI Route Components](https://www.notion.so/SwiftUI-Route-Components-9f2e3390b6b346af80e5ce2e10eac136)b
 
 [Inherited Observable Objects](https://www.notion.so/Inherited-Observable-Objects-e40e50c018584d0a91b2161476196aa0)
@@ -463,6 +493,8 @@
 
 # Architecture
 
+[point free lectures](https://www.pointfree.co/) 
+
 [OOP vs POP](https://www.notion.so/OOP-vs-POP-8054b75f0c0c450898703147ff9eac71)
 
 [protocol tutorial](https://www.notion.so/protocol-tutorial-6039971ee5ea4201af81967305b501f8)
@@ -490,6 +522,16 @@
 [Swift Locale Date String](https://www.notion.so/Swift-Locale-Date-String-5551333483294e289302ef68f352b0b2)
 
 # Reusable View  
+
+[Swift LineGraph](https://www.notion.so/Swift-LineGraph-38d60f18e399493d90f7e2e10c63b891)
+
+[My Custom Line Chart for DR.Dozy](https://www.notion.so/My-Custom-Line-Chart-for-DR-Dozy-e9cf10d90a224fbb87ee56dce251981d)
+
+[My Custom Bar Chart  for DR.DOZY](https://www.notion.so/My-Custom-Bar-Chart-for-DR-DOZY-d7c3e7b532344a0e88d79a83bcf4d516)
+
+[SwiftUI LineGraph with bar ](https://www.notion.so/SwiftUI-LineGraph-with-bar-0ed83a0bd4a146eb913e069eb0f7b82f)
+
+[My Custombar chart for DRDOZY Updated Version](https://www.notion.so/My-Custombar-chart-for-DRDOZY-Updated-Version-2c7f30b0dbc444de9f094ab3fdd767d9)
 
 [Custom BarChart without library](https://www.notion.so/Custom-BarChart-without-library-f3ba230b3b90478c9ffce1505d6bfbb4)
 
@@ -605,7 +647,23 @@
 
 [CoreMotion Tutorial](https://www.notion.so/CoreMotion-Tutorial-afdd3207cfd44104ae48b9c89949df32)
 
+# Background
+
+[alarmy trick](https://stackoverflow.com/questions/55546865/wake-up-application-in-background-using-audiosession-like-alarmy-ios-app)
+
+[My app is getting killed](https://www.notion.so/My-app-is-getting-killed-696b6539ce3a44bcaa9bb3eb36489518)
+
+# Management 
+
+[Crashlytics build script setting](https://www.notion.so/Crashlytics-build-script-setting-9fe352f25f454aacac041196dc7b1fc2)
+
 # Extensions
+
+[Swift Find Empty Image Extension ](https://www.notion.so/Swift-Find-Empty-Image-Extension-98d644c504964859b0dccb6ff6834721)
+
+[My app is getting killed](https://www.notion.so/My-app-is-getting-killed-696b6539ce3a44bcaa9bb3eb36489518)
+
+[Color Hex Extension ](https://www.notion.so/Color-Hex-Extension-49c9c7def4d34f76bf56843a823d964c)
 
 [Extension, read view size](https://www.notion.so/Extension-read-view-size-991de794b03342b4ae36f68c9d7fbb33)
 
@@ -683,6 +741,8 @@ https://github.com/paigeshin/watch-phone-communication
 
 # Functionality 
 
+[App Review](https://www.notion.so/App-Review-8386a400ec094487b60e4ba225453d60)
+
 [Open other app](https://www.notion.so/Open-other-app-05e5d28b60514ebbae878f1317ee1871)
 
 [WebView](https://www.notion.so/WebView-eb773bee1c534e738481b68665cf8cc7)
@@ -748,6 +808,8 @@ https://github.com/paigeshin/watch-phone-communication
 
 # Animation
 
+[SwiftUI animation only one time](https://www.notion.so/SwiftUI-animation-only-one-time-37db5be04de446c894c783495c96f664)
+
 [Lottie Animation Background Handling](https://www.notion.so/Lottie-Animation-Background-Handling-dc07fbf9a0ed4dcfbaa7a163fb66bfb0)
 
 [My Long Press Fill Button](https://www.notion.so/My-Long-Press-Fill-Button-5c5c965f5a0747cf9b1049802079871b)
@@ -764,7 +826,13 @@ https://github.com/paigeshin/watch-phone-communication
 
 [Pulse Animation](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
 
+# Debug
+
+[Swift Find Empty Image Extension ](https://www.notion.so/Swift-Find-Empty-Image-Extension-98d644c504964859b0dccb6ff6834721)
+
 # Design Guide
+
+[Card Shadow](https://www.notion.so/Card-Shadow-b64da6e92e5445d38e3a09a7dbd9f577)
 
 [SwiftUI mask](https://www.notion.so/SwiftUI-mask-a6f51db142c7405e903147e2f9801a48)
 
