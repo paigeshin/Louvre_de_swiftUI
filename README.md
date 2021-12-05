@@ -2,6 +2,42 @@
 
 # Knowledge acquired by building Dr.Dozy
 
+[https://ios-development.tistory.com/731?category=899471](https://ios-development.tistory.com/731?category=899471)
+
+[https://ios-development.tistory.com/730?category=899471](https://ios-development.tistory.com/730?category=899471)
+
+[https://ios-development.tistory.com/732?category=899471](https://ios-development.tistory.com/732?category=899471)
+
+[https://ios-development.tistory.com/733?category=899471](https://ios-development.tistory.com/733?category=899471)
+
+[Alamofire Event Logger](https://www.notion.so/Alamofire-Event-Logger-32b284926e164eabb0b47341e5003d10)
+
+[Authenticator Interceptor](https://www.notion.so/Authenticator-Interceptor-f6e159a15f6e42a8bb3a4f674918c50b)
+
+[Alamofire interceptor](https://www.notion.so/Alamofire-interceptor-b55392351d884b2fbef7197590585f24)
+
+[Alamofire abstraction layer without moya](https://www.notion.so/Alamofire-abstraction-layer-without-moya-ca6a717cfb644c7a958a7564095b2096)
+
+[Alamofire Interceptor](https://www.youtube.com/watch?v=l6kRGTvgLKA)
+
+[Result Type mostly for networking](https://www.youtube.com/watch?v=8aPjqLqUEKA)
+
+[Sandbox Users for inapp test](https://appstoreconnect.apple.com/access/testers)
+
+[get minutes between dates ](https://www.notion.so/get-minutes-between-dates-f0f4b372a67a41f58dad39a85cacd21a)
+
+[swift Sleep Data](https://benoitpasquier.com/sleep-healthkit/)
+
+[ios background task](https://swiftuirecipes.com/blog/networking-with-background-tasks-in-ios-13)
+
+[Moya Multipart](https://stackoverflow.com/questions/49568660/how-to-upload-image-using-multipart-request-with-moya-swift/50089462)
+
+[https://stackoverflow.com/questions/62824472/swiftui-is-it-ok-to-put-an-observableobject-inside-another-observableobject](https://stackoverflow.com/questions/62824472/swiftui-is-it-ok-to-put-an-observableobject-inside-another-observableobject)
+
+[network connectivity](https://www.youtube.com/watch?v=WjJBRhPiM_I)
+
+[Network Monitor](https://www.notion.so/Network-Monitor-28425a181e174d7db1a8a82c4fe3ab6c)
+
 [앱 출시 후 featured에 유리한 올라가는 기간](https://www.notion.so/featured-0e62a36cd33e4a9a8886318c15e7ec8e)
 
 [point free lectures](https://www.pointfree.co/) 
@@ -411,6 +447,8 @@
 
 [InApp](https://github.com/paigeshin/SwiftUI-INAPP)
 
+[Sandbox Users for inapp test](https://appstoreconnect.apple.com/access/testers)
+
 # Modifier 
 
 [SwiftUI optional view modifier](https://www.notion.so/SwiftUI-optional-view-modifier-cabdab4c6a56467ca4b0381b1b14686e)
@@ -426,6 +464,12 @@
 [SwiftUI mask](https://www.notion.so/SwiftUI-mask-a6f51db142c7405e903147e2f9801a48)
 
 # System
+
+[network connectivity](https://www.youtube.com/watch?v=WjJBRhPiM_I)
+
+[Network Monitor](https://www.notion.so/Network-Monitor-28425a181e174d7db1a8a82c4fe3ab6c)
+
+[ios background task](https://swiftuirecipes.com/blog/networking-with-background-tasks-in-ios-13)
 
 [Advanced Directory Structure](https://www.notion.so/Advanced-Directory-Structure-5817f7b2ba9742e3b2e90a30f5b40c4e)
 
@@ -481,6 +525,8 @@
 
 # Enum
 
+[Result Type mostly for networking](https://www.youtube.com/watch?v=8aPjqLqUEKA)
+
 [Enum with protocol](https://www.notion.so/Enum-with-protocol-2ecd87d669d0458fb54920fdea67cbe1)
 
 # Protocol
@@ -492,6 +538,8 @@
 [protocol tutorial](https://www.notion.so/protocol-tutorial-6039971ee5ea4201af81967305b501f8)
 
 # Architecture
+
+[https://stackoverflow.com/questions/62824472/swiftui-is-it-ok-to-put-an-observableobject-inside-another-observableobject](https://stackoverflow.com/questions/62824472/swiftui-is-it-ok-to-put-an-observableobject-inside-another-observableobject)
 
 [point free lectures](https://www.pointfree.co/) 
 
@@ -518,6 +566,8 @@
 [Swift Dependency Injection with protocol # 1 ](https://www.notion.so/Swift-Dependency-Injection-with-protocol-1-7cad8ca37f6142468ef8f25c77b462a0)
 
 # Date 
+
+[get minutes between dates ](https://www.notion.so/get-minutes-between-dates-f0f4b372a67a41f58dad39a85cacd21a)
 
 [Swift Locale Date String](https://www.notion.so/Swift-Locale-Date-String-5551333483294e289302ef68f352b0b2)
 
@@ -701,6 +751,8 @@
 
 # HealthKit
 
+[swift Sleep Data](https://benoitpasquier.com/sleep-healthkit/)
+
 [Swift HealthKit get heart rate](https://www.notion.so/Swift-HealthKit-get-heart-rate-002966d828934cf4aeb5badaa13db952)
 
 [heartrate](https://stackoverflow.com/questions/35039742/ios-get-heart-rate-from-apple-watch-in-near-real-time) 
@@ -749,8 +801,27 @@ https://github.com/paigeshin/watch-phone-communication
 
 [Load Image URL](https://www.notion.so/Load-Image-URL-d01e712b45ec460eaea5560a77ede8cc)
 
-
 # Library
+
+[Moya Multipart](https://stackoverflow.com/questions/49568660/how-to-upload-image-using-multipart-request-with-moya-swift/50089462)
+
+[https://ios-development.tistory.com/731?category=899471](https://ios-development.tistory.com/731?category=899471)
+
+[https://ios-development.tistory.com/730?category=899471](https://ios-development.tistory.com/730?category=899471)
+
+[https://ios-development.tistory.com/732?category=899471](https://ios-development.tistory.com/732?category=899471)
+
+[https://ios-development.tistory.com/733?category=899471](https://ios-development.tistory.com/733?category=899471)
+
+[Alamofire Event Logger](https://www.notion.so/Alamofire-Event-Logger-32b284926e164eabb0b47341e5003d10)
+
+[Authenticator Interceptor](https://www.notion.so/Authenticator-Interceptor-f6e159a15f6e42a8bb3a4f674918c50b)
+
+[Alamofire interceptor](https://www.notion.so/Alamofire-interceptor-b55392351d884b2fbef7197590585f24)
+
+[Alamofire abstraction layer without moya](https://www.notion.so/Alamofire-abstraction-layer-without-moya-ca6a717cfb644c7a958a7564095b2096)
+
+[Alamofire Interceptor](https://www.youtube.com/watch?v=l6kRGTvgLKA)
 
 [Lottie Animation Background Handling](https://www.notion.so/Lottie-Animation-Background-Handling-dc07fbf9a0ed4dcfbaa7a163fb66bfb0)
 
