@@ -445,6 +445,8 @@
 
 # InApp
 
+[In App Free Period](https://stackoverflow.com/questions/12297342/how-to-set-up-in-app-purchase-free-trial-period-in-ios-app)
+
 [InApp](https://github.com/paigeshin/SwiftUI-INAPP)
 
 [Sandbox Users for inapp test](https://appstoreconnect.apple.com/access/testers)
