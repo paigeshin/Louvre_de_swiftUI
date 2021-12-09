@@ -575,6 +575,8 @@
 
 # Reusable View  
 
+[Tinder Card on git](https://github.com/paigeshin/swiftui-tinder-like-ui)
+
 [Swift LineGraph](https://www.notion.so/Swift-LineGraph-38d60f18e399493d90f7e2e10c63b891)
 
 [My Custom Line Chart for DR.Dozy](https://www.notion.so/My-Custom-Line-Chart-for-DR-Dozy-e9cf10d90a224fbb87ee56dce251981d)
