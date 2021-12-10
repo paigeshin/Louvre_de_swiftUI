@@ -353,6 +353,10 @@
 
 [Font Article](https://opendoorlife.tistory.com/12) **super important**
 
+# Environment
+
+[Dismiss API](https://www.notion.so/Dismiss-API-fc32ed0f99fc45c1a7e9c1f09053eae1)
+
 # Template 
 
 [MVVM NO LIBRARY & NO STORYBOARD](https://github.com/paigeshin/MVVM_NO_LIBRARY)
@@ -476,6 +480,8 @@
 
 # Component
 
+[Workout Manager](https://www.notion.so/Workout-Manager-d83231b26ff8456eb6a7ccc8ec8baeda)
+
 [Fully hidden Reusable Bottom SheetView ](https://www.notion.so/Fully-hidden-Reusable-Bottom-SheetView-3a4a9f5fea2d466c8b122807a0196c0d)
 
 [Reusable Bottom Sheet View, one fourth shown ](https://www.notion.so/Reusable-Bottom-Sheet-View-one-fourth-shown-5a00301e9348493ea907705253c0904f)
@@ -494,6 +500,8 @@
 
 [Sandbox Users for inapp test](https://appstoreconnect.apple.com/access/testers)
 
+[InAppTest](https://help.apple.com/app-store-connect/#/dev7e89e149d)
+
 # Modifier 
 
 [SwiftUI optional view modifier](https://www.notion.so/SwiftUI-optional-view-modifier-cabdab4c6a56467ca4b0381b1b14686e)
@@ -509,6 +517,8 @@
 [SwiftUI mask](https://www.notion.so/SwiftUI-mask-a6f51db142c7405e903147e2f9801a48)
 
 # System
+
+[SwiftUI View Communication through Notification Center](https://www.notion.so/SwiftUI-View-Communication-through-Notification-Center-bb80198375564e9aaadd2e7408c33282)
 
 [network connectivity](https://www.youtube.com/watch?v=WjJBRhPiM_I)
 
@@ -570,6 +580,10 @@
 
 # Enum
 
+[Enum Grammar ](https://www.notion.so/Enum-Grammar-1d4770ddbdb645339e8fecbe867b83e7)
+
+[Mapping Enum values with name](https://www.notion.so/Mapping-Enum-values-with-name-4411511d8fb04e968fabaad79586af80)
+
 [Result Type mostly for networking](https://www.youtube.com/watch?v=8aPjqLqUEKA)
 
 [Enum with protocol](https://www.notion.so/Enum-with-protocol-2ecd87d669d0458fb54920fdea67cbe1)
@@ -612,11 +626,31 @@
 
 # Date 
 
+[Duration Formatter](https://www.notion.so/Duration-Formatter-fd35bb64da11455b9bd5df8bc262fd57)
+
 [get minutes between dates ](https://www.notion.so/get-minutes-between-dates-f0f4b372a67a41f58dad39a85cacd21a)
 
 [Swift Locale Date String](https://www.notion.so/Swift-Locale-Date-String-5551333483294e289302ef68f352b0b2)
 
+# Unit
+
+[Using Measurements ](https://www.notion.so/Using-Measurements-5510953ef3bb44df99dce0fe49e5faf6)
+
 # Reusable View  
+
+[NowPlayingView (for watch only)](https://www.notion.so/NowPlayingView-for-watch-only-7af726646c944ae192a4bef9aa2e16f8)
+
+[TimelineView](https://www.notion.so/TimelineView-1a87ee85a4b446469b7b56c854215416)
+
+[ElapsedTimeView](https://www.notion.so/ElapsedTimeView-0ada49e1660a482b8b8f84dbd4d26ad2)
+
+[List View in Watch](https://www.notion.so/List-View-in-Watch-580125f3e147425b8604abbcbec7270c)
+
+[Build Tab with enum](https://www.notion.so/Build-Tab-with-enum-ec8ad26bfba843f3888a9dd1a4c0f37d)
+
+[Activity Rings View](https://www.notion.so/Activity-Rings-View-72765caaf54b4a22ad67abf2dd6a1e21)
+
+[ProgressView](https://www.notion.so/ProgressView-05a1cb59b5a943fb937b37a1f27637d6)
 
 [Tinder Card on git](https://github.com/paigeshin/swiftui-tinder-like-ui)
 
@@ -917,6 +951,8 @@ https://github.com/paigeshin/watch-phone-communication
 [CallKit](https://bugguide.tistory.com/17)
 
 # Notification
+
+[SwiftUI View Communication through Notification Center](https://www.notion.so/SwiftUI-View-Communication-through-Notification-Center-bb80198375564e9aaadd2e7408c33282)
 
 [CallKit](https://bugguide.tistory.com/17)
 
