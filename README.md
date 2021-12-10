@@ -640,6 +640,8 @@
 
 # Reusable View  
 
+[SwiftUI View Communication through Notification Center](https://www.notion.so/SwiftUI-View-Communication-through-Notification-Center-bb80198375564e9aaadd2e7408c33282)
+
 [NowPlayingView (for watch only)](https://www.notion.so/NowPlayingView-for-watch-only-7af726646c944ae192a4bef9aa2e16f8)
 
 [TimelineView](https://www.notion.so/TimelineView-1a87ee85a4b446469b7b56c854215416)
