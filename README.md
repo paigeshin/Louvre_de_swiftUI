@@ -494,6 +494,8 @@
 
 # InApp
 
+[InAppTest](https://help.apple.com/app-store-connect/#/dev7e89e149d)
+
 [In App Free Period](https://stackoverflow.com/questions/12297342/how-to-set-up-in-app-purchase-free-trial-period-in-ios-app)
 
 [InApp](https://github.com/paigeshin/SwiftUI-INAPP)
