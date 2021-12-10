@@ -2,6 +2,41 @@
 
 # Knowledge acquired by building Dr.Dozy
 
+[Dismiss API](https://www.notion.so/Dismiss-API-fc32ed0f99fc45c1a7e9c1f09053eae1)
+
+[Mapping Enum values with name](https://www.notion.so/Mapping-Enum-values-with-name-4411511d8fb04e968fabaad79586af80)
+
+[Workout Manager](https://www.notion.so/Workout-Manager-d83231b26ff8456eb6a7ccc8ec8baeda)
+
+[Duration Formatter](https://www.notion.so/Duration-Formatter-fd35bb64da11455b9bd5df8bc262fd57)
+
+[Using Measurements ](https://www.notion.so/Using-Measurements-5510953ef3bb44df99dce0fe49e5faf6)
+
+[NowPlayingView (for watch only)](https://www.notion.so/NowPlayingView-for-watch-only-7af726646c944ae192a4bef9aa2e16f8)
+
+[TimelineView](https://www.notion.so/TimelineView-1a87ee85a4b446469b7b56c854215416)
+
+[ElapsedTimeView](https://www.notion.so/ElapsedTimeView-0ada49e1660a482b8b8f84dbd4d26ad2)
+
+[List View in Watch](https://www.notion.so/List-View-in-Watch-580125f3e147425b8604abbcbec7270c)
+
+[Build Tab with enum](https://www.notion.so/Build-Tab-with-enum-ec8ad26bfba843f3888a9dd1a4c0f37d)
+
+[Activity Rings View](https://www.notion.so/Activity-Rings-View-72765caaf54b4a22ad67abf2dd6a1e21)
+
+[ProgressView](https://www.notion.so/ProgressView-05a1cb59b5a943fb937b37a1f27637d6)
+
+[SwiftUI View Communication through Notification Center](https://www.notion.so/SwiftUI-View-Communication-through-Notification-Center-bb80198375564e9aaadd2e7408c33282)
+
+[Tinder-like UI](https://www.notion.so/Tinder-like-UI-1e9f7be67ce04613b3e6bdac3c269c8e)
+
+[Get Minutes Difference From Two Dates](https://www.notion.so/Get-Minutes-Difference-From-Two-Dates-a7a70fadcfd24b01978dfdf2904620b1)
+
+[InAppTest](https://help.apple.com/app-store-connect/#/dev7e89e149d)
+
+[Enum Grammar ](https://www.notion.so/Enum-Grammar-1d4770ddbdb645339e8fecbe867b83e7)
+
+
 - [x]  [Getting Started with Healthkit](https://developer.apple.com/videos/play/wwdc2020/10664/)
 - [x]  [What's new in HealthKit](https://developer.apple.com/videos/play/wwdc2020/10182/)
 - [x]  [Explore New Data Representations in Healthkit](https://developer.apple.com/videos/play/wwdc2019/218/)
