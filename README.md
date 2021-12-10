@@ -2,6 +2,49 @@
 
 # Knowledge acquired by building Dr.Dozy
 
+- [x]  [Getting Started with Healthkit](https://developer.apple.com/videos/play/wwdc2020/10664/)
+- [x]  [What's new in HealthKit](https://developer.apple.com/videos/play/wwdc2020/10182/)
+- [x]  [Explore New Data Representations in Healthkit](https://developer.apple.com/videos/play/wwdc2019/218/)
+- [x]  [Accessing Health Records](https://developer.apple.com/videos/play/wwdc2018/706/)
+- [x]  [Synchronize Health Records](https://developer.apple.com/videos/play/wwdc2020/10184/)
+- [x]  [Getting the Most out of  helathkit](https://www.youtube.com/watch?v=dVt0nZSLEkU)
+- [x]  [Measure health with motion](https://developer.apple.com/videos/play/wwdc2021/10287/)
+- [x]  [What's New in Health](https://developer.apple.com/videos/play/wwdc2017/221/)
+- [x]  [Beyound Counting Steps](https://developer.apple.com/videos/play/wwdc2020/10656/)
+- [x]  [Building great workout apps](https://www.youtube.com/watch?v=dbk85i91fFg)
+- [x]  [New Ways to Work with Workouts](https://developer.apple.com/videos/play/wwdc2018/707/)
+- [x]  [Build a workout app for Apple Watch](https://developer.apple.com/videos/play/wwdc2021/10009/)
+
+[Apple Health Queries](https://www.notion.so/Apple-Health-Queries-fcb8ab11b27c49bf9dc282be2def4570)
+
+[Getting Started with Healthkit](https://www.notion.so/Getting-Started-with-Healthkit-0cf4ac98c97149cf87703f2110238c1b)
+
+[What's new in Healthkit](https://www.notion.so/What-s-new-in-Healthkit-51af8516118e4eacb0a2fa51b079ed0b)
+
+[**Exploring New Data Representations in HealthKit**](https://www.notion.so/Exploring-New-Data-Representations-in-HealthKit-874332550b874b31bc549e2c7e39cf61)
+
+[Accessing Health Records with HealthKit](https://www.notion.so/Accessing-Health-Records-with-HealthKit-2ca7f2f25d5c47c49263872054b05e73)
+
+[**Synchronize health data with HealthKit**](https://www.notion.so/Synchronize-health-data-with-HealthKit-8c12ec652ecc4720b0fced0e2440081b)
+
+[Getting the most Out of HealthKit](https://www.notion.so/Getting-the-most-Out-of-HealthKit-1015755df6914602af33f1cfd4faad10)
+
+[Getting Health with Motion](https://www.notion.so/Getting-Health-with-Motion-2ce4f41e2cf542ccbdac33cb1b221c13)
+
+[What's New in Health](https://www.notion.so/What-s-New-in-Health-52c55105e81c41eaa7b1c551bd274948)
+
+[Beyond Counting Steps](https://www.notion.so/Beyond-Counting-Steps-0e4956a105614be8972f3f3249385c41)
+
+[Building Great workout Apps](https://www.notion.so/Building-Great-workout-Apps-1b9feab6f9654e90a1451b6ea9e47a6d)
+
+[New Ways to work with workouts](https://www.notion.so/New-Ways-to-work-with-workouts-fc2c2cdec8604fafb3c85f9f407ed10b)
+
+[SlothApp for workout session ](https://www.notion.so/SlothApp-for-workout-session-68d8b560ebb24903b8d2f1a1b12fe753)
+
+[Build a workout app for Apple Watch ](https://www.notion.so/Build-a-workout-app-for-Apple-Watch-f544b6a03dc64cb6a0732d396a5d264b)
+
+[https://github.com/paigeshin/WWDC_Watch_WorkoutApp](https://github.com/paigeshin/WWDC_Watch_WorkoutApp)
+
 [https://ios-development.tistory.com/731?category=899471](https://ios-development.tistory.com/731?category=899471)
 
 [https://ios-development.tistory.com/730?category=899471](https://ios-development.tistory.com/730?category=899471)
