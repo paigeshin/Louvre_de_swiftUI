@@ -400,6 +400,14 @@
 
 # Responsive Layout
 
+[https://github.com/paigeshin/SwiftUI-AdaptiveLayout](https://github.com/paigeshin/SwiftUI-AdaptiveLayout)
+
+[SwiftUI ScaleFactor Adaptive Layout](https://www.notion.so/SwiftUI-ScaleFactor-Adaptive-Layout-d043fbe6f93a4b7f87d8e60d170f947b)
+
+https://github.com/paigeshin/SwiftUI-AdaptiveLayout
+
+[iphone sizes](https://kka7.tistory.com/46)
+
 [SwiftUI get view size](https://www.notion.so/SwiftUI-get-view-size-f5deb6ce09cf4e3db8de204762fe0bde)
 
 [Swift Text, minimumScaleFactor](https://www.notion.so/Swift-Text-minimumScaleFactor-1fb8ce75ea584777bd9028fad2e82c33)
@@ -541,6 +549,18 @@
 
 # Modifier 
 
+[https://github.com/paigeshin/Swift-Image-Modifiers](https://github.com/paigeshin/Swift-Image-Modifiers)
+
+[Image Modifiers](https://www.notion.so/Image-Modifiers-9ddb59b943bc401a8441082de71965c6)
+
+[https://github.com/paigeshin/SwiftUI-TextField-modifiers](https://github.com/paigeshin/SwiftUI-TextField-modifiers)
+
+[TextField Modifiers](https://www.notion.so/TextField-Modifiers-a75688c052994d1b9fd7f07b5d1ff2f8)
+
+[https://github.com/paigeshin/SwiftUI-Text-Modifiers](https://github.com/paigeshin/SwiftUI-Text-Modifiers)
+
+[Text Modifiers](https://www.notion.so/Text-Modifiers-4293e22587d6481a9b9451b979da1738)
+
 [SwiftUI optional view modifier](https://www.notion.so/SwiftUI-optional-view-modifier-cabdab4c6a56467ca4b0381b1b14686e)
 
 [SwiftUI Keyboard Handling LayoutModifier](https://www.notion.so/SwiftUI-Keyboard-Handling-LayoutModifier-788707398c1c48a49aa8d51d03aa8f31)
@@ -554,6 +574,8 @@
 [SwiftUI mask](https://www.notion.so/SwiftUI-mask-a6f51db142c7405e903147e2f9801a48)
 
 # System
+
+[Dark theme control](https://www.notion.so/Dark-theme-control-b0853ea0780c4b988d1150492b26522d)
 
 [SwiftUI View Communication through Notification Center](https://www.notion.so/SwiftUI-View-Communication-through-Notification-Center-bb80198375564e9aaadd2e7408c33282)
 
@@ -633,6 +655,8 @@
 
 [protocol tutorial](https://www.notion.so/protocol-tutorial-6039971ee5ea4201af81967305b501f8)
 
+[Hashable in SwiftUI](https://www.notion.so/Hashable-in-SwiftUI-9e312f521d584e8a96bc711939c062f8)
+
 # Architecture
 
 [https://stackoverflow.com/questions/62824472/swiftui-is-it-ok-to-put-an-observableobject-inside-another-observableobject](https://stackoverflow.com/questions/62824472/swiftui-is-it-ok-to-put-an-observableobject-inside-another-observableobject)
@@ -674,6 +698,10 @@
 [Using Measurements ](https://www.notion.so/Using-Measurements-5510953ef3bb44df99dce0fe49e5faf6)
 
 # Reusable View  
+
+[https://github.com/paigeshin/SwiftUIAdvancedUI](https://github.com/paigeshin/SwiftUIAdvancedUI)
+
+[Advanced APP UI](https://www.notion.so/Advanced-APP-UI-b7e75ba7e4b64441a807656cb38db11d)
 
 [SwiftUI View Communication through Notification Center](https://www.notion.so/SwiftUI-View-Communication-through-Notification-Center-bb80198375564e9aaadd2e7408c33282)
 
@@ -818,6 +846,8 @@
 [CoreMotion Tutorial](https://www.notion.so/CoreMotion-Tutorial-afdd3207cfd44104ae48b9c89949df32)
 
 # Background
+
+[Timer from background](https://www.notion.so/Timer-from-background-741bf77ffc1e4f40a20d9746a82ab1b3)
 
 [alarmy trick](https://stackoverflow.com/questions/55546865/wake-up-application-in-background-using-audiosession-like-alarmy-ios-app)
 
@@ -1005,6 +1035,18 @@ https://github.com/paigeshin/watch-phone-communication
 
 # Animation
 
+[Breathing Flowers](https://www.notion.so/Breathing-Flowers-72c6e87d1bbb4f6180b255a92710f6f1)
+
+[HueRotation](https://www.notion.so/HueRotation-a4c77aa5eaf8416f943716509a0c600e)
+
+[SwiftUI Animation Audio Record](https://www.notion.so/SwiftUI-Animation-Audio-Record-fad546cf02da4a879c4f3fdad90d2f21)
+
+[SwiftUI Animation Circles Of Friends  ](https://www.notion.so/SwiftUI-Animation-Circles-Of-Friends-e2b399b17b7743878c4e903bed45a502)
+
+[swift repeat forever](https://www.notion.so/swift-repeat-forever-ebfb1704e4ce446493b6e3e987205383)
+
+[Swift Animation Example (Parallex) ](https://www.notion.so/Swift-Animation-Example-Parallex-0f4220e1eeea440cb8b3c168803d0188)
+
 [SwiftUI animation only one time](https://www.notion.so/SwiftUI-animation-only-one-time-37db5be04de446c894c783495c96f664)
 
 [Lottie Animation Background Handling](https://www.notion.so/Lottie-Animation-Background-Handling-dc07fbf9a0ed4dcfbaa7a163fb66bfb0)
@@ -1024,6 +1066,8 @@ https://github.com/paigeshin/watch-phone-communication
 [Pulse Animation](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
 
 # Debug
+
+[SwiftUI how to solve strange animation behavior with text](https://www.notion.so/SwiftUI-how-to-solve-strange-animation-behavior-with-text-e20662f231b14317920c632a3bf6bf61)
 
 [Swift Find Empty Image Extension ](https://www.notion.so/Swift-Find-Empty-Image-Extension-98d644c504964859b0dccb6ff6834721)
 
