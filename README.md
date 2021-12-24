@@ -400,6 +400,12 @@
 
 # Responsive Layout
 
+[https://www.swiftbysundell.com/articles/swiftui-layout-system-guide-part-1/](https://www.swiftbysundell.com/articles/swiftui-layout-system-guide-part-1/)
+
+[https://www.swiftbysundell.com/articles/swiftui-layout-system-guide-part-2/](https://www.swiftbysundell.com/articles/swiftui-layout-system-guide-part-2/) 
+
+[https://www.swiftbysundell.com/articles/swiftui-layout-system-guide-part-3/](https://www.swiftbysundell.com/articles/swiftui-layout-system-guide-part-3/)
+
 [https://github.com/paigeshin/SwiftUI-AdaptiveLayout](https://github.com/paigeshin/SwiftUI-AdaptiveLayout)
 
 [SwiftUI ScaleFactor Adaptive Layout](https://www.notion.so/SwiftUI-ScaleFactor-Adaptive-Layout-d043fbe6f93a4b7f87d8e60d170f947b)
