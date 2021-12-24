@@ -1035,6 +1035,64 @@ https://github.com/paigeshin/watch-phone-communication
 
 # Animation
 
+https://github.com/paigeshin/SwiftUI-Animations
+
+https://github.com/paigeshin/swiftui-animation-library
+
+https://www.youtube.com/watch?v=GhwTJPgkB2o
+
+https://github.com/paloamit/SwiftUI-Animations
+
+https://github.com/Inncoder/SwiftUI-Animations
+
+https://github.com/Arvindcs/SwiftUI-Animation
+
+https://github.com/paigeshin/SwiftUI
+
+https://github.com/Ramotion/swift-ui-animation-components-and-libraries
+
+https://github.com/KeatoonMask/SwiftUI-Animation
+
+https://github.com/topics/swiftui-animation
+
+[ExpandingView](https://www.notion.so/ExpandingView-66584f3a7b0848b59c7c1d2c89dd072c)
+
+[Light Switch](https://www.notion.so/Light-Switch-b37491a46d7e483489c3a3afbf2dd31c)
+
+[Linestroke animation](https://www.notion.so/Linestroke-animation-4025e2de7d6343f5a82667896260e9af)
+
+[Wave Animation](https://www.notion.so/Wave-Animation-d8f1b6092963485f9781e53de77f6df2)
+
+[Gear](https://www.notion.so/Gear-e72d72d5b63c4fee9898ecd81f72e248)
+
+[Weather Graph ](https://www.notion.so/Weather-Graph-00762b64790d4a009942e4d8b9361a2c)
+
+[Stars](https://www.notion.so/Stars-feb501eda9344352895906e50fcd8b43)
+
+[Swing Animations](https://www.notion.so/Swing-Animations-9c97f26bb8ad44b9ace3bff884f5b2f7)
+
+[Elevator](https://www.notion.so/Elevator-f8ea65bd00db4ab19015ee62aff120c5)
+
+[Preview Multiple Devices ](https://www.notion.so/Preview-Multiple-Devices-c54e946b218746d8b6474f2fab7fc7b4)
+
+[3D Rotate Parallax Effect](https://www.notion.so/3D-Rotate-Parallax-Effect-63c5897d2f5647fa98e044093f5e8f76)
+
+[Breathing Flowers](https://www.notion.so/Breathing-Flowers-72c6e87d1bbb4f6180b255a92710f6f1)
+
+[HueRotation](https://www.notion.so/HueRotation-a4c77aa5eaf8416f943716509a0c600e)
+
+[SwiftUI Animation Audio Record](https://www.notion.so/SwiftUI-Animation-Audio-Record-fad546cf02da4a879c4f3fdad90d2f21)
+
+[SwiftUI Animation Circles Of Friends  ](https://www.notion.so/SwiftUI-Animation-Circles-Of-Friends-e2b399b17b7743878c4e903bed45a502)
+
+[Make Custom Transition](https://www.notion.so/Make-Custom-Transition-9d2c7ab5e5924eb986c5a41e6d0ae3ee)
+
+[Automatic Scroll with hue animation](https://www.notion.so/Automatic-Scroll-with-hue-animation-1889fbfa78ca42b9b73bf4b779ed15f6)
+
+[Add SpriteKit to SwiftUI](https://www.notion.so/Add-SpriteKit-to-SwiftUI-0aa66b6533cd42938a968690fadfd234)
+
+[FlyingEagle](https://www.notion.so/FlyingEagle-9a0a12156fac4c63837b0a54cd558e31)
+
 [Breathing Flowers](https://www.notion.so/Breathing-Flowers-72c6e87d1bbb4f6180b255a92710f6f1)
 
 [HueRotation](https://www.notion.so/HueRotation-a4c77aa5eaf8416f943716509a0c600e)
