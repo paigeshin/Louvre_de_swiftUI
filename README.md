@@ -392,6 +392,12 @@
 
 [Dismiss API](https://www.notion.so/Dismiss-API-fc32ed0f99fc45c1a7e9c1f09053eae1)
 
+# Shape
+
+[Draw Triangle](https://www.notion.so/Draw-Triangle-10f6395e96d8466dbf4313be91f1778f)
+
+[Semi Circle](https://www.notion.so/Semi-Circle-6fbc9ab04af240f097f49405ee9ba4d8)
+
 # Template 
 
 [MVVM NO LIBRARY & NO STORYBOARD](https://github.com/paigeshin/MVVM_NO_LIBRARY)
@@ -463,6 +469,18 @@ https://github.com/paigeshin/SwiftUI-AdaptiveLayout
 
 # Navigation 
 
+[NavigationLink Unable to present 오류 해결하기](https://pilgwon.github.io/post/navigation-link-trouble-shooting)
+
+[Three ways to pop to view controller](https://link.medium.com/lodpEfpekmb)
+
+[SwiftUI Navigation without NavigationLink](https://link.medium.com/IsVZ5qyekmb)
+
+[https://iosexample.com/simple-and-elegant-implementation-of-the-coordinator-pattern-in-swiftui/amp/](https://iosexample.com/simple-and-elegant-implementation-of-the-coordinator-pattern-in-swiftui/amp/)
+
+[Coordinator Pattern in SwiftUI](https://quickbirdstudios.com/blog/coordinator-pattern-in-swiftui/)
+
+[Complete guide to NavigationView](https://www.hackingwithswift.com/articles/216/complete-guide-to-navigationview-in-swiftui)
+
 [SwiftUI when navigation bar doesn't disappear](https://www.notion.so/SwiftUI-when-navigation-bar-doesn-t-disappear-e1ad5447abeb496e82bb6f49827621d9)
 
 [pop to view controller with `isActive`](https://fwani.tistory.com/16)
@@ -478,6 +496,8 @@ https://github.com/paigeshin/SwiftUI-AdaptiveLayout
 [Recreate entitlements](https://www.notion.so/Recreate-entitlements-416b532f71ff4146a86b1595de82f4c2) 
 
 ### SwiftUI 3.0
+
+[What’s new in SwiftUI 3.0](https://medium.com/@expertappdevs/whats-new-in-swiftui-3-0-68632e67d66c?source=userActivityShare-e26f93196089-1640668053&_branch_match_id=957890926807233297&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1U9xLTDOcUp1yslNAgBYXbd7IwAAAA%3D%3D)
 
 [SwiftUI 3 Introduction](https://www.notion.so/SwiftUI-3-Introduction-823e825fecf1438d8835151ab1c8b5e7)
 
@@ -1041,6 +1061,14 @@ https://github.com/paigeshin/watch-phone-communication
 
 # Animation
 
+[Explicit Animation](https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-an-explicit-animation)
+
+[views and transitions, by apple](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
+
+[Basics of Swift Animations](https://medium.com/simform-engineering/basics-of-swift-ui-animations-d1aa2485a5d9)
+
+[Explicit Animation vs Implicit Animation](https://www.notion.so/Explicit-Animation-vs-Implicit-Animation-c1dac00ef57a48aaa7882aee6481097a)
+
 [Animation Properties](https://www.notion.so/Animation-Properties-e4469dd8a56c44af83cfd389dbe70f03)
 
 [withAnimation vs animation](https://www.youtube.com/watch?v=0WY-wrW2_bs)
@@ -1465,3 +1493,9 @@ https://github.com/topics/swiftui-animation
 [Build a workout app for Apple Watch ](https://www.notion.so/Build-a-workout-app-for-Apple-Watch-f544b6a03dc64cb6a0732d396a5d264b)
 
 [https://github.com/paigeshin/WWDC_Watch_WorkoutApp](https://github.com/paigeshin/WWDC_Watch_WorkoutApp)
+
+# UIKit
+
+[SwiftUI in UIKit](https://sarunw.com/posts/swiftui-in-uikit/)
+
+[SwiftUI with UIKit](https://medium.com/pepperfry-tech/swiftui-and-its-incorporation-in-uikit-project-63b1d031ed4d)
