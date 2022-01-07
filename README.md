@@ -1041,6 +1041,9 @@ https://github.com/paigeshin/watch-phone-communication
 
 # Animation
 
+[Animation Properties](https://www.notion.so/Animation-Properties-e4469dd8a56c44af83cfd389dbe70f03)
+
+[withAnimation vs animation](https://www.youtube.com/watch?v=0WY-wrW2_bs)
 https://github.com/paigeshin/SwiftUI-Animations
 
 https://github.com/paigeshin/swiftui-animation-library
