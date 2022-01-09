@@ -637,7 +637,9 @@ https://github.com/paigeshin/SwiftUI-AdaptiveLayout
 
 [In App Free Period](https://stackoverflow.com/questions/12297342/how-to-set-up-in-app-purchase-free-trial-period-in-ios-app)
 
+# Gestures
 
+https://github.com/paigeshin/SwiftUI-Zoom-Scale-Drawer-LongTapGesture-TapGesture-MagnificationGesture-DragGesture
 
 # Social Login 
 
