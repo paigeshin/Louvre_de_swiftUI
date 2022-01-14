@@ -503,6 +503,18 @@ https://github.com/paigeshin/SwiftUI-AdaptiveLayout
 
 [Async Image ](https://www.notion.so/Async-Image-2fcab8d0a7664a00b7ccf38f6b4b2583)
 
+# View Tricks
+
+[SwiftUI like framelayout, overlay with alignment](https://www.notion.so/SwiftUI-like-framelayout-overlay-with-alignment-97ac9754f58c438793f90d01411723a6)
+
+[SwiftUI, persist scroll position between tabs ](https://www.notion.so/SwiftUI-persist-scroll-position-between-tabs-77a187f55857423d8d61bd51b49ef3e2)
+
+[SF SYMBO RENDERING MODES](https://www.notion.so/SF-SYMBO-RENDERING-MODES-293de879751348b78687400137b9cd73)
+
+# Gesture 
+
+[SwiftUI, Zoom, Scale, Drawer, LongTapGesture, TapGesture, MagnificationGesture, DragGesture](https://www.notion.so/SwiftUI-Zoom-Scale-Drawer-LongTapGesture-TapGesture-MagnificationGesture-DragGesture-d24b564285174ef593473eda39cb9ea1)
+
 # Permission 
 
 [Swift Permission Manager](https://www.notion.so/Swift-Permission-Manager-83c2c5c289f348cf970f28e11ecebf54)
@@ -511,7 +523,13 @@ https://github.com/paigeshin/SwiftUI-AdaptiveLayout
 
 [Camera permission check, article ](https://www.notion.so/Camera-permission-check-article-d746114244fe45a3997a5f2c314802d2)
 
+# Rendering
+
+https://stackoverflow.com/questions/56506591/how-to-update-a-single-child-view-in-swiftui
+
 # Combine
+
+[https://betterprogramming.pub/how-to-convert-your-ios-network-layer-to-work-with-combine-or-async-await-869364313bd3](https://betterprogramming.pub/how-to-convert-your-ios-network-layer-to-work-with-combine-or-async-await-869364313bd3)
 
 [Combine Framework  Tutorial](https://www.notion.so/Combine-Framework-Tutorial-8dd1f85df2d34e4a9e3c3dbee4188044)
 
@@ -686,6 +704,12 @@ https://github.com/paigeshin/SwiftUI-Zoom-Scale-Drawer-LongTapGesture-TapGesture
 [Hashable in SwiftUI](https://www.notion.so/Hashable-in-SwiftUI-9e312f521d584e8a96bc711939c062f8)
 
 # Architecture
+
+[Dependency Injection in a modularized swiftuI App](https://betterprogramming.pub/dependencies-injection-in-a-modularized-swiftui-app-with-mvvm-e72ae6d898ef)
+
+[MVVM in SWIFTUI](https://mobikul.com/mvvm-in-swiftui/amp/)
+
+[Dependency Injection with Property Wrappers](https://medium.com/swlh/dependency-injection-in-swift-with-property-wrappers-c1f02f06cd51)
 
 [https://stackoverflow.com/questions/62824472/swiftui-is-it-ok-to-put-an-observableobject-inside-another-observableobject](https://stackoverflow.com/questions/62824472/swiftui-is-it-ok-to-put-an-observableobject-inside-another-observableobject)
 
@@ -1063,6 +1087,10 @@ https://github.com/paigeshin/watch-phone-communication
 
 # Animation
 
+[SwiftUI Text Animation Handling](https://www.notion.so/SwiftUI-Text-Animation-Handling-62f834977768441987b70636ae35baee)
+
+[Create Confetti Particle effects](https://link.medium.com/uJi36TRtNmb)
+
 [Explicit Animation](https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-an-explicit-animation)
 
 [views and transitions, by apple](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
@@ -1162,7 +1190,15 @@ https://github.com/topics/swiftui-animation
 
 [Pulse Animation](https://www.notion.so/Pulse-Animation-d66995f7a5de4ad6987afbbf64eda9b4)
 
+# App Properties
+
+[Proper Usage AppStroage](https://www.hackingwithswift.com/forums/swiftui/proper-implementation-for-atappstorage-with-mvvm-structure/8300)
+
+[Dependency Injection with Property Wrappers](https://medium.com/swlh/dependency-injection-in-swift-with-property-wrappers-c1f02f06cd51)
+
 # Debug
+
+**[SwiftUI NavigationLink pops out by itself](https://developer.apple.com/forums/thread/677333)**
 
 [SwiftUI how to solve strange animation behavior with text](https://www.notion.so/SwiftUI-how-to-solve-strange-animation-behavior-with-text-e20662f231b14317920c632a3bf6bf61)
 
