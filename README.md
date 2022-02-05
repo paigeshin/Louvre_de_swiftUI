@@ -659,6 +659,10 @@ https://stackoverflow.com/questions/56506591/how-to-update-a-single-child-view-i
 
 https://github.com/paigeshin/SwiftUI-Zoom-Scale-Drawer-LongTapGesture-TapGesture-MagnificationGesture-DragGesture
 
+# AVPlayer
+
+[Tutorial](https://seons-dev.tistory.com/10)
+
 # Social Login 
 
 [Kakao Login](https://coding-rengar.tistory.com/3)
@@ -672,6 +676,8 @@ https://github.com/paigeshin/SwiftUI-Zoom-Scale-Drawer-LongTapGesture-TapGesture
 [Apple Login ](https://www.notion.so/Apple-Login-4e589e0665df4a398b1421a669b6e8c0)
 
 # Geometry Reader
+
+[Tutorial](https://seons-dev.tistory.com/10)
 
 [Add Custom Alignment](https://www.notion.so/Add-Custom-Alignment-e371734c71b444ccba5ed48b3071785f)
 
@@ -704,6 +710,26 @@ https://github.com/paigeshin/SwiftUI-Zoom-Scale-Drawer-LongTapGesture-TapGesture
 [Hashable in SwiftUI](https://www.notion.so/Hashable-in-SwiftUI-9e312f521d584e8a96bc711939c062f8)
 
 # Architecture
+
+[SwiftUI Redux - git](https://github.com/paigeshin/SwiftUI-Redux-Approach)
+
+[SwiftUI Redux Approach Async](https://www.notion.so/SwiftUI-Redux-Approach-Async-f362a481fe3e4f81a29de57e23ae3ba8)
+
+[SwiftUI Async Redux Approach - git](https://www.notion.so/SwiftUI-Redux-Approach-Async-f362a481fe3e4f81a29de57e23ae3ba8)  
+
+[Redux Basic ](https://www.notion.so/Redux-Basic-b6e8ffde6078427bb858bce48a64e8ac)
+
+[Create Basic Architecture of Redux ](https://www.notion.so/Create-Basic-Architecture-of-Redux-a4dade0fc0454d36afbaeac6b27b8fce)
+
+[Basic Counter App ](https://www.notion.so/Basic-Counter-App-79c780e09195403ca775d2a881c5709c)
+
+[Redux Design Pattern ](https://www.notion.so/Redux-Design-Pattern-97ff8fc4a45b4272aba954be2d70eca1)
+
+[SwiftUI Redux Design App with CLLocationManager ](https://www.notion.so/SwiftUI-Redux-Design-App-with-CLLocationManager-f17a2cf816584ee49a3d9531bf0d81e3)
+
+[SwiftUI Redux Design App with CLLocationManager](https://github.com/paigeshin/SwiftUI_Reducer_Style_With_CLLocation/tree/master)
+
+[**NestedObervableObjects**](https://stackoverflow.com/questions/58406287/how-to-tell-swiftui-views-to-bind-to-nested-observableobjects)
 
 [Dependency Injection in a modularized swiftuI App](https://betterprogramming.pub/dependencies-injection-in-a-modularized-swiftui-app-with-mvvm-e72ae6d898ef)
 
@@ -750,6 +776,30 @@ https://github.com/paigeshin/SwiftUI-Zoom-Scale-Drawer-LongTapGesture-TapGesture
 [Using Measurements ](https://www.notion.so/Using-Measurements-5510953ef3bb44df99dce0fe49e5faf6)
 
 # Reusable View  
+
+[https://github.com/paigeshin/swiftui-shimmer-text-anim](https://github.com/paigeshin/swiftui-shimmer-text-anim)
+
+[https://github.com/paigeshin/swiftui-alphabetical-scroll-clickable](https://github.com/paigeshin/swiftui-alphabetical-scroll-clickable)
+
+Custom Font View ⇒ [https://gist.github.com/paigeshin/35bb41edf46fd687be36d45c62f279a0](https://gist.github.com/paigeshin/35bb41edf46fd687be36d45c62f279a0)
+
+[Card Style Image at the right](https://gist.github.com/paigeshin/d8729ec0da64883346a848ff5fc90c9f)
+
+[Geo Reader return View](https://gist.github.com/paigeshin/5c61c22d53151cea07d6e4182e2f56f7)
+
+[Center Image](https://gist.github.com/paigeshin/7d11df7019e8594929a9826a915619ea)
+
+[Splash Center Image with GEO](https://gist.github.com/paigeshin/7d11df7019e8594929a9826a915619ea)
+
+[Searchbar less than iOS 15](https://gist.github.com/paigeshin/938c24c05907dd30f5bca57d7bfcd325)
+
+[https://github.com/paigeshin/SwiftUI_Ultimate_Font_SearchView](https://github.com/paigeshin/SwiftUI_Ultimate_SearchView)
+
+[https://github.com/paigeshin/SwiftuI-Rating-Bar-](https://github.com/paigeshin/SwiftuI-Rating-Bar-)
+
+[https://github.com/paigeshin/UIHapticGeneratorDevApp](https://github.com/paigeshin/UIHapticGeneratorDevApp)
+
+[https://github.com/paigeshin/SwiftUI-Tob-Scollable-Tabbar](https://github.com/paigeshin/SwiftUI-Tob-Scollable-Tabbar)
 
 [https://github.com/paigeshin/SwiftUIAdvancedUI](https://github.com/paigeshin/SwiftUIAdvancedUI)
 
@@ -1087,6 +1137,8 @@ https://github.com/paigeshin/watch-phone-communication
 
 # Animation
 
+[https://github.com/paigeshin/swiftui-shimmer-text-anim](https://github.com/paigeshin/swiftui-shimmer-text-anim)
+
 [SwiftUI Text Animation Handling](https://www.notion.so/SwiftUI-Text-Animation-Handling-62f834977768441987b70636ae35baee)
 
 [Create Confetti Particle effects](https://link.medium.com/uJi36TRtNmb)
@@ -1197,6 +1249,10 @@ https://github.com/topics/swiftui-animation
 [Dependency Injection with Property Wrappers](https://medium.com/swlh/dependency-injection-in-swift-with-property-wrappers-c1f02f06cd51)
 
 # Debug
+
+# Fix Navigation Automatic Pop Bug
+
+[Search keyword for navigation automatically popped up](https://www.google.com/search?q=Navigation+Link+Popping+back&oq=Navigation+Link+Popping+back&aqs=chrome..69i57j33i160l2.9047j0j7&sourceid=chrome&ie=UTF-8)
 
 **[SwiftUI NavigationLink pops out by itself](https://developer.apple.com/forums/thread/677333)**
 
