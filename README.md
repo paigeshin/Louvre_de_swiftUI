@@ -466,6 +466,15 @@ https://github.com/paigeshin/SwiftUI-AdaptiveLayout
 
 [Geometry Reader, center element](https://www.notion.so/Geometry-Reader-center-element-8d25f1e4429f48548ec8f7d2bcc9cf82
 
+# Annotations
+
+[Add @Published behaviour for computed property](https://stackoverflow.com/questions/59036863/add-published-behaviour-for-computed-property)
+
+# Offline First 
+
+[https://www.bsgroup.eu/blog/6-key-considerations-make-offline-first-app/](https://www.bsgroup.eu/blog/6-key-considerations-make-offline-first-app/)
+
+[https://stackoverflow.com/questions/46441643/how-cloudkit-sync-with-multiple-devices](https://stackoverflow.com/questions/46441643/how-cloudkit-sync-with-multiple-devices)
 
 # Navigation 
 
